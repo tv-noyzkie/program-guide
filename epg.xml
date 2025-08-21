@@ -8,6 +8,14 @@
     <display-name lang="en">ANC</display-name>
     <icon src="https://i.imgur.com/4R2CXoh.png"/>
   </channel>
+  <channel id="7864">
+    <display-name lang="en">Cinema One</display-name>
+    <icon src="https://i.imgur.com/y70JwoJ.png"/>
+  </channel>
+  <channel id="443285">
+    <display-name lang="en">Cinema Mo!</display-name>
+    <icon src="https://i.imgur.com/UOsv6wt.png"/>
+  </channel>
   <channel id="70612">
     <display-name lang="en">PTV</display-name>
     <icon src="https://i.imgur.com/XKsiME1.png"/>
@@ -31,6 +39,14 @@
   <channel id="427989">
     <display-name lang="en">Blast Movies</display-name>
     <icon src="https://i.imgur.com/rYPRj9a.png"/>
+  </channel>
+  <channel id="427992">
+    <display-name lang="en">Blast Sports</display-name>
+    <icon src="https://i.imgur.com/lIb8fTM.png"/>
+  </channel>
+  <channel id="157088">
+    <display-name lang="en">Celestial Movies Pinoy</display-name>
+    <icon src="https://i.imgur.com/EkmCzO1.png"/>
   </channel>
   <programme channel="7870" start="20250821000000 +0000" stop="20250821003000 +0000" display-name="Kapamilya Channel">
     <title lang="zh">The Flying House</title>
@@ -631,6 +647,71 @@
     <title lang="zh">The World Sailing Show</title>
     <desc/>
     <date>2025-08-23</date>
+  </programme>
+  <programme channel="7864" start="20250821010000 +0000" stop="20250821030000 +0000" display-name="Cinema One">
+    <title lang="zh">No Return No Exchange</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7864" start="20250821030000 +0000" stop="20250821050000 +0000" display-name="Cinema One">
+    <title lang="zh">Starzan II</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7864" start="20250821050000 +0000" stop="20250821070000 +0000" display-name="Cinema One">
+    <title lang="zh">Kay Tagal Kang Hinintay</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7864" start="20250821070000 +0000" stop="20250821090000 +0000" display-name="Cinema One">
+    <title lang="zh">Asboobs Asal Bobo</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7864" start="20250821090000 +0000" stop="20250821110000 +0000" display-name="Cinema One">
+    <title lang="zh">Crazy Beautiful You</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7864" start="20250821110000 +0000" stop="20250821130000 +0000" display-name="Cinema One">
+    <title lang="zh">Sigaw</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7864" start="20250821130000 +0000" stop="20250822000000 +0000" display-name="Cinema One">
+    <title lang="zh">Multo In The City</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="443285" start="20250821010000 +0000" stop="20250821030000 +0000" display-name="Cinema Mo!">
+    <title lang="zh">FAMILY TREE NIDA BLANCA</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="443285" start="20250821030000 +0000" stop="20250821050000 +0000" display-name="Cinema Mo!">
+    <title lang="zh">LOVERS DELIGHT JOEY MARQUEZ</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="443285" start="20250821050000 +0000" stop="20250821070000 +0000" display-name="Cinema Mo!">
+    <title lang="zh">MONTEMAYOR TULISANG DAGAT RUDY FERNANDEZ</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="443285" start="20250821070000 +0000" stop="20250821090000 +0000" display-name="Cinema Mo!">
+    <title lang="zh">KAMANDAG NG REHAS NA BAKAL PHILLIP SALVADOR</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="443285" start="20250821090000 +0000" stop="20250821110000 +0000" display-name="Cinema Mo!">
+    <title lang="zh">STOMACH IN, CHEST OUT EDDIE GARCIA</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="443285" start="20250821110000 +0000" stop="20250822000000 +0000" display-name="Cinema Mo!">
+    <title lang="zh">SHOTGUN BANJO ZOREN LEGASPI</title>
+    <desc/>
+    <date>2025-08-21</date>
   </programme>
   <programme channel="70612" start="20250821000000 +0000" stop="20250821010000 +0000" display-name="PTV">
     <title lang="zh">PTV Sports</title>
@@ -1891,5 +1972,160 @@
     <title lang="zh">Underworld: Evolution</title>
     <desc>Picking up directly from the previous movie, vampire warrior Selene and the half werewolf Michael hunt for clues to reveal the history of their races and the war between them.</desc>
     <date>2025-08-22</date>
+  </programme>
+  <programme channel="427992" start="20250821000000 +0000" stop="20250821033000 +0000" display-name="Blast Sports">
+    <title lang="zh">LPGA Tour</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427992" start="20250821033000 +0000" stop="20250821060000 +0000" display-name="Blast Sports">
+    <title lang="zh">WTA TOUR 2025</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427992" start="20250821060000 +0000" stop="20250821080000 +0000" display-name="Blast Sports">
+    <title lang="zh">ISUZU A-League</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427992" start="20250821080000 +0000" stop="20250821100000 +0000" display-name="Blast Sports">
+    <title lang="zh">EUROLEAGUE 2024-25</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427992" start="20250821100000 +0000" stop="20250821120000 +0000" display-name="Blast Sports">
+    <title lang="zh">SERIE A</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427992" start="20250821120000 +0000" stop="20250821133000 +0000" display-name="Blast Sports">
+    <title lang="zh">WWE NXT</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427992" start="20250821133000 +0000" stop="20250821160000 +0000" display-name="Blast Sports">
+    <title lang="zh">UFC</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427992" start="20250821160000 +0000" stop="20250821180000 +0000" display-name="Blast Sports">
+    <title lang="zh">ISUZU A-League</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427992" start="20250821180000 +0000" stop="20250821200000 +0000" display-name="Blast Sports">
+    <title lang="zh">EUROLEAGUE 2024-25</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427992" start="20250821200000 +0000" stop="20250821220000 +0000" display-name="Blast Sports">
+    <title lang="zh">SERIE A</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427992" start="20250821220000 +0000" stop="20250822000000 +0000" display-name="Blast Sports">
+    <title lang="zh">EDGE Sport</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427992" start="20250822000000 +0000" stop="20250822033000 +0000" display-name="Blast Sports">
+    <title lang="zh">LPGA Tour</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427992" start="20250822033000 +0000" stop="20250822060000 +0000" display-name="Blast Sports">
+    <title lang="zh">WTA TOUR 2025</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427992" start="20250822060000 +0000" stop="20250822080000 +0000" display-name="Blast Sports">
+    <title lang="zh">ISUZU A-League</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427992" start="20250822080000 +0000" stop="20250822100000 +0000" display-name="Blast Sports">
+    <title lang="zh">EUROLEAGUE 2024-25</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427992" start="20250822100000 +0000" stop="20250822123000 +0000" display-name="Blast Sports">
+    <title lang="zh">WWE RAW</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427992" start="20250822123000 +0000" stop="20250822160000 +0000" display-name="Blast Sports">
+    <title lang="zh">BKFC</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427992" start="20250822160000 +0000" stop="20250822180000 +0000" display-name="Blast Sports">
+    <title lang="zh">ISUZU A-League</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427992" start="20250822180000 +0000" stop="20250822200000 +0000" display-name="Blast Sports">
+    <title lang="zh">EUROLEAGUE 2024-25</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427992" start="20250822200000 +0000" stop="20250822220000 +0000" display-name="Blast Sports">
+    <title lang="zh">SERIE A</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427992" start="20250822220000 +0000" stop="20250823000000 +0000" display-name="Blast Sports">
+    <title lang="zh">EDGE Sport</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427992" start="20250823000000 +0000" stop="20250824000000 +0000" display-name="Blast Sports">
+    <title lang="zh">LPGA Tour</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="157088" start="20250821004500 +0000" stop="20250821022500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Confinement</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="157088" start="20250821022500 +0000" stop="20250821041500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Five Shaolin Masters</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="157088" start="20250821041500 +0000" stop="20250821061500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Angel with the Iron Fists</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="157088" start="20250821061500 +0000" stop="20250821074500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">The Medallion</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="157088" start="20250821074500 +0000" stop="20250821093000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">The Twelve Gold Medallions</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="157088" start="20250821093000 +0000" stop="20250821110000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Painted Face</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="157088" start="20250821110000 +0000" stop="20250821124000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Get in the Dark</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="157088" start="20250821124000 +0000" stop="20250821141500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">The Master</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="157088" start="20250821141500 +0000" stop="20250822000000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">My School Mate, The Barbarian</title>
+    <desc/>
+    <date>2025-08-21</date>
   </programme>
 </tv>
