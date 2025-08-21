@@ -1,50 +1,68 @@
-import requests
-import json
-import xml.etree.ElementTree as ET
-from xml.dom import minidom
+import json, re, requests
+from xml.dom.minidom import Document, parseString
 
-with open("channels.json", "r", encoding="utf-8") as f:
-    channels = json.load(f)
+def get_channel_id(ch):
+    """Extract channel_id from URL, fallback to sanitized channel name."""
+    url = ch.get("url", "")
+    match = re.search(r"channel_id=(\d+)", url)
+    if match:
+        return match.group(1)
 
-def merge_epg(channels, output_file):
-    print("Downloading and merging EPG sources...")
+    # fallback: sanitize name → lowercase, only keep letters/numbers/underscore
+    name = ch["name"].lower()
+    safe_id = re.sub(r"[^a-z0-9]+", "_", name).strip("_")
+    return safe_id
 
-    tv = ET.Element("tv")
+def merge_epg(channels_file, output_file):
+    with open(channels_file, "r", encoding="utf-8") as f:
+        channels = json.load(f)
 
-    # Add channel list first
+    doc = Document()
+    tv = doc.createElement("tv")
+    doc.appendChild(tv)
+
+    # --- Add <channel> list ---
     for ch in channels:
-        ch_elem = ET.SubElement(tv, "channel", id=ch["id"])
-        disp = ET.SubElement(ch_elem, "display-name", lang=ch.get("lang", "en"))
-        disp.text = ch["name"]
+        ch_id = get_channel_id(ch)
+        channel_el = doc.createElement("channel")
+        channel_el.setAttribute("id", ch_id)
 
-        logo_url = ch.get("logo", "")
-        ET.SubElement(ch_elem, "icon", src=logo_url)
+        # display-name
+        name_el = doc.createElement("display-name")
+        name_el.setAttribute("lang", "en")
+        name_el.appendChild(doc.createTextNode(ch["name"]))
+        channel_el.appendChild(name_el)
 
-    # Then add programme data
+        # icon
+        if ch.get("logo"):
+            icon_el = doc.createElement("icon")
+            icon_el.setAttribute("src", ch["logo"])
+            channel_el.appendChild(icon_el)
+
+        tv.appendChild(channel_el)
+
+    # --- Add <programme> list ---
     for ch in channels:
         try:
-            response = requests.get(ch["url"])
-            response.raise_for_status()
-            content = response.text
+            res = requests.get(ch["url"], timeout=15)
+            res.raise_for_status()
+            xml_text = res.text
 
-            if "<tv" in content and "</tv>" in content:
-                inner = content.split("<tv", 1)[1].split(">", 1)[1].rsplit("</tv>", 1)[0]
-                parsed = ET.fromstring(f"<tv>{inner}</tv>")
-                for prog in parsed.findall("programme"):
-                    tv.append(prog)
-            else:
-                print(f"⚠️ Skipping malformed XML from: {ch['url']}")
+            inner = xml_text.split("<tv", 1)[1].split(">", 1)[1].rsplit("</tv>", 1)[0]
+            programmes = inner.strip()
+
+            prog_doc = parseString("<tv>"+programmes+"</tv>")
+            for prog in prog_doc.getElementsByTagName("programme"):
+                tv.appendChild(prog.cloneNode(deep=True))
+
         except Exception as e:
-            print(f"❌ Error fetching {ch['url']}: {e}")
+            print(f"❌ Failed for {ch['name']}: {e}")
 
-    # Pretty print clean XML
-    xml_str = ET.tostring(tv, encoding="utf-8")
-    parsed_str = minidom.parseString(xml_str)
-    pretty_xml = parsed_str.toprettyxml(indent="  ", encoding="utf-8")
+    # Save pretty-printed XML
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write(doc.toprettyxml(indent="  ", encoding="utf-8").decode("utf-8"))
 
-    with open(output_file, "wb") as f:
-        f.write(pretty_xml)
+    print(f"✅ Merged EPG written to {output_file}")
 
-    print(f"✅ Merged EPG saved to: {output_file}")
-
-merge_epg(channels, "epg.xml")
+if __name__ == "__main__":
+    merge_epg("channels.json", "epg.xml")
