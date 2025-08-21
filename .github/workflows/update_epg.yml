@@ -33,3 +33,8 @@ jobs:
           git add epg.xml
           git diff --cached --quiet || git commit -m "Update epg.xml"
           git push
+
+      - name: Trigger Netlify Build
+        if: success()
+        run: |
+          curl -X POST -d '{}' ${{ secrets.NETLIFY_BUILD_HOOK }}
