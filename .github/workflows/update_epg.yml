@@ -3,8 +3,9 @@ name: Update EPG
 on:
   push:
     paths:
-      - "channels.json"     # run whenever channels.json changes
-      - ".github/workflows/update_epg.yml"
+      - "channels.json"     # only trigger when channels.json changes
+    paths-ignore:
+      - "epg.xml"           # ignore commits that only touch epg.xml
   schedule:
     - cron: "0 3 * * *"     # daily at 3 AM UTC
   workflow_dispatch:         # allow manual trigger
