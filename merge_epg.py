@@ -1,5 +1,5 @@
 import json, re, requests
-from xml.dom.minidom import Document, parseString
+import xml.etree.ElementTree as ET
 
 def get_channel_id(ch):
     """Extract channel_id from URL, fallback to sanitized channel name."""
@@ -17,29 +17,17 @@ def merge_epg(channels_file, output_file):
     with open(channels_file, "r", encoding="utf-8") as f:
         channels = json.load(f)
 
-    doc = Document()
-    tv = doc.createElement("tv")
-    doc.appendChild(tv)
+    tv = ET.Element("tv")
 
     # --- Add <channel> list ---
     for ch in channels:
         ch_id = get_channel_id(ch)
-        channel_el = doc.createElement("channel")
-        channel_el.setAttribute("id", ch_id)
+        channel_el = ET.SubElement(tv, "channel", id=ch_id)
 
-        # display-name
-        name_el = doc.createElement("display-name")
-        name_el.setAttribute("lang", "en")
-        name_el.appendChild(doc.createTextNode(ch["name"]))
-        channel_el.appendChild(name_el)
+        ET.SubElement(channel_el, "display-name", lang="en").text = ch["name"]
 
-        # icon
         if ch.get("logo"):
-            icon_el = doc.createElement("icon")
-            icon_el.setAttribute("src", ch["logo"])
-            channel_el.appendChild(icon_el)
-
-        tv.appendChild(channel_el)
+            ET.SubElement(channel_el, "icon", src=ch["logo"])
 
     # --- Add <programme> list ---
     for ch in channels:
@@ -48,19 +36,24 @@ def merge_epg(channels_file, output_file):
             res.raise_for_status()
             xml_text = res.text
 
+            # Extract only the <programme> contents
             inner = xml_text.split("<tv", 1)[1].split(">", 1)[1].rsplit("</tv>", 1)[0]
-            programmes = inner.strip()
+            prog_root = ET.fromstring("<tv>" + inner + "</tv>")
 
-            prog_doc = parseString("<tv>"+programmes+"</tv>")
-            for prog in prog_doc.getElementsByTagName("programme"):
-                tv.appendChild(prog.cloneNode(deep=True))
+            for prog in prog_root.findall("programme"):
+                tv.append(prog)
 
         except Exception as e:
             print(f"❌ Failed for {ch['name']}: {e}")
 
-    # Save pretty-printed XML
+    # --- Pretty-print XML ---
+    rough_string = ET.tostring(tv, encoding="utf-8")
+    import xml.dom.minidom
+    pretty_xml = xml.dom.minidom.parseString(rough_string).toprettyxml(indent="  ")
+    pretty_xml = "\n".join([line for line in pretty_xml.splitlines() if line.strip()])
+
     with open(output_file, "w", encoding="utf-8") as f:
-        f.write(doc.toprettyxml(indent="  ", encoding="utf-8").decode("utf-8"))
+        f.write(pretty_xml)
 
     print(f"✅ Merged EPG written to {output_file}")
 
