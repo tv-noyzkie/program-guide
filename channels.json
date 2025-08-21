@@ -6,6 +6,18 @@
     "logo": "https://i.imgur.com/Dcys2TG.png" 
   },
   { 
+    "id": "70612",
+    "name": "PTV",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=70612",
+    "logo": "https://i.imgur.com/XKsiME1.png" 
+  },
+  { 
+    "id": "11984",
+    "name": "TV5",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=11984",
+    "logo": "https://i.imgur.com/Ufp278A.png" 
+  }
+  { 
     "id": "70615",
     "name": "GMA",             
     "url": "https://epg.pw/api/epg.xml?channel_id=70615",
@@ -18,9 +30,9 @@
     "logo": "https://i.imgur.com/mOmtU9T.png" 
   },
   { 
-    "id": "11984",
-    "name": "TV5",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=11984",
-    "logo": "https://i.imgur.com/Ufp278A.png" 
+    "id": "307748",
+    "name": "A2Z",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=307748",
+    "logo": "https://i.imgur.com/y0BqsiQ.png" 
   }
 ]
