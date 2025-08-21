@@ -6,6 +6,12 @@
     "logo": "https://i.imgur.com/Dcys2TG.png" 
   },
   { 
+    "id": "7846",
+    "name": "ANC",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=7846",
+    "logo": "https://i.imgur.com/4R2CXoh.png" 
+  },
+  { 
     "id": "70612",
     "name": "PTV",             
     "url": "https://epg.pw/api/epg.xml?channel_id=70612",
@@ -34,5 +40,11 @@
     "name": "A2Z",             
     "url": "https://epg.pw/api/epg.xml?channel_id=307748",
     "logo": "https://i.imgur.com/y0BqsiQ.png" 
+  },
+  { 
+    "id": "427989",
+    "name": "Blast Movies",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=427989",
+    "logo": "https://i.imgur.com/rYPRj9a.png" 
   }
 ]
