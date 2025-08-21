@@ -4,6 +4,10 @@
     <display-name lang="en">Kapamilya Channel</display-name>
     <icon src="https://i.imgur.com/Dcys2TG.png"/>
   </channel>
+  <channel id="7846">
+    <display-name lang="en">ANC</display-name>
+    <icon src="https://i.imgur.com/4R2CXoh.png"/>
+  </channel>
   <channel id="70612">
     <display-name lang="en">PTV</display-name>
     <icon src="https://i.imgur.com/XKsiME1.png"/>
@@ -23,6 +27,10 @@
   <channel id="307748">
     <display-name lang="en">A2Z</display-name>
     <icon src="https://i.imgur.com/y0BqsiQ.png"/>
+  </channel>
+  <channel id="427989">
+    <display-name lang="en">Blast Movies</display-name>
+    <icon src="https://i.imgur.com/rYPRj9a.png"/>
   </channel>
   <programme channel="7870" start="20250821000000 +0000" stop="20250821003000 +0000" display-name="Kapamilya Channel">
     <title lang="zh">The Flying House</title>
@@ -243,6 +251,386 @@
     <title lang="zh">Wansapanataym</title>
     <desc/>
     <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250821000000 +0000" stop="20250821010000 +0000" display-name="ANC">
+    <title lang="zh">Headstart with Karen Davila</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821010000 +0000" stop="20250821020000 +0000" display-name="ANC">
+    <title lang="zh">Market Edge</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821020000 +0000" stop="20250821023000 +0000" display-name="ANC">
+    <title lang="zh">#NoFilter</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821023000 +0000" stop="20250821030000 +0000" display-name="ANC">
+    <title lang="zh">Hot Copy on Headstart with Karen Davila</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821030000 +0000" stop="20250821033000 +0000" display-name="ANC">
+    <title lang="zh">Tomorrow Today</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821033000 +0000" stop="20250821040000 +0000" display-name="ANC">
+    <title lang="zh">Tao Po!</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821040000 +0000" stop="20250821050000 +0000" display-name="ANC">
+    <title lang="zh">Dateline Philippines</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821050000 +0000" stop="20250821053000 +0000" display-name="ANC">
+    <title lang="zh">On Cue</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821053000 +0000" stop="20250821060000 +0000" display-name="ANC">
+    <title lang="zh">Ride: Fei Originals</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821060000 +0000" stop="20250821063000 +0000" display-name="ANC">
+    <title lang="zh">Global 3000</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821063000 +0000" stop="20250821070000 +0000" display-name="ANC">
+    <title lang="zh">At The Moment</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821070000 +0000" stop="20250821080000 +0000" display-name="ANC">
+    <title lang="zh">Business Roadshow</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821080000 +0000" stop="20250821083000 +0000" display-name="ANC">
+    <title lang="zh">Executive Class</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821083000 +0000" stop="20250821090000 +0000" display-name="ANC">
+    <title lang="zh">Made in Germany</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821090000 +0000" stop="20250821100000 +0000" display-name="ANC">
+    <title lang="zh">Top Story</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821100000 +0000" stop="20250821103000 +0000" display-name="ANC">
+    <title lang="zh">Rev</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821103000 +0000" stop="20250821120000 +0000" display-name="ANC">
+    <title lang="zh">TV Patrol</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821120000 +0000" stop="20250821123000 +0000" display-name="ANC">
+    <title lang="zh">Business Outlook</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821123000 +0000" stop="20250821130000 +0000" display-name="ANC">
+    <title lang="zh">Dayaw</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821130000 +0000" stop="20250821133000 +0000" display-name="ANC">
+    <title lang="zh">The World Tonight</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821133000 +0000" stop="20250821140000 +0000" display-name="ANC">
+    <title lang="zh">Rev</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821140000 +0000" stop="20250821143000 +0000" display-name="ANC">
+    <title lang="zh">Arts.21</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821143000 +0000" stop="20250821150000 +0000" display-name="ANC">
+    <title lang="zh">My Puhunan Kaya Mo!</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821150000 +0000" stop="20250821153000 +0000" display-name="ANC">
+    <title lang="zh">Executive Class</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821153000 +0000" stop="20250821160000 +0000" display-name="ANC">
+    <title lang="zh">Asian Air Safari</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821160000 +0000" stop="20250821163000 +0000" display-name="ANC">
+    <title lang="zh">The World Tonight</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821163000 +0000" stop="20250821170000 +0000" display-name="ANC">
+    <title lang="zh">Women of Style</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821170000 +0000" stop="20250821180000 +0000" display-name="ANC">
+    <title lang="zh">Headstart with Karen Davila</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821180000 +0000" stop="20250821183000 +0000" display-name="ANC">
+    <title lang="zh">#NoFilter</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821183000 +0000" stop="20250821190000 +0000" display-name="ANC">
+    <title lang="zh">My Italy with Margarita</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821190000 +0000" stop="20250821193000 +0000" display-name="ANC">
+    <title lang="zh">At The Moment</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821193000 +0000" stop="20250821200000 +0000" display-name="ANC">
+    <title lang="zh">Casa Daza</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821200000 +0000" stop="20250821203000 +0000" display-name="ANC">
+    <title lang="zh">Dwellings</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821203000 +0000" stop="20250821210000 +0000" display-name="ANC">
+    <title lang="zh">Arts.21</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821210000 +0000" stop="20250821213000 +0000" display-name="ANC">
+    <title lang="zh">EIC on The Move</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821213000 +0000" stop="20250821220000 +0000" display-name="ANC">
+    <title lang="zh">Ride: Fei Originals</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821220000 +0000" stop="20250821230000 +0000" display-name="ANC">
+    <title lang="zh">Business Roadshow</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821230000 +0000" stop="20250821233000 +0000" display-name="ANC">
+    <title lang="zh">ANC Rundown</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250821233000 +0000" stop="20250822000000 +0000" display-name="ANC">
+    <title lang="zh">Business Outlook</title>
+    <desc/>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="7846" start="20250822000000 +0000" stop="20250822010000 +0000" display-name="ANC">
+    <title lang="zh">Headstart with Karen Davila</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822010000 +0000" stop="20250822020000 +0000" display-name="ANC">
+    <title lang="zh">Market Edge</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822020000 +0000" stop="20250822023000 +0000" display-name="ANC">
+    <title lang="zh">Local Legends</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822023000 +0000" stop="20250822030000 +0000" display-name="ANC">
+    <title lang="zh">Hot Copy on Headstart with Karen Davila</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822030000 +0000" stop="20250822033000 +0000" display-name="ANC">
+    <title lang="zh">Global Us</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822033000 +0000" stop="20250822040000 +0000" display-name="ANC">
+    <title lang="zh">Rev</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822040000 +0000" stop="20250822050000 +0000" display-name="ANC">
+    <title lang="zh">Dateline Philippines</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822050000 +0000" stop="20250822060000 +0000" display-name="ANC">
+    <title lang="zh">24x24</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822060000 +0000" stop="20250822063000 +0000" display-name="ANC">
+    <title lang="zh">In Good Shape</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822063000 +0000" stop="20250822070000 +0000" display-name="ANC">
+    <title lang="zh">Dayaw</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822070000 +0000" stop="20250822080000 +0000" display-name="ANC">
+    <title lang="zh">Business Roadshow</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822080000 +0000" stop="20250822083000 +0000" display-name="ANC">
+    <title lang="zh">Insight with April Lee-Tan</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822083000 +0000" stop="20250822090000 +0000" display-name="ANC">
+    <title lang="zh">Tomorrow Today</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822090000 +0000" stop="20250822100000 +0000" display-name="ANC">
+    <title lang="zh">Top Story</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822100000 +0000" stop="20250822103000 +0000" display-name="ANC">
+    <title lang="zh">LSS: The Martin Nievera Show</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822103000 +0000" stop="20250822120000 +0000" display-name="ANC">
+    <title lang="zh">TV Patrol</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822120000 +0000" stop="20250822123000 +0000" display-name="ANC">
+    <title lang="zh">Business Outlook</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822123000 +0000" stop="20250822130000 +0000" display-name="ANC">
+    <title lang="zh">At The Moment</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822130000 +0000" stop="20250822133000 +0000" display-name="ANC">
+    <title lang="zh">The World Tonight</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822133000 +0000" stop="20250822140000 +0000" display-name="ANC">
+    <title lang="zh">LSS: The Martin Nievera Show</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822140000 +0000" stop="20250822143000 +0000" display-name="ANC">
+    <title lang="zh">Made in Germany</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822143000 +0000" stop="20250822150000 +0000" display-name="ANC">
+    <title lang="zh">Rev</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822150000 +0000" stop="20250822160000 +0000" display-name="ANC">
+    <title lang="zh">Chasing Flavors</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822160000 +0000" stop="20250822163000 +0000" display-name="ANC">
+    <title lang="zh">The World Tonight</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822163000 +0000" stop="20250822170000 +0000" display-name="ANC">
+    <title lang="zh">Insight with April Lee-Tan</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822170000 +0000" stop="20250822180000 +0000" display-name="ANC">
+    <title lang="zh">Headstart with Karen Davila</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822180000 +0000" stop="20250822183000 +0000" display-name="ANC">
+    <title lang="zh">Local Legends</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822183000 +0000" stop="20250822190000 +0000" display-name="ANC">
+    <title lang="zh">On Cue</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822190000 +0000" stop="20250822193000 +0000" display-name="ANC">
+    <title lang="zh">EIC on The Move</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822193000 +0000" stop="20250822200000 +0000" display-name="ANC">
+    <title lang="zh">At The Moment</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822200000 +0000" stop="20250822210000 +0000" display-name="ANC">
+    <title lang="zh">Beached</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822210000 +0000" stop="20250822213000 +0000" display-name="ANC">
+    <title lang="zh">Women of Style</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822213000 +0000" stop="20250822220000 +0000" display-name="ANC">
+    <title lang="zh">Executive Class</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822220000 +0000" stop="20250822230000 +0000" display-name="ANC">
+    <title lang="zh">Business Roadshow</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822230000 +0000" stop="20250822233000 +0000" display-name="ANC">
+    <title lang="zh">ANC Rundown</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250822233000 +0000" stop="20250823000000 +0000" display-name="ANC">
+    <title lang="zh">Business Outlook</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7846" start="20250823000000 +0000" stop="20250824000000 +0000" display-name="ANC">
+    <title lang="zh">The World Sailing Show</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
   <programme channel="70612" start="20250821000000 +0000" stop="20250821010000 +0000" display-name="PTV">
     <title lang="zh">PTV Sports</title>
@@ -1373,5 +1761,135 @@
     <title lang="zh">Bubu and The Little Owl</title>
     <desc/>
     <date>2025-08-23</date>
+  </programme>
+  <programme channel="427989" start="20250821003400 +0000" stop="20250821023600 +0000" display-name="Blast Movies">
+    <title lang="zh">The Secret Scripture</title>
+    <desc>A woman keeps a diary of her extended stay at a mental hospital.</desc>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427989" start="20250821023600 +0000" stop="20250821043600 +0000" display-name="Blast Movies">
+    <title lang="zh">Hirokin</title>
+    <desc>A reluctant samurai with a dark past sets off on a mission to fulfill his destiny.</desc>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427989" start="20250821043600 +0000" stop="20250821063700 +0000" display-name="Blast Movies">
+    <title lang="zh">The Zero Theorem</title>
+    <desc>A hugely talented but socially isolated computer operator is tasked by Management to prove the Zero Theorem: that the universe ends as nothing, rendering life meaningless. But meaning is what he already craves.</desc>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427989" start="20250821063700 +0000" stop="20250821081900 +0000" display-name="Blast Movies">
+    <title lang="zh">Out for A Kill</title>
+    <desc>An unsuspecting university professor is an unwitting accomplice in a foiled Chinese cocaine deal. Wrongly imprisoned, he escapes to take his revenge and prove his innocence.</desc>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427989" start="20250821081900 +0000" stop="20250821095900 +0000" display-name="Blast Movies">
+    <title lang="zh">Cat.8: Night 1</title>
+    <desc>An untested global defence system triggers a swarm of devastating solar flares, resulting in catastrophic earthquakes and ferocious magnetic storms; an unprecedented CAT. 8 Armageddon. Can we stop the annihilation of the human race?</desc>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427989" start="20250821095900 +0000" stop="20250821113900 +0000" display-name="Blast Movies">
+    <title lang="zh">Cat.8: Night 2</title>
+    <desc>Much to the world's surprise, the sun releases a gigantic coronal mass ejection, as the elite task force of the dangerous secretary of defence is hot on Ranger and Whitlow's trail. They are mankind's last hope. Can they save us once more?</desc>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427989" start="20250821113900 +0000" stop="20250821132600 +0000" display-name="Blast Movies">
+    <title lang="zh">The Mechanic</title>
+    <desc>An elite hitman teaches his trade to an apprentice who has a connection to one of his previous victims.</desc>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427989" start="20250821132600 +0000" stop="20250821152400 +0000" display-name="Blast Movies">
+    <title lang="zh">Charlie Countryman</title>
+    <desc>While travelling abroad, a guy falls for a Romanian beauty whose unreachable heart has its origins in her violent, charismatic ex.</desc>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427989" start="20250821152400 +0000" stop="20250821171200 +0000" display-name="Blast Movies">
+    <title lang="zh">Generation Um...</title>
+    <desc>Three adults during a single day in New York City filled with sex, drugs, and indecision.</desc>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427989" start="20250821171200 +0000" stop="20250821185400 +0000" display-name="Blast Movies">
+    <title lang="zh">The Order</title>
+    <desc>A playboy criminal contacts his dad after stealing a Faberge egg. Later it seems his dad has gone missing in Israel so he heads there. His disappearance is linked to the religious sect: The Order. Lots of fight and chase scenes.</desc>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427989" start="20250821185400 +0000" stop="20250821204200 +0000" display-name="Blast Movies">
+    <title lang="zh">The Peacekeeper</title>
+    <desc>When a terrorist group steals the US President's personal communications computer for launching the US arsenal in case of war, only a heroic Major has the key to prevent a Presidential assassination or a nuclear holocaust.</desc>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427989" start="20250821204200 +0000" stop="20250821223000 +0000" display-name="Blast Movies">
+    <title lang="zh">The Philly Kid</title>
+    <desc>A former NCAA champion wrestler, paroled after ten years in prison, agrees to a series of cage fights to save a friend's life and is asked to do the impossible - lose.</desc>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427989" start="20250821223000 +0000" stop="20250822000000 +0000" display-name="Blast Movies">
+    <title lang="zh">1275 Days</title>
+    <desc>15-year-old Blake faces life in prison for felony murder after a botched home invasion. His single mom and girlfriend support his David vs. Goliath legal battle in Elkhart, Indiana, seeking a second chance.</desc>
+    <date>2025-08-21</date>
+  </programme>
+  <programme channel="427989" start="20250822000300 +0000" stop="20250822015300 +0000" display-name="Blast Movies">
+    <title lang="zh">Kill Craft</title>
+    <desc>Marina lives with her disabled mother and her hit man father. When he dies at work, she must take charge of the family business and take care of her mother. Marked to die, Marina must navigate the world of assassins to survive.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427989" start="20250822015300 +0000" stop="20250822041000 +0000" display-name="Blast Movies">
+    <title lang="zh">The Last Champion</title>
+    <desc>When his mother dies, scandal-ridden ex-Olympian John Wright returns to a hometown that has not forgiven him.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427989" start="20250822041000 +0000" stop="20250822055000 +0000" display-name="Blast Movies">
+    <title lang="zh">Notorious Nick</title>
+    <desc>Nick Newell, a one-armed MMA fighter, gets a rare chance to fight for the lightweight championship. He strives to win for himself and all the other people in the world with physical challenges.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427989" start="20250822055000 +0000" stop="20250822073700 +0000" display-name="Blast Movies">
+    <title lang="zh">Crank: High Voltage</title>
+    <desc>Chelios faces a Chinese mobster who has stolen his nearly indestructible heart and replaced it with a battery-powered ticker which requires regular jolts of electricity to keep working.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427989" start="20250822073700 +0000" stop="20250822093400 +0000" display-name="Blast Movies">
+    <title lang="zh">Men of War</title>
+    <desc>A former Special Ops soldier leads a group of mercenaries to an island in the South China Sea: their mission is obtain the rights to the unusual treasure that the island beholds.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427989" start="20250822093400 +0000" stop="20250822112400 +0000" display-name="Blast Movies">
+    <title lang="zh">Mercenary for Justice</title>
+    <desc>A mercenary gets involved in a mission that threatens the lives of his kin. In order to succeed, he must break into one of the most well guarded prisons in Eastern Europe and free the son of the most notorious drug lord in the world today.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427989" start="20250822112400 +0000" stop="20250822130300 +0000" display-name="Blast Movies">
+    <title lang="zh">Ninja</title>
+    <desc>A westerner named Casey, studying Ninjutsu in Japan, is asked by the Sensei to return to New York to protect the legendary Yoroi Bitsu, an armored chest that contains the weapons of the last Koga Ninja.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427989" start="20250822130300 +0000" stop="20250822150300 +0000" display-name="Blast Movies">
+    <title lang="zh">Replicant</title>
+    <desc>Scientists create a genetic clone of a serial killer in order to help catch the killer, teaming up with two cops.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427989" start="20250822150300 +0000" stop="20250822165600 +0000" display-name="Blast Movies">
+    <title lang="zh">The Legend Of Hercules</title>
+    <desc>The origin story of the mythical Greek hero. Betrayed by his stepfather, the King, and exiled and sold into slavery because of a forbidden love, Hercules must use his formidable powers to fight his way back to his rightful kingdom.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427989" start="20250822165600 +0000" stop="20250822183000 +0000" display-name="Blast Movies">
+    <title lang="zh">Red Riding Hood</title>
+    <desc>Set in a medieval village that is haunted by a werewolf, a young girl falls for an orphaned woodcutter, much to her family's displeasure.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427989" start="20250822183000 +0000" stop="20250822201400 +0000" display-name="Blast Movies">
+    <title lang="zh">Fast Charlie</title>
+    <desc>For twenty years, Charlie Swift has been a fixer and hitman for a mob boss named Stan. After a rival boss puts a hit on Stan and his crew, Charlie is the sole survivor. Charlie decides to avenge his friend.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427989" start="20250822201400 +0000" stop="20250822224200 +0000" display-name="Blast Movies">
+    <title lang="zh">Underworld</title>
+    <desc>Selene, a vampire warrior, is entrenched in a conflict between vampires and werewolves, while falling in love with Michael, a human who is sought by werewolves for unknown reasons.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="427989" start="20250822224200 +0000" stop="20250823000000 +0000" display-name="Blast Movies">
+    <title lang="zh">Underworld: Evolution</title>
+    <desc>Picking up directly from the previous movie, vampire warrior Selene and the half werewolf Michael hunt for clues to reveal the history of their races and the war between them.</desc>
+    <date>2025-08-22</date>
   </programme>
 </tv>
