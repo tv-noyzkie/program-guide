@@ -2,87 +2,49 @@ import requests
 import json
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
-import sys
 
-INPUT_JSON = "channels.json"
-OUTPUT_XML = "epg.xml"
+with open("channels.json", "r", encoding="utf-8") as f:
+    channels = json.load(f)
 
-def merge_epg(input_json, output_file):
-    print("📡 Downloading and merging EPG sources...")
+def merge_epg(channels, output_file):
+    print("Downloading and merging EPG sources...")
 
-    with open(input_json, "r", encoding="utf-8") as f:
-        channels = json.load(f)
+    tv = ET.Element("tv")
 
-    merged_root = ET.Element("tv")
-
-    seen_channels = set()
-    seen_programmes = set()
-
-    channel_elements = []
-    programme_elements = []
-
+    # Add channel list first
     for ch in channels:
-        name, url = ch["name"], ch["url"]
+        ch_elem = ET.SubElement(tv, "channel", id=ch["id"])
+        disp = ET.SubElement(ch_elem, "display-name", lang=ch.get("lang", "en"))
+        disp.text = ch["name"]
 
+        logo_url = ch.get("logo", "")
+        ET.SubElement(ch_elem, "icon", src=logo_url)
+
+    # Then add programme data
+    for ch in channels:
         try:
-            response = requests.get(url, timeout=15)
+            response = requests.get(ch["url"])
             response.raise_for_status()
-            response.encoding = "utf-8"
+            content = response.text
 
-            try:
-                root = ET.fromstring(response.text)
-            except ET.ParseError:
-                print(f"⚠️ Skipping malformed XML from: {url}")
-                continue
-
-            for elem in root:
-                if elem.tag == "channel":
-                    channel_id = elem.attrib.get("id")
-                    if channel_id not in seen_channels:
-                        # overwrite display-name
-                        display = elem.find("display-name")
-                        if display is not None:
-                            display.text = name
-                        else:
-                            ET.SubElement(elem, "display-name").text = name
-
-                        channel_elements.append(elem)
-                        seen_channels.add(channel_id)
-
-                elif elem.tag == "programme":
-                    prog_id = (elem.attrib.get("start"), elem.attrib.get("channel"))
-                    if prog_id not in seen_programmes:
-                        # tag programme with source channel name
-                        elem.set("source", name)
-                        programme_elements.append(elem)
-                        seen_programmes.add(prog_id)
-
+            if "<tv" in content and "</tv>" in content:
+                inner = content.split("<tv", 1)[1].split(">", 1)[1].rsplit("</tv>", 1)[0]
+                parsed = ET.fromstring(f"<tv>{inner}</tv>")
+                for prog in parsed.findall("programme"):
+                    tv.append(prog)
+            else:
+                print(f"⚠️ Skipping malformed XML from: {ch['url']}")
         except Exception as e:
-            print(f"❌ Error fetching {url}: {e}")
+            print(f"❌ Error fetching {ch['url']}: {e}")
 
-    # Append channels first, then programmes
-    for c in channel_elements:
-        merged_root.append(c)
-
-    for p in programme_elements:
-        merged_root.append(p)
-
-    # Pretty print XML
-    xml_bytes = ET.tostring(merged_root, encoding="utf-8")
-    pretty_xml = minidom.parseString(xml_bytes).toprettyxml(indent="  ", encoding="utf-8")
-
-    # Validate final XML
-    try:
-        ET.fromstring(pretty_xml.decode("utf-8"))
-    except ET.ParseError as e:
-        print(f"❌ Final merged EPG is invalid: {e}")
-        sys.exit(1)
+    # Pretty print clean XML
+    xml_str = ET.tostring(tv, encoding="utf-8")
+    parsed_str = minidom.parseString(xml_str)
+    pretty_xml = parsed_str.toprettyxml(indent="  ", encoding="utf-8")
 
     with open(output_file, "wb") as f:
         f.write(pretty_xml)
 
     print(f"✅ Merged EPG saved to: {output_file}")
 
-
-if __name__ == "__main__":
-    merge_epg(INPUT_JSON, OUTPUT_XML)
+merge_epg(channels, "epg.xml")
