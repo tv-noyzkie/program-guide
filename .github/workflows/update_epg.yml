@@ -1,5 +1,8 @@
 name: Update EPG
 
+permissions:
+  contents: write   # allow workflow to push commits
+
 on:
   push:
     paths:
@@ -7,6 +10,7 @@ on:
       - "merge_epg.py"
   schedule:
     - cron: "0 0 * * *"   # Run daily at midnight UTC
+  workflow_dispatch:       # Allow manual trigger from GitHub Actions UI
 
 jobs:
   build:
@@ -32,7 +36,7 @@ jobs:
           git config user.email "epg-bot@users.noreply.github.com"
           git add epg.xml
           git diff --cached --quiet || git commit -m "Update epg.xml"
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }} HEAD:main
 
       - name: Trigger Netlify Build
         if: success()
