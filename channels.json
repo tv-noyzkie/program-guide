@@ -3,24 +3,24 @@
     "id": "7870",
     "name": "Kapamilya Channel", 
     "url": "https://epg.pw/api/epg.xml?channel_id=7870",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/24/Kapamilya_Channel_logo.png" 
+    "logo": "https://i.imgur.com/Dcys2TG.png" 
   },
   { 
     "id": "70615",
     "name": "GMA",             
     "url": "https://epg.pw/api/epg.xml?channel_id=70615",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/58/GMA_Network_Logo.svg" 
+    "logo": "https://i.imgur.com/WqJTuv3.png" 
   },
   {
     "id": "70607",
     "name": "GTV",             
     "url": "https://epg.pw/api/epg.xml?channel_id=70607",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/91/GTV_Philippines_logo.png" 
+    "logo": "https://i.imgur.com/mOmtU9T.png" 
   },
   { 
     "id": "11984",
     "name": "TV5",             
     "url": "https://epg.pw/api/epg.xml?channel_id=11984",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/40/TV5_%28Philippines%29_logo.png" 
+    "logo": "https://i.imgur.com/Ufp278A.png" 
   }
 ]
