@@ -3,17 +3,14 @@ name: Update EPG
 on:
   push:
     paths:
-      - "channels.json"     # only run when this file changes
+      - "channels.json"
+      - "merge_epg.py"
   schedule:
-    - cron: "0 3 * * *"     # daily at 3 AM UTC
-  workflow_dispatch:         # allow manual trigger
+    - cron: "0 0 * * *"   # Run daily at midnight UTC
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write        # allow committing back to repo
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -24,18 +21,15 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install -r requirements.txt
 
       - name: Run merge script
         run: python merge_epg.py
 
-      - name: Commit and push changes
+      - name: Commit and push if epg.xml changed
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "epg-bot"
+          git config user.email "epg-bot@users.noreply.github.com"
           git add epg.xml
-          git commit -m "Auto-update EPG" || echo "No changes"
+          git diff --cached --quiet || git commit -m "Update epg.xml"
           git push
-
-      - name: Trigger Netlify Build
-        run: curl -X POST -d {} ${{ secrets.NETLIFY_BUILD_HOOK }}
