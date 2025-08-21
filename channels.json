@@ -16,7 +16,7 @@
     "name": "TV5",             
     "url": "https://epg.pw/api/epg.xml?channel_id=11984",
     "logo": "https://i.imgur.com/Ufp278A.png" 
-  }
+  },
   { 
     "id": "70615",
     "name": "GMA",             
