@@ -31,6 +31,7 @@ def merge_epg(channels_file, output_file):
 
     # --- Add <programme> list ---
     for ch in channels:
+        ch_id = get_channel_id(ch)
         try:
             res = requests.get(ch["url"], timeout=15)
             res.raise_for_status()
@@ -41,6 +42,9 @@ def merge_epg(channels_file, output_file):
             prog_root = ET.fromstring("<tv>" + inner + "</tv>")
 
             for prog in prog_root.findall("programme"):
+                # Replace channel attribute with ID and add display-name
+                prog.set("channel", ch_id)
+                prog.set("display-name", ch["name"])
                 tv.append(prog)
 
         except Exception as e:
