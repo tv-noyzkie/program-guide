@@ -12,6 +12,18 @@
     "logo": "https://i.imgur.com/4R2CXoh.png" 
   },
   { 
+    "id": "7864",
+    "name": "Cinema One",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=7864",
+    "logo": "https://i.imgur.com/y70JwoJ.png" 
+  },
+  { 
+    "id": "443285",
+    "name": "Cinema Mo!",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=443285",
+    "logo": "https://i.imgur.com/UOsv6wt.png" 
+  },
+  { 
     "id": "70612",
     "name": "PTV",             
     "url": "https://epg.pw/api/epg.xml?channel_id=70612",
@@ -46,5 +58,17 @@
     "name": "Blast Movies",             
     "url": "https://epg.pw/api/epg.xml?channel_id=427989",
     "logo": "https://i.imgur.com/rYPRj9a.png" 
+  },
+  { 
+    "id": "427992",
+    "name": "Blast Sports",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=427992",
+    "logo": "https://i.imgur.com/lIb8fTM.png" 
+  },
+  { 
+    "id": "157088",
+    "name": "Celestial Movies Pinoy",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=157088",
+    "logo": "https://i.imgur.com/EkmCzO1.png" 
   }
 ]
