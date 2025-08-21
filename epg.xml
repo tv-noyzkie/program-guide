@@ -1,54 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
   <channel id="7870">
-    
-    
-    <display-name lang="Philippines">Kapamilya Channel</display-name>
-    
-    
-    <icon src=""/>
-    
-  
+    <display-name lang="en">Kapamilya Channel</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/2/24/Kapamilya_Channel_logo.png"/>
   </channel>
-  
-  
   <channel id="70615">
-    
-    
-    <display-name lang="Philippines">GMA</display-name>
-    
-    
-    <icon src=""/>
-    
-  
+    <display-name lang="en">GMA</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/58/GMA_Network_Logo.svg"/>
   </channel>
-  
-  
   <channel id="70607">
-    
-    
-    <display-name lang="Philippines">GTV</display-name>
-    
-    
-    <icon src=""/>
-    
-  
+    <display-name lang="en">GTV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/9/91/GTV_Philippines_logo.png"/>
   </channel>
-  
-  
   <channel id="11984">
-    
-    
-    <display-name lang="Philippines">TV5</display-name>
-    
-    
-    <icon src=""/>
-    
-  
+    <display-name lang="en">TV5</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/4/40/TV5_%28Philippines%29_logo.png"/>
   </channel>
-  
-  
-  <programme channel="7870" start="20250821000000 +0000" stop="20250821003000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821000000 +0000" stop="20250821003000 +0000">
     
     
     <title lang="zh">The Flying House</title>
@@ -61,9 +29,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821003000 +0000" stop="20250821010000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821003000 +0000" stop="20250821010000 +0000">
     
     
     <title lang="zh">Superbook Reimagined</title>
@@ -76,9 +42,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821010000 +0000" stop="20250821020000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821010000 +0000" stop="20250821020000 +0000">
     
     
     <title lang="zh">Magandang Buhay</title>
@@ -91,9 +55,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821020000 +0000" stop="20250821040000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821020000 +0000" stop="20250821040000 +0000">
     
     
     <title lang="zh">Kapamilya Blockbusters</title>
@@ -106,9 +68,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821040000 +0000" stop="20250821063000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821040000 +0000" stop="20250821063000 +0000">
     
     
     <title lang="zh">It's Showtime</title>
@@ -121,9 +81,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821063000 +0000" stop="20250821071500 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821063000 +0000" stop="20250821071500 +0000">
     
     
     <title lang="zh">Linlang</title>
@@ -136,9 +94,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821071500 +0000" stop="20250821080000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821071500 +0000" stop="20250821080000 +0000">
     
     
     <title lang="zh">Pamilya Sagrado</title>
@@ -151,9 +107,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821080000 +0000" stop="20250821093000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821080000 +0000" stop="20250821093000 +0000">
     
     
     <title lang="zh">Kapamilya Gold Hits</title>
@@ -166,9 +120,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821093000 +0000" stop="20250821094500 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821093000 +0000" stop="20250821094500 +0000">
     
     
     <title lang="zh">TV Patrol Express</title>
@@ -181,9 +133,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821094500 +0000" stop="20250821103000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821094500 +0000" stop="20250821103000 +0000">
     
     
     <title lang="zh">Kapamilya Deal Or No Deal</title>
@@ -196,9 +146,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821103000 +0000" stop="20250821120000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821103000 +0000" stop="20250821120000 +0000">
     
     
     <title lang="zh">TV Patrol</title>
@@ -211,9 +159,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821120000 +0000" stop="20250821124500 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821120000 +0000" stop="20250821124500 +0000">
     
     
     <title lang="zh">FPJ's Batang Quiapo</title>
@@ -226,9 +172,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821124500 +0000" stop="20250821133000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821124500 +0000" stop="20250821133000 +0000">
     
     
     <title lang="zh">It's Okay To Not Be Okay</title>
@@ -241,9 +185,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821133000 +0000" stop="20250821141500 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821133000 +0000" stop="20250821141500 +0000">
     
     
     <title lang="zh">Sins Of The Father</title>
@@ -256,9 +198,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821141500 +0000" stop="20250821144500 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821141500 +0000" stop="20250821144500 +0000">
     
     
     <title lang="zh">Unchained Love</title>
@@ -271,9 +211,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821144500 +0000" stop="20250821151500 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821144500 +0000" stop="20250821151500 +0000">
     
     
     <title lang="zh">The World Tonight</title>
@@ -286,9 +224,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821151500 +0000" stop="20250821180000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821151500 +0000" stop="20250821180000 +0000">
     
     
     <title lang="zh">Movie Central Presents</title>
@@ -301,9 +237,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821180000 +0000" stop="20250821194500 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821180000 +0000" stop="20250821194500 +0000">
     
     
     <title lang="zh">Movie Central Presents</title>
@@ -316,9 +250,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821194500 +0000" stop="20250821213000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821194500 +0000" stop="20250821213000 +0000">
     
     
     <title lang="zh">Movie Central Presents</title>
@@ -331,9 +263,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821213000 +0000" stop="20250821220000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821213000 +0000" stop="20250821220000 +0000">
     
     
     <title lang="zh">Kapamilya Daily Mass</title>
@@ -346,9 +276,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821220000 +0000" stop="20250821230000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821220000 +0000" stop="20250821230000 +0000">
     
     
     <title lang="zh">School Anywhere sa Kapamilya Channel</title>
@@ -361,9 +289,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250821230000 +0000" stop="20250822000000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250821230000 +0000" stop="20250822000000 +0000">
     
     
     <title lang="zh">Marina</title>
@@ -376,9 +302,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822000000 +0000" stop="20250822003000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822000000 +0000" stop="20250822003000 +0000">
     
     
     <title lang="zh">The Flying House</title>
@@ -391,9 +315,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822003000 +0000" stop="20250822010000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822003000 +0000" stop="20250822010000 +0000">
     
     
     <title lang="zh">Superbook Reimagined</title>
@@ -406,9 +328,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822010000 +0000" stop="20250822020000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822010000 +0000" stop="20250822020000 +0000">
     
     
     <title lang="zh">Magandang Buhay</title>
@@ -421,9 +341,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822020000 +0000" stop="20250822040000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822020000 +0000" stop="20250822040000 +0000">
     
     
     <title lang="zh">Kapamilya Blockbusters</title>
@@ -436,9 +354,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822040000 +0000" stop="20250822063000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822040000 +0000" stop="20250822063000 +0000">
     
     
     <title lang="zh">It's Showtime</title>
@@ -451,9 +367,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822063000 +0000" stop="20250822071500 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822063000 +0000" stop="20250822071500 +0000">
     
     
     <title lang="zh">Linlang</title>
@@ -466,9 +380,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822071500 +0000" stop="20250822080000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822071500 +0000" stop="20250822080000 +0000">
     
     
     <title lang="zh">Pamilya Sagrado</title>
@@ -481,9 +393,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822080000 +0000" stop="20250822093000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822080000 +0000" stop="20250822093000 +0000">
     
     
     <title lang="zh">Kapamilya Gold Hits</title>
@@ -496,9 +406,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822093000 +0000" stop="20250822094500 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822093000 +0000" stop="20250822094500 +0000">
     
     
     <title lang="zh">TV Patrol Express</title>
@@ -511,9 +419,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822094500 +0000" stop="20250822103000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822094500 +0000" stop="20250822103000 +0000">
     
     
     <title lang="zh">Kapamilya Deal Or No Deal</title>
@@ -526,9 +432,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822103000 +0000" stop="20250822120000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822103000 +0000" stop="20250822120000 +0000">
     
     
     <title lang="zh">TV Patrol</title>
@@ -541,9 +445,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822120000 +0000" stop="20250822124500 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822120000 +0000" stop="20250822124500 +0000">
     
     
     <title lang="zh">FPJ's Batang Quiapo</title>
@@ -556,9 +458,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822124500 +0000" stop="20250822133000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822124500 +0000" stop="20250822133000 +0000">
     
     
     <title lang="zh">It's Okay To Not Be Okay</title>
@@ -571,9 +471,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822133000 +0000" stop="20250822141500 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822133000 +0000" stop="20250822141500 +0000">
     
     
     <title lang="zh">Sins Of The Father</title>
@@ -586,9 +484,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822141500 +0000" stop="20250822144500 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822141500 +0000" stop="20250822144500 +0000">
     
     
     <title lang="zh">Unchained Love</title>
@@ -601,9 +497,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822144500 +0000" stop="20250822151500 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822144500 +0000" stop="20250822151500 +0000">
     
     
     <title lang="zh">The World Tonight</title>
@@ -616,9 +510,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822151500 +0000" stop="20250822213000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822151500 +0000" stop="20250822213000 +0000">
     
     
     <title lang="zh">Movie Central Presents</title>
@@ -631,9 +523,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822213000 +0000" stop="20250822220000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822213000 +0000" stop="20250822220000 +0000">
     
     
     <title lang="zh">Kapamilya Daily Mass</title>
@@ -646,9 +536,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822220000 +0000" stop="20250822223000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822220000 +0000" stop="20250822223000 +0000">
     
     
     <title lang="zh">Bubu and The Little Owls</title>
@@ -661,9 +549,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822223000 +0000" stop="20250822230000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822223000 +0000" stop="20250822230000 +0000">
     
     
     <title lang="zh">Dinoman</title>
@@ -676,9 +562,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822230000 +0000" stop="20250822233000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822230000 +0000" stop="20250822233000 +0000">
     
     
     <title lang="zh">Team Yey</title>
@@ -691,9 +575,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="7870" start="20250822233000 +0000" stop="20250823000000 +0000" source="Kapamilya Channel">
+  <programme channel="7870" start="20250822233000 +0000" stop="20250823000000 +0000">
     
     
     <title lang="zh">Wansapanataym</title>
@@ -706,9 +588,7 @@
     
   
   </programme>
-  
-
-  <programme channel="70615" start="20250821000000 +0000" stop="20250821002500 +0000" source="GMA">
+  <programme channel="70615" start="20250821000000 +0000" stop="20250821002500 +0000">
     
     
     <title lang="zh">One Piece: Dress Rosa Arc</title>
@@ -721,9 +601,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821002500 +0000" stop="20250821010000 +0000" source="GMA">
+  <programme channel="70615" start="20250821002500 +0000" stop="20250821010000 +0000">
     
     
     <title lang="zh">Kamen Rider Revice</title>
@@ -736,9 +614,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821010000 +0000" stop="20250821013000 +0000" source="GMA">
+  <programme channel="70615" start="20250821010000 +0000" stop="20250821013000 +0000">
     
     
     <title lang="zh">Hidden Love</title>
@@ -751,9 +627,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821013000 +0000" stop="20250821030000 +0000" source="GMA">
+  <programme channel="70615" start="20250821013000 +0000" stop="20250821030000 +0000">
     
     
     <title lang="zh">Kapuso Movie Festival</title>
@@ -766,9 +640,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821030000 +0000" stop="20250821040000 +0000" source="GMA">
+  <programme channel="70615" start="20250821030000 +0000" stop="20250821040000 +0000">
     
     
     <title lang="zh">Tiktoclock</title>
@@ -781,9 +653,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821040000 +0000" stop="20250821063000 +0000" source="GMA">
+  <programme channel="70615" start="20250821040000 +0000" stop="20250821063000 +0000">
     
     
     <title lang="zh">It's Showtime</title>
@@ -796,9 +666,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821063000 +0000" stop="20250821072000 +0000" source="GMA">
+  <programme channel="70615" start="20250821063000 +0000" stop="20250821072000 +0000">
     
     
     <title lang="zh">My Father's Wife</title>
@@ -811,9 +679,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821072000 +0000" stop="20250821080500 +0000" source="GMA">
+  <programme channel="70615" start="20250821072000 +0000" stop="20250821080500 +0000">
     
     
     <title lang="zh">Cruz vs. Cruz</title>
@@ -826,9 +692,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821080500 +0000" stop="20250821084500 +0000" source="GMA">
+  <programme channel="70615" start="20250821080500 +0000" stop="20250821084500 +0000">
     
     
     <title lang="zh">Akusada</title>
@@ -841,9 +705,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821084500 +0000" stop="20250821091000 +0000" source="GMA">
+  <programme channel="70615" start="20250821084500 +0000" stop="20250821091000 +0000">
     
     
     <title lang="zh">Fast Talk with Boy Abunda</title>
@@ -856,9 +718,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821091000 +0000" stop="20250821094000 +0000" source="GMA">
+  <programme channel="70615" start="20250821091000 +0000" stop="20250821094000 +0000">
     
     
     <title lang="zh">The Lovely Runner</title>
@@ -871,9 +731,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821094000 +0000" stop="20250821103000 +0000" source="GMA">
+  <programme channel="70615" start="20250821094000 +0000" stop="20250821103000 +0000">
     
     
     <title lang="zh">Family Feud</title>
@@ -886,9 +744,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821103000 +0000" stop="20250821120000 +0000" source="GMA">
+  <programme channel="70615" start="20250821103000 +0000" stop="20250821120000 +0000">
     
     
     <title lang="zh">24 Oras</title>
@@ -901,9 +757,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821120000 +0000" stop="20250821125000 +0000" source="GMA">
+  <programme channel="70615" start="20250821120000 +0000" stop="20250821125000 +0000">
     
     
     <title lang="zh">Encantadia Chronicles: Sang'gre</title>
@@ -916,9 +770,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821125000 +0000" stop="20250821133500 +0000" source="GMA">
+  <programme channel="70615" start="20250821125000 +0000" stop="20250821133500 +0000">
     
     
     <title lang="zh">Sanggang - Dikit FR</title>
@@ -931,9 +783,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821133500 +0000" stop="20250821141000 +0000" source="GMA">
+  <programme channel="70615" start="20250821133500 +0000" stop="20250821141000 +0000">
     
     
     <title lang="zh">Beauty Empire</title>
@@ -946,9 +796,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821141000 +0000" stop="20250821150000 +0000" source="GMA">
+  <programme channel="70615" start="20250821141000 +0000" stop="20250821150000 +0000">
     
     
     <title lang="zh">Saksi</title>
@@ -961,9 +809,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821150000 +0000" stop="20250821153000 +0000" source="GMA">
+  <programme channel="70615" start="20250821150000 +0000" stop="20250821153000 +0000">
     
     
     <title lang="zh">Bossam: Steal The Fate</title>
@@ -976,9 +822,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821153000 +0000" stop="20250821213000 +0000" source="GMA">
+  <programme channel="70615" start="20250821153000 +0000" stop="20250821213000 +0000">
     
     
     <title lang="zh">Desirable Flowers</title>
@@ -991,9 +835,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250821213000 +0000" stop="20250822000000 +0000" source="GMA">
+  <programme channel="70615" start="20250821213000 +0000" stop="20250822000000 +0000">
     
     
     <title lang="zh">Unang Hirit</title>
@@ -1006,9 +848,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822000000 +0000" stop="20250822002500 +0000" source="GMA">
+  <programme channel="70615" start="20250822000000 +0000" stop="20250822002500 +0000">
     
     
     <title lang="zh">One Piece: Dress Rosa Arc</title>
@@ -1021,9 +861,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822002500 +0000" stop="20250822010000 +0000" source="GMA">
+  <programme channel="70615" start="20250822002500 +0000" stop="20250822010000 +0000">
     
     
     <title lang="zh">Kamen Rider Revice</title>
@@ -1036,9 +874,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822010000 +0000" stop="20250822013000 +0000" source="GMA">
+  <programme channel="70615" start="20250822010000 +0000" stop="20250822013000 +0000">
     
     
     <title lang="zh">Hidden Love</title>
@@ -1051,9 +887,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822013000 +0000" stop="20250822030000 +0000" source="GMA">
+  <programme channel="70615" start="20250822013000 +0000" stop="20250822030000 +0000">
     
     
     <title lang="zh">Kapuso Movie Festival</title>
@@ -1066,9 +900,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822030000 +0000" stop="20250822040000 +0000" source="GMA">
+  <programme channel="70615" start="20250822030000 +0000" stop="20250822040000 +0000">
     
     
     <title lang="zh">Tiktoclock</title>
@@ -1081,9 +913,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822040000 +0000" stop="20250822063000 +0000" source="GMA">
+  <programme channel="70615" start="20250822040000 +0000" stop="20250822063000 +0000">
     
     
     <title lang="zh">It's Showtime</title>
@@ -1096,9 +926,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822063000 +0000" stop="20250822072000 +0000" source="GMA">
+  <programme channel="70615" start="20250822063000 +0000" stop="20250822072000 +0000">
     
     
     <title lang="zh">My Father's Wife</title>
@@ -1111,9 +939,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822072000 +0000" stop="20250822080500 +0000" source="GMA">
+  <programme channel="70615" start="20250822072000 +0000" stop="20250822080500 +0000">
     
     
     <title lang="zh">Cruz vs. Cruz</title>
@@ -1126,9 +952,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822080500 +0000" stop="20250822084500 +0000" source="GMA">
+  <programme channel="70615" start="20250822080500 +0000" stop="20250822084500 +0000">
     
     
     <title lang="zh">Akusada</title>
@@ -1141,9 +965,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822084500 +0000" stop="20250822091000 +0000" source="GMA">
+  <programme channel="70615" start="20250822084500 +0000" stop="20250822091000 +0000">
     
     
     <title lang="zh">Fast Talk with Boy Abunda</title>
@@ -1156,9 +978,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822091000 +0000" stop="20250822094000 +0000" source="GMA">
+  <programme channel="70615" start="20250822091000 +0000" stop="20250822094000 +0000">
     
     
     <title lang="zh">The Lovely Runner</title>
@@ -1171,9 +991,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822094000 +0000" stop="20250822103000 +0000" source="GMA">
+  <programme channel="70615" start="20250822094000 +0000" stop="20250822103000 +0000">
     
     
     <title lang="zh">Family Feud</title>
@@ -1186,9 +1004,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822103000 +0000" stop="20250822120000 +0000" source="GMA">
+  <programme channel="70615" start="20250822103000 +0000" stop="20250822120000 +0000">
     
     
     <title lang="zh">24 Oras</title>
@@ -1201,9 +1017,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822120000 +0000" stop="20250822125000 +0000" source="GMA">
+  <programme channel="70615" start="20250822120000 +0000" stop="20250822125000 +0000">
     
     
     <title lang="zh">Encantadia Chronicles: Sang'gre</title>
@@ -1216,9 +1030,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822125000 +0000" stop="20250822133500 +0000" source="GMA">
+  <programme channel="70615" start="20250822125000 +0000" stop="20250822133500 +0000">
     
     
     <title lang="zh">Sanggang - Dikit FR</title>
@@ -1231,9 +1043,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822133500 +0000" stop="20250822142000 +0000" source="GMA">
+  <programme channel="70615" start="20250822133500 +0000" stop="20250822142000 +0000">
     
     
     <title lang="zh">Amazing Earth</title>
@@ -1246,9 +1056,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822142000 +0000" stop="20250822150000 +0000" source="GMA">
+  <programme channel="70615" start="20250822142000 +0000" stop="20250822150000 +0000">
     
     
     <title lang="zh">Saksi</title>
@@ -1261,9 +1069,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822150000 +0000" stop="20250822153000 +0000" source="GMA">
+  <programme channel="70615" start="20250822150000 +0000" stop="20250822153000 +0000">
     
     
     <title lang="zh">Bossam: Steal The Fate</title>
@@ -1276,9 +1082,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822153000 +0000" stop="20250822213000 +0000" source="GMA">
+  <programme channel="70615" start="20250822153000 +0000" stop="20250822213000 +0000">
     
     
     <title lang="zh">Desirable Flowers</title>
@@ -1291,9 +1095,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822213000 +0000" stop="20250822220000 +0000" source="GMA">
+  <programme channel="70615" start="20250822213000 +0000" stop="20250822220000 +0000">
     
     
     <title lang="zh">Kapwa Ko Mahal ko</title>
@@ -1306,9 +1108,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822220000 +0000" stop="20250822223000 +0000" source="GMA">
+  <programme channel="70615" start="20250822220000 +0000" stop="20250822223000 +0000">
     
     
     <title lang="zh">Agripreneur</title>
@@ -1321,9 +1121,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822223000 +0000" stop="20250822230000 +0000" source="GMA">
+  <programme channel="70615" start="20250822223000 +0000" stop="20250822230000 +0000">
     
     
     <title lang="zh">Pinoy M.D</title>
@@ -1336,9 +1134,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822230000 +0000" stop="20250822233000 +0000" source="GMA">
+  <programme channel="70615" start="20250822230000 +0000" stop="20250822233000 +0000">
     
     
     <title lang="zh">Turbo Zone</title>
@@ -1351,9 +1147,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250822233000 +0000" stop="20250823000000 +0000" source="GMA">
+  <programme channel="70615" start="20250822233000 +0000" stop="20250823000000 +0000">
     
     
     <title lang="zh">Power Rangers Beast Morphers</title>
@@ -1366,9 +1160,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70615" start="20250823000000 +0000" stop="20250824000000 +0000" source="GMA">
+  <programme channel="70615" start="20250823000000 +0000" stop="20250824000000 +0000">
     
     
     <title lang="zh">Detective Conan</title>
@@ -1381,9 +1173,7 @@
     
   
   </programme>
-  
-
-  <programme channel="70607" start="20250821000000 +0000" stop="20250821010000 +0000" source="GTV">
+  <programme channel="70607" start="20250821000000 +0000" stop="20250821010000 +0000">
     
     
     <title lang="zh">Saksi Sa Dobol B</title>
@@ -1396,9 +1186,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250821010000 +0000" stop="20250821030000 +0000" source="GTV">
+  <programme channel="70607" start="20250821010000 +0000" stop="20250821030000 +0000">
     
     
     <title lang="zh">Cinema G!</title>
@@ -1411,9 +1199,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250821030000 +0000" stop="20250821040000 +0000" source="GTV">
+  <programme channel="70607" start="20250821030000 +0000" stop="20250821040000 +0000">
     
     
     <title lang="zh">Balitanghali</title>
@@ -1426,9 +1212,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250821040000 +0000" stop="20250821063000 +0000" source="GTV">
+  <programme channel="70607" start="20250821040000 +0000" stop="20250821063000 +0000">
     
     
     <title lang="zh">Noontime Movie Hits</title>
@@ -1441,9 +1225,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250821063000 +0000" stop="20250821070000 +0000" source="GTV">
+  <programme channel="70607" start="20250821063000 +0000" stop="20250821070000 +0000">
     
     
     <title lang="zh">Hugo's Love</title>
@@ -1456,9 +1238,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250821070000 +0000" stop="20250821073000 +0000" source="GTV">
+  <programme channel="70607" start="20250821070000 +0000" stop="20250821073000 +0000">
     
     
     <title lang="zh">Romantic Deception</title>
@@ -1471,9 +1251,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250821073000 +0000" stop="20250821094500 +0000" source="GTV">
+  <programme channel="70607" start="20250821073000 +0000" stop="20250821094500 +0000">
     
     
     <title lang="zh">Afternoon Movie Break</title>
@@ -1486,9 +1264,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250821094500 +0000" stop="20250821103000 +0000" source="GTV">
+  <programme channel="70607" start="20250821094500 +0000" stop="20250821103000 +0000">
     
     
     <title lang="zh">Luv Is: Caught In His Arms</title>
@@ -1501,9 +1277,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250821103000 +0000" stop="20250821120500 +0000" source="GTV">
+  <programme channel="70607" start="20250821103000 +0000" stop="20250821120500 +0000">
     
     
     <title lang="zh">24 Oras</title>
@@ -1516,9 +1290,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250821120500 +0000" stop="20250821134500 +0000" source="GTV">
+  <programme channel="70607" start="20250821120500 +0000" stop="20250821134500 +0000">
     
     
     <title lang="zh">G! Flicks</title>
@@ -1531,9 +1303,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250821134500 +0000" stop="20250821143000 +0000" source="GTV">
+  <programme channel="70607" start="20250821134500 +0000" stop="20250821143000 +0000">
     
     
     <title lang="zh">Encantadia Chronicles: Sang'gre</title>
@@ -1546,9 +1316,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250821143000 +0000" stop="20250821150500 +0000" source="GTV">
+  <programme channel="70607" start="20250821143000 +0000" stop="20250821150500 +0000">
     
     
     <title lang="zh">Sanggang - Dikit FR</title>
@@ -1561,9 +1329,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250821150500 +0000" stop="20250821152500 +0000" source="GTV">
+  <programme channel="70607" start="20250821150500 +0000" stop="20250821152500 +0000">
     
     
     <title lang="zh">State Of The Nation</title>
@@ -1576,9 +1342,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250821152500 +0000" stop="20250821213000 +0000" source="GTV">
+  <programme channel="70607" start="20250821152500 +0000" stop="20250821213000 +0000">
     
     
     <title lang="zh">Beauty Empire</title>
@@ -1591,9 +1355,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250821213000 +0000" stop="20250821230000 +0000" source="GTV">
+  <programme channel="70607" start="20250821213000 +0000" stop="20250821230000 +0000">
     
     
     <title lang="zh">Melo Del Prado Sa Super Radyo</title>
@@ -1606,9 +1368,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250821230000 +0000" stop="20250822000000 +0000" source="GTV">
+  <programme channel="70607" start="20250821230000 +0000" stop="20250822000000 +0000">
     
     
     <title lang="zh">Super Balita Sa Umaga Nationwide</title>
@@ -1621,9 +1381,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250822000000 +0000" stop="20250822010000 +0000" source="GTV">
+  <programme channel="70607" start="20250822000000 +0000" stop="20250822010000 +0000">
     
     
     <title lang="zh">Saksi Sa Dobol B</title>
@@ -1636,9 +1394,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250822010000 +0000" stop="20250822030000 +0000" source="GTV">
+  <programme channel="70607" start="20250822010000 +0000" stop="20250822030000 +0000">
     
     
     <title lang="zh">Cinema G!</title>
@@ -1651,9 +1407,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250822030000 +0000" stop="20250822040000 +0000" source="GTV">
+  <programme channel="70607" start="20250822030000 +0000" stop="20250822040000 +0000">
     
     
     <title lang="zh">Balitanghali</title>
@@ -1666,9 +1420,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250822040000 +0000" stop="20250822063000 +0000" source="GTV">
+  <programme channel="70607" start="20250822040000 +0000" stop="20250822063000 +0000">
     
     
     <title lang="zh">Noontime Movie Hits</title>
@@ -1681,9 +1433,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250822063000 +0000" stop="20250822070000 +0000" source="GTV">
+  <programme channel="70607" start="20250822063000 +0000" stop="20250822070000 +0000">
     
     
     <title lang="zh">Hugo's Love</title>
@@ -1696,9 +1446,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250822070000 +0000" stop="20250822073000 +0000" source="GTV">
+  <programme channel="70607" start="20250822070000 +0000" stop="20250822073000 +0000">
     
     
     <title lang="zh">Romantic Deception</title>
@@ -1711,9 +1459,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250822073000 +0000" stop="20250822094500 +0000" source="GTV">
+  <programme channel="70607" start="20250822073000 +0000" stop="20250822094500 +0000">
     
     
     <title lang="zh">Afternoon Movie Break</title>
@@ -1726,9 +1472,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250822094500 +0000" stop="20250822103000 +0000" source="GTV">
+  <programme channel="70607" start="20250822094500 +0000" stop="20250822103000 +0000">
     
     
     <title lang="zh">Luv Is: Caught In His Arms</title>
@@ -1741,9 +1485,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250822103000 +0000" stop="20250822120500 +0000" source="GTV">
+  <programme channel="70607" start="20250822103000 +0000" stop="20250822120500 +0000">
     
     
     <title lang="zh">24 Oras</title>
@@ -1756,9 +1498,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250822120500 +0000" stop="20250822134500 +0000" source="GTV">
+  <programme channel="70607" start="20250822120500 +0000" stop="20250822134500 +0000">
     
     
     <title lang="zh">G! Flicks</title>
@@ -1771,9 +1511,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250822134500 +0000" stop="20250822143000 +0000" source="GTV">
+  <programme channel="70607" start="20250822134500 +0000" stop="20250822143000 +0000">
     
     
     <title lang="zh">Encantadia Chronicles: Sang'gre</title>
@@ -1786,9 +1524,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250822143000 +0000" stop="20250822150500 +0000" source="GTV">
+  <programme channel="70607" start="20250822143000 +0000" stop="20250822150500 +0000">
     
     
     <title lang="zh">Sanggang - Dikit FR</title>
@@ -1801,9 +1537,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250822150500 +0000" stop="20250822152500 +0000" source="GTV">
+  <programme channel="70607" start="20250822150500 +0000" stop="20250822152500 +0000">
     
     
     <title lang="zh">State Of The Nation</title>
@@ -1816,9 +1550,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250822152500 +0000" stop="20250822213000 +0000" source="GTV">
+  <programme channel="70607" start="20250822152500 +0000" stop="20250822213000 +0000">
     
     
     <title lang="zh">True Horror Stories</title>
@@ -1831,9 +1563,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="70607" start="20250822213000 +0000" stop="20250823000000 +0000" source="GTV">
+  <programme channel="70607" start="20250822213000 +0000" stop="20250823000000 +0000">
     
     
     <title lang="zh">Dobol B TV</title>
@@ -1846,9 +1576,7 @@
     
   
   </programme>
-  
-
-  <programme channel="11984" start="20250821000000 +0000" stop="20250821010000 +0000" source="TV5">
+  <programme channel="11984" start="20250821000000 +0000" stop="20250821010000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -1861,9 +1589,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821010000 +0000" stop="20250821020000 +0000" source="TV5">
+  <programme channel="11984" start="20250821010000 +0000" stop="20250821020000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -1876,9 +1602,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821020000 +0000" stop="20250821023000 +0000" source="TV5">
+  <programme channel="11984" start="20250821020000 +0000" stop="20250821023000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -1891,9 +1615,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821023000 +0000" stop="20250821030000 +0000" source="TV5">
+  <programme channel="11984" start="20250821023000 +0000" stop="20250821030000 +0000">
     
     
     <title lang="zh">Frontline Express</title>
@@ -1906,9 +1628,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821030000 +0000" stop="20250821040000 +0000" source="TV5">
+  <programme channel="11984" start="20250821030000 +0000" stop="20250821040000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -1921,9 +1641,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821040000 +0000" stop="20250821050000 +0000" source="TV5">
+  <programme channel="11984" start="20250821040000 +0000" stop="20250821050000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -1936,9 +1654,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821050000 +0000" stop="20250821060000 +0000" source="TV5">
+  <programme channel="11984" start="20250821050000 +0000" stop="20250821060000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -1951,9 +1667,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821060000 +0000" stop="20250821063000 +0000" source="TV5">
+  <programme channel="11984" start="20250821060000 +0000" stop="20250821063000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -1966,9 +1680,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821063000 +0000" stop="20250821070000 +0000" source="TV5">
+  <programme channel="11984" start="20250821063000 +0000" stop="20250821070000 +0000">
     
     
     <title lang="zh">Frontline Express</title>
@@ -1981,9 +1693,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821070000 +0000" stop="20250821074500 +0000" source="TV5">
+  <programme channel="11984" start="20250821070000 +0000" stop="20250821074500 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -1996,9 +1706,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821074500 +0000" stop="20250821080000 +0000" source="TV5">
+  <programme channel="11984" start="20250821074500 +0000" stop="20250821080000 +0000">
     
     
     <title lang="zh">Cine Cinco Sa Hapon</title>
@@ -2011,9 +1719,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821080000 +0000" stop="20250821090000 +0000" source="TV5">
+  <programme channel="11984" start="20250821080000 +0000" stop="20250821090000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2026,9 +1732,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821090000 +0000" stop="20250821093000 +0000" source="TV5">
+  <programme channel="11984" start="20250821090000 +0000" stop="20250821093000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2041,9 +1745,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821093000 +0000" stop="20250821100000 +0000" source="TV5">
+  <programme channel="11984" start="20250821093000 +0000" stop="20250821100000 +0000">
     
     
     <title lang="zh">Una Sa Lahat</title>
@@ -2056,9 +1758,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821100000 +0000" stop="20250821104500 +0000" source="TV5">
+  <programme channel="11984" start="20250821100000 +0000" stop="20250821104500 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2071,9 +1771,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821104500 +0000" stop="20250821110000 +0000" source="TV5">
+  <programme channel="11984" start="20250821104500 +0000" stop="20250821110000 +0000">
     
     
     <title lang="zh">Seducing Drake Palma</title>
@@ -2086,9 +1784,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821110000 +0000" stop="20250821111500 +0000" source="TV5">
+  <programme channel="11984" start="20250821110000 +0000" stop="20250821111500 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2101,9 +1797,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821111500 +0000" stop="20250821120000 +0000" source="TV5">
+  <programme channel="11984" start="20250821111500 +0000" stop="20250821120000 +0000">
     
     
     <title lang="zh">Totoy Bato</title>
@@ -2116,9 +1810,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821120000 +0000" stop="20250821124500 +0000" source="TV5">
+  <programme channel="11984" start="20250821120000 +0000" stop="20250821124500 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2131,9 +1823,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821124500 +0000" stop="20250821130000 +0000" source="TV5">
+  <programme channel="11984" start="20250821124500 +0000" stop="20250821130000 +0000">
     
     
     <title lang="zh">It's Okay To Not Be Okay</title>
@@ -2146,9 +1836,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821130000 +0000" stop="20250821133000 +0000" source="TV5">
+  <programme channel="11984" start="20250821130000 +0000" stop="20250821133000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2161,9 +1849,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821133000 +0000" stop="20250821140000 +0000" source="TV5">
+  <programme channel="11984" start="20250821133000 +0000" stop="20250821140000 +0000">
     
     
     <title lang="zh">Sins Of The Father</title>
@@ -2176,9 +1862,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821140000 +0000" stop="20250821141500 +0000" source="TV5">
+  <programme channel="11984" start="20250821140000 +0000" stop="20250821141500 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2191,9 +1875,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821141500 +0000" stop="20250821144500 +0000" source="TV5">
+  <programme channel="11984" start="20250821141500 +0000" stop="20250821144500 +0000">
     
     
     <title lang="zh">Unchained Love</title>
@@ -2206,9 +1888,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821144500 +0000" stop="20250821150000 +0000" source="TV5">
+  <programme channel="11984" start="20250821144500 +0000" stop="20250821150000 +0000">
     
     
     <title lang="zh">Frontline Tonight</title>
@@ -2221,9 +1901,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821150000 +0000" stop="20250821160000 +0000" source="TV5">
+  <programme channel="11984" start="20250821150000 +0000" stop="20250821160000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2236,9 +1914,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821160000 +0000" stop="20250821170000 +0000" source="TV5">
+  <programme channel="11984" start="20250821160000 +0000" stop="20250821170000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2251,9 +1927,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821170000 +0000" stop="20250821180000 +0000" source="TV5">
+  <programme channel="11984" start="20250821170000 +0000" stop="20250821180000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2266,9 +1940,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821180000 +0000" stop="20250821190000 +0000" source="TV5">
+  <programme channel="11984" start="20250821180000 +0000" stop="20250821190000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2281,9 +1953,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821190000 +0000" stop="20250821200000 +0000" source="TV5">
+  <programme channel="11984" start="20250821190000 +0000" stop="20250821200000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2296,9 +1966,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821200000 +0000" stop="20250821210000 +0000" source="TV5">
+  <programme channel="11984" start="20250821200000 +0000" stop="20250821210000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2311,9 +1979,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821210000 +0000" stop="20250821220000 +0000" source="TV5">
+  <programme channel="11984" start="20250821210000 +0000" stop="20250821220000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2326,9 +1992,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821220000 +0000" stop="20250821230000 +0000" source="TV5">
+  <programme channel="11984" start="20250821220000 +0000" stop="20250821230000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2341,9 +2005,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250821230000 +0000" stop="20250822000000 +0000" source="TV5">
+  <programme channel="11984" start="20250821230000 +0000" stop="20250822000000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2356,9 +2018,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822000000 +0000" stop="20250822010000 +0000" source="TV5">
+  <programme channel="11984" start="20250822000000 +0000" stop="20250822010000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2371,9 +2031,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822010000 +0000" stop="20250822020000 +0000" source="TV5">
+  <programme channel="11984" start="20250822010000 +0000" stop="20250822020000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2386,9 +2044,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822020000 +0000" stop="20250822023000 +0000" source="TV5">
+  <programme channel="11984" start="20250822020000 +0000" stop="20250822023000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2401,9 +2057,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822023000 +0000" stop="20250822030000 +0000" source="TV5">
+  <programme channel="11984" start="20250822023000 +0000" stop="20250822030000 +0000">
     
     
     <title lang="zh">Frontline Express</title>
@@ -2416,9 +2070,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822030000 +0000" stop="20250822040000 +0000" source="TV5">
+  <programme channel="11984" start="20250822030000 +0000" stop="20250822040000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2431,9 +2083,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822040000 +0000" stop="20250822050000 +0000" source="TV5">
+  <programme channel="11984" start="20250822040000 +0000" stop="20250822050000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2446,9 +2096,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822050000 +0000" stop="20250822060000 +0000" source="TV5">
+  <programme channel="11984" start="20250822050000 +0000" stop="20250822060000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2461,9 +2109,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822060000 +0000" stop="20250822063000 +0000" source="TV5">
+  <programme channel="11984" start="20250822060000 +0000" stop="20250822063000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2476,9 +2122,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822063000 +0000" stop="20250822070000 +0000" source="TV5">
+  <programme channel="11984" start="20250822063000 +0000" stop="20250822070000 +0000">
     
     
     <title lang="zh">Frontline Express</title>
@@ -2491,9 +2135,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822070000 +0000" stop="20250822074500 +0000" source="TV5">
+  <programme channel="11984" start="20250822070000 +0000" stop="20250822074500 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2506,9 +2148,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822074500 +0000" stop="20250822080000 +0000" source="TV5">
+  <programme channel="11984" start="20250822074500 +0000" stop="20250822080000 +0000">
     
     
     <title lang="zh">Cine Cinco Sa Hapon</title>
@@ -2521,9 +2161,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822080000 +0000" stop="20250822090000 +0000" source="TV5">
+  <programme channel="11984" start="20250822080000 +0000" stop="20250822090000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2536,9 +2174,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822090000 +0000" stop="20250822093000 +0000" source="TV5">
+  <programme channel="11984" start="20250822090000 +0000" stop="20250822093000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2551,9 +2187,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822093000 +0000" stop="20250822100000 +0000" source="TV5">
+  <programme channel="11984" start="20250822093000 +0000" stop="20250822100000 +0000">
     
     
     <title lang="zh">Una Sa Lahat</title>
@@ -2566,9 +2200,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822100000 +0000" stop="20250822104500 +0000" source="TV5">
+  <programme channel="11984" start="20250822100000 +0000" stop="20250822104500 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2581,9 +2213,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822104500 +0000" stop="20250822110000 +0000" source="TV5">
+  <programme channel="11984" start="20250822104500 +0000" stop="20250822110000 +0000">
     
     
     <title lang="zh">Seducing Drake Palma</title>
@@ -2596,9 +2226,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822110000 +0000" stop="20250822111500 +0000" source="TV5">
+  <programme channel="11984" start="20250822110000 +0000" stop="20250822111500 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2611,9 +2239,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822111500 +0000" stop="20250822120000 +0000" source="TV5">
+  <programme channel="11984" start="20250822111500 +0000" stop="20250822120000 +0000">
     
     
     <title lang="zh">Totoy Bato</title>
@@ -2626,9 +2252,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822120000 +0000" stop="20250822124500 +0000" source="TV5">
+  <programme channel="11984" start="20250822120000 +0000" stop="20250822124500 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2641,9 +2265,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822124500 +0000" stop="20250822130000 +0000" source="TV5">
+  <programme channel="11984" start="20250822124500 +0000" stop="20250822130000 +0000">
     
     
     <title lang="zh">It's Okay To Not Be Okay</title>
@@ -2656,9 +2278,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822130000 +0000" stop="20250822133000 +0000" source="TV5">
+  <programme channel="11984" start="20250822130000 +0000" stop="20250822133000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2671,9 +2291,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822133000 +0000" stop="20250822140000 +0000" source="TV5">
+  <programme channel="11984" start="20250822133000 +0000" stop="20250822140000 +0000">
     
     
     <title lang="zh">Sins Of The Father</title>
@@ -2686,9 +2304,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822140000 +0000" stop="20250822141500 +0000" source="TV5">
+  <programme channel="11984" start="20250822140000 +0000" stop="20250822141500 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2701,9 +2317,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822141500 +0000" stop="20250822144500 +0000" source="TV5">
+  <programme channel="11984" start="20250822141500 +0000" stop="20250822144500 +0000">
     
     
     <title lang="zh">Unchained Love</title>
@@ -2716,9 +2330,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822144500 +0000" stop="20250822150000 +0000" source="TV5">
+  <programme channel="11984" start="20250822144500 +0000" stop="20250822150000 +0000">
     
     
     <title lang="zh">Frontline Tonight</title>
@@ -2731,9 +2343,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822150000 +0000" stop="20250822153000 +0000" source="TV5">
+  <programme channel="11984" start="20250822150000 +0000" stop="20250822153000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2746,9 +2356,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822153000 +0000" stop="20250822160000 +0000" source="TV5">
+  <programme channel="11984" start="20250822153000 +0000" stop="20250822160000 +0000">
     
     
     <title lang="zh">Glamorosa</title>
@@ -2761,9 +2369,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822160000 +0000" stop="20250822170000 +0000" source="TV5">
+  <programme channel="11984" start="20250822160000 +0000" stop="20250822170000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2776,9 +2382,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822170000 +0000" stop="20250822180000 +0000" source="TV5">
+  <programme channel="11984" start="20250822170000 +0000" stop="20250822180000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2791,9 +2395,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822180000 +0000" stop="20250822190000 +0000" source="TV5">
+  <programme channel="11984" start="20250822180000 +0000" stop="20250822190000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2806,9 +2408,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822190000 +0000" stop="20250822200000 +0000" source="TV5">
+  <programme channel="11984" start="20250822190000 +0000" stop="20250822200000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2821,9 +2421,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822200000 +0000" stop="20250822210000 +0000" source="TV5">
+  <programme channel="11984" start="20250822200000 +0000" stop="20250822210000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2836,9 +2434,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822210000 +0000" stop="20250822220000 +0000" source="TV5">
+  <programme channel="11984" start="20250822210000 +0000" stop="20250822220000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2851,9 +2447,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822220000 +0000" stop="20250822230000 +0000" source="TV5">
+  <programme channel="11984" start="20250822220000 +0000" stop="20250822230000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2866,9 +2460,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250822230000 +0000" stop="20250823000000 +0000" source="TV5">
+  <programme channel="11984" start="20250822230000 +0000" stop="20250823000000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2881,9 +2473,7 @@
     
   
   </programme>
-  
-  
-  <programme channel="11984" start="20250823000000 +0000" stop="20250824000000 +0000" source="TV5">
+  <programme channel="11984" start="20250823000000 +0000" stop="20250824000000 +0000">
     
     
     <title lang="zh">To Be Announced</title>
@@ -2896,6 +2486,4 @@
     
   
   </programme>
-  
-
 </tv>
