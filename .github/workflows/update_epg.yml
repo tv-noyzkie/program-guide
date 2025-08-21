@@ -1,9 +1,13 @@
 name: Update EPG
 
 on:
+  push:
+    paths:
+      - "channels.json"     # run whenever channels.json changes
+      - ".github/workflows/update_epg.yml"
   schedule:
-    - cron: "0 3 * * *"   # Run daily at 3 AM UTC
-  workflow_dispatch:       # Allow manual trigger
+    - cron: "0 3 * * *"     # daily at 3 AM UTC
+  workflow_dispatch:         # allow manual trigger
 
 jobs:
   build:
