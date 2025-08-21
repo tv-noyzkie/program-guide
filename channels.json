@@ -1,6 +1,22 @@
 [
-  { "name": "Kapamilya Channel", "url": "https://epg.pw/api/epg.xml?channel_id=7870" },
-  { "name": "GMA",             "url": "https://epg.pw/api/epg.xml?channel_id=70615" },
-  { "name": "GTV",             "url": "https://epg.pw/api/epg.xml?channel_id=70607" },
-  { "name": "TV5",             "url": "https://epg.pw/api/epg.xml?channel_id=11984" }
+  { 
+    "name": "Kapamilya Channel", 
+    "url": "https://epg.pw/api/epg.xml?channel_id=7870",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/24/Kapamilya_Channel_logo.png" 
+  },
+  { 
+    "name": "GMA",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=70615",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/58/GMA_Network_Logo.svg" 
+  },
+  { 
+    "name": "GTV",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=70607",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/91/GTV_Philippines_logo.png" 
+  },
+  { 
+    "name": "TV5",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=11984",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/40/TV5_%28Philippines%29_logo.png" 
+  }
 ]
