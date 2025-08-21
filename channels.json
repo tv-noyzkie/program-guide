@@ -1,0 +1,13 @@
+[
+  { "name": "CNN Philippines", "url": "https://epg.pw/api/epg.xml?channel_id=403626" },
+  { "name": "PTV",             "url": "https://epg.pw/api/epg.xml?channel_id=400477" },
+  { "name": "GMA",             "url": "https://epg.pw/api/epg.xml?channel_id=400480" },
+  { "name": "TV5",             "url": "https://epg.pw/api/epg.xml?channel_id=405060" },
+  { "name": "A2Z",             "url": "https://epg.pw/api/epg.xml?channel_id=405134" },
+  { "name": "IBC",             "url": "https://epg.pw/api/epg.xml?channel_id=400479" },
+  { "name": "RJTV",            "url": "https://epg.pw/api/epg.xml?channel_id=400478" },
+  { "name": "UNTV",            "url": "https://epg.pw/api/epg.xml?channel_id=405049" },
+  { "name": "NET25",           "url": "https://epg.pw/api/epg.xml?channel_id=404833" },
+  { "name": "SMNI",            "url": "https://epg.pw/api/epg.xml?channel_id=405079" },
+  { "name": "ABS-CBN",         "url": "https://epg.pw/api/epg.xml?channel_id=8821" }
+]
