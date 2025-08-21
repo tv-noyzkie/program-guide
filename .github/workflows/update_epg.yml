@@ -3,9 +3,7 @@ name: Update EPG
 on:
   push:
     paths:
-      - "channels.json"     # only trigger when channels.json changes
-    paths-ignore:
-      - "epg.xml"           # ignore commits that only touch epg.xml
+      - "channels.json"     # only run when this file changes
   schedule:
     - cron: "0 3 * * *"     # daily at 3 AM UTC
   workflow_dispatch:         # allow manual trigger
@@ -13,6 +11,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write        # allow committing back to repo
 
     steps:
       - name: Checkout repo
