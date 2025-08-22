@@ -1,4 +1,4 @@
-[
+  [
   { 
     "id": "7870",
     "name": "Kapamilya Channel", 
@@ -120,3 +120,99 @@
     "logo": "https://i.imgur.com/EkmCzO1.png" 
   }
 ]
+
+"extra_epg": [
+    {
+      "url": "https://tvguideph.netlify.app/cplay.xml",
+      "channels": [
+        [
+      {"id": "bilyonaryoch", "name": "Bilyonaryo News Channel"},
+      {"id": "buko", "name": "Buko"},
+      {"id": "depedchannel", "name": "DepEd TV"},
+      {"id": "cg_dreamworktag", "name": "DreamWorks (Tagalized"},
+      {"id": "knowledge_channel", "name": "Knowledge Channel"},
+      {"id": "lotusmacau_prd", "name": "Lotus Macau"},
+      {"id": "cgnal_nba", "name": "NBA TV Philippines"},
+      {"id": "onenews_hd", "name": "One News"},
+      {"id": "oneph", "name": "One PH"},
+      {"id": "bbcworld_news", "name": "BBC News"},
+      {"id": "boomerang", "name": "Boomerang"},
+      {"id": "cartoonnetwork_hd", "name": "Cartoon Network"},
+      {"id": "cinemo", "name": "Cinemo"},
+      {"id": "cinemaone", "name": "Cinema One"},
+      {"id": "cinemoworld", "name": "Cinema World"},
+      {"id": "cna", "name": "CNA"},
+      {"id": "cnn", "name": "CNN"},
+      {"id": "cnn_philippines", "name": "CNN Philippines"},
+      {"id": "ctv", "name": "CTV"},
+      {"id": "discoveryasia", "name": "Discovery Asia"},
+      {"id": "discoverychannel", "name": "Discovery Channel"},
+      {"id": "discoverykids", "name": "Discovery Kids"},
+      {"id": "disneychannel", "name": "Disney Channel"},
+      {"id": "disneyjr", "name": "Disney Junior"},
+      {"id": "disneyxd", "name": "Disney XD"},
+      {"id": "etv", "name": "ETV"},
+      {"id": "foodnetwork", "name": "Food Network"},
+      {"id": "foxmovies", "name": "Fox Movies"},
+      {"id": "foxlife", "name": "Fox Life"},
+      {"id": "foxsports", "name": "Fox Sports"},
+      {"id": "gma", "name": "GMA"},
+      {"id": "gma_news_tv", "name": "GMA News TV"},
+      {"id": "gma_life_tv", "name": "GMA Life TV"},
+      {"id": "hbo", "name": "HBO"},
+      {"id": "hbo_family", "name": "HBO Family"},
+      {"id": "hbo_hits", "name": "HBO Hits"},
+      {"id": "hbo_signature", "name": "HBO Signature"},
+      {"id": "history", "name": "History"},
+      {"id": "jacktv", "name": "Jack TV"},
+      {"id": "jeepneytv", "name": "Jeepney TV"},
+      {"id": "kbsworld", "name": "KBS World"},
+      {"id": "lifetime", "name": "Lifetime"},
+      {"id": "mtv", "name": "MTV"},
+      {"id": "myx", "name": "MYX"},
+      {"id": "natgeo", "name": "National Geographic"},
+      {"id": "natgeo_people", "name": "Nat Geo People"},
+      {"id": "natgeo_wild", "name": "Nat Geo Wild"},
+      {"id": "nickjr", "name": "Nick Jr."},
+      {"id": "nickelodeon", "name": "Nickelodeon"},
+      {"id": "one_ph", "name": "One PH"},
+      {"id": "one_news", "name": "One News"},
+      {"id": "one_sports", "name": "One Sports"},
+      {"id": "one_sports_plus", "name": "One Sports+ "},
+      {"id": "paramount", "name": "Paramount Channel"},
+      {"id": "ptv", "name": "PTV"},
+      {"id": "smile", "name": "Smile"},
+      {"id": "sony_channel", "name": "Sony Channel"},
+      {"id": "sony_gem", "name": "Sony GEM"},
+      {"id": "sony_one", "name": "Sony One"},
+      {"id": "sony_pix", "name": "Sony Pix"},
+      {"id": "sony_sab", "name": "Sony SAB"},
+      {"id": "sony_set", "name": "Sony SET"},
+      {"id": "sony_six", "name": "Sony Six"},
+      {"id": "sony_yay", "name": "Sony Yay"},
+      {"id": "starmovies", "name": "Star Movies"},
+      {"id": "starworld", "name": "Star World"},
+      {"id": "syfy", "name": "Syfy"},
+      {"id": "tcm", "name": "TCM"},
+      {"id": "tlc", "name": "TLC"},
+      {"id": "tnt", "name": "TNT"},
+      {"id": "travelchannel", "name": "Travel Channel"},
+      {"id": "truetv", "name": "True TV"},
+      {"id": "tv5", "name": "TV5"},
+      {"id": "tvn", "name": "TVN"},
+      {"id": "universalchannel", "name": "Universal Channel"},
+      {"id": "vivamax", "name": "VivaMax"},
+      {"id": "warner_tv", "name": "Warner TV"},
+      {"id": "wowow", "name": "Wowow"},
+      {"id": "zoomoo", "name": "ZooMoo"}
+        ]
+  },
+  {
+      "url": "https://raw.githubusercontent.com/example/other_epg.xml",
+      "channels": [
+        { "id": "disney.ph", "name": "Disney Channel" },
+        { "id": "nickelodeon.ph", "name": "Nickelodeon" }
+      ]
+    }
+  ]
+}
