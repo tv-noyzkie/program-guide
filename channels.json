@@ -66,6 +66,12 @@
     "logo": "https://i.imgur.com/UOsv6wt.png" 
   },
   { 
+    "id": "443288",
+    "name": "MYX",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=443288",
+    "logo": "https://i.imgur.com/CYo7qgS.png" 
+  },
+  { 
     "id": "70612",
     "name": "PTV",             
     "url": "https://epg.pw/api/epg.xml?channel_id=70612",
