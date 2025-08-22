@@ -8,6 +8,10 @@
     <display-name lang="en">TFC Asia</display-name>
     <icon src="https://i.imgur.com/mhYrit2.png"/>
   </channel>
+  <channel id="412127">
+    <display-name lang="en">ANC Global</display-name>
+    <icon src="https://i.imgur.com/6l5x8Tx.png"/>
+  </channel>
   <channel id="7846">
     <display-name lang="en">ANC</display-name>
     <icon src="https://i.imgur.com/4R2CXoh.png"/>
@@ -530,6 +534,426 @@
   <programme channel="429570" start="20250824000000 +0000" stop="20250825000000 +0000" display-name="TFC Asia">
     <title lang="zh">Astig Vegan :registered:</title>
     <desc/>
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="412127" start="20250822000000 +0000" stop="20250822010000 +0000" display-name="ANC Global">
+    <title lang="zh">Headstart</title>
+    <desc>Headstart with Karen Davila sets the news agenda for the day by breaking the most significant stories and issues unfolding in the country. Davila talks to newsmakers and major personalities, and interacts with viewers through social media.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822010000 +0000" stop="20250822013000 +0000" display-name="ANC Global">
+    <title lang="zh">People Of The Ph V. Arnolfo Teves Jr.</title>
+    <desc>ANC covers the high-profile criminal case involving Arnolfo "Arnie" Teves Jr., who faces multiple charges including murder and violations of anti-terrorism laws.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822013000 +0000" stop="20250822020000 +0000" display-name="ANC Global">
+    <title lang="zh">Market Edge</title>
+    <desc>Market Edge brings you the latest news in the stock market and currencies, while giving you a comprehensive look at economic developments all around Asia.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822020000 +0000" stop="20250822023000 +0000" display-name="ANC Global">
+    <title lang="zh">Hotcopy On Headstart</title>
+    <desc>Headstart with Karen Davila sets the news agenda for the day by breaking the most significant stories and issues unfolding in the country. Davila talks to newsmakers and major personalities, and interacts with viewers through social media.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822023000 +0000" stop="20250822030000 +0000" display-name="ANC Global">
+    <title lang="zh">America's Hidden History</title>
+    <desc>Discover stories of America's founders and other heroes that modern historians don't want you to know.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822030000 +0000" stop="20250822033000 +0000" display-name="ANC Global">
+    <title lang="zh">Global Us</title>
+    <desc>There are eight billion people on Earth and we are better connected than ever before. How can we make use of that? Global Us provides unexpected insights and exemplary solutions for a rapidly changing world. The focus is on people - those who want change</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822033000 +0000" stop="20250822040000 +0000" display-name="ANC Global">
+    <title lang="zh">The A-List</title>
+    <desc>The A-List is a lifestyle programme that serves as your go-to guide for the ultimate recommendations in modern living. Hosted by Sam Sadhwani, it delves into what makes each item or experience a must-try, offering viewers insights and advice.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822040000 +0000" stop="20250822050000 +0000" display-name="ANC Global">
+    <title lang="zh">Dateline Philippines</title>
+    <desc>Equipped by the most extensive news gathering group in the Philippines, Dateline Philippines ensures that no story is overlooked and that no one is forgotten.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822050000 +0000" stop="20250822053000 +0000" display-name="ANC Global">
+    <title lang="zh">24x24</title>
+    <desc>This programme chronicles the 24-hour life cycle of real women, capturing their habits, hobbies, hacks, personal styles, daily challenges, little victories, intimate relationships and professional networks - all presented in a 24-minute timeline.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822053000 +0000" stop="20250822060000 +0000" display-name="ANC Global">
+    <title lang="zh">24x24</title>
+    <desc>This programme chronicles the 24-hour life cycle of real women, capturing their habits, hobbies, hacks, personal styles, daily challenges, little victories, intimate relationships and professional networks - all presented in a 24-minute timeline.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822060000 +0000" stop="20250822063000 +0000" display-name="ANC Global">
+    <title lang="zh">In Good Shape</title>
+    <desc>What does our minds and bodies good? What kind of exercise can make or keep us fit? Find out more on In Good Shape!</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822063000 +0000" stop="20250822070000 +0000" display-name="ANC Global">
+    <title lang="zh">Dayaw</title>
+    <desc>Dayaw is a documentary series that focuses on the preservation of the country's culture and heritage.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822070000 +0000" stop="20250822080000 +0000" display-name="ANC Global">
+    <title lang="zh">Market Edge</title>
+    <desc>Market Edge brings you the latest news in the stock market and currencies, while giving you a comprehensive look at economic developments all around Asia.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822080000 +0000" stop="20250822083000 +0000" display-name="ANC Global">
+    <title lang="zh">Beyond The Exchange</title>
+    <desc>Join veteran anchor Rico Hizon as he talks to industry leaders, entrepreneurs and experts to share their insights on everything business.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822083000 +0000" stop="20250822093000 +0000" display-name="ANC Global">
+    <title lang="zh">Top Story</title>
+    <desc>Get the latest headlines in the country and around the globe, and also hear from notable personalities who discuss current issues and events.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822093000 +0000" stop="20250822100000 +0000" display-name="ANC Global">
+    <title lang="zh">Citizen Pinoy</title>
+    <desc>This US-produced talk show discusses frequently-asked questions about US migration. It provides the stage for engaging talk that highlights topics relevant to our kababayans in the US and the Philippines.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822100000 +0000" stop="20250822103000 +0000" display-name="ANC Global">
+    <title lang="zh">Banker After Dark</title>
+    <desc>Stephen Cuunjieng gets up close and personal with various industry leaders for some insightful and entertaining conversations.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822103000 +0000" stop="20250822110000 +0000" display-name="ANC Global">
+    <title lang="zh">Casa Daza</title>
+    <desc>Learn and enjoy delicious homemade meals with Chef Sandy Daza in Caza Daza!</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822110000 +0000" stop="20250822113000 +0000" display-name="ANC Global">
+    <title lang="zh">In Good Shape</title>
+    <desc>What does our minds and bodies good? What kind of exercise can make or keep us fit? Find out more on In Good Shape!</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822113000 +0000" stop="20250822120000 +0000" display-name="ANC Global">
+    <title lang="zh">Arts.21</title>
+    <desc>Germany is becoming a crossroads for the creative scene of the 21st century. Dive deep into the artistic process on Arts. 21.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822120000 +0000" stop="20250822123000 +0000" display-name="ANC Global">
+    <title lang="zh">People Of The Ph V. Arnolfo Teves Jr</title>
+    <desc>ANC covers the high-profile criminal case involving Arnolfo "Arnie" Teves Jr., who faces multiple charges including murder and violations of anti-terrorism laws.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822123000 +0000" stop="20250822130000 +0000" display-name="ANC Global">
+    <title lang="zh">The A-List</title>
+    <desc>The A-List is a lifestyle programme that serves as your go-to guide for the ultimate recommendations in modern living. Hosted by Sam Sadhwani, it delves into what makes each item or experience a must-try, offering viewers insights and advice.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822130000 +0000" stop="20250822133000 +0000" display-name="ANC Global">
+    <title lang="zh">The World Tonight</title>
+    <desc>The World Tonight is a multi-award-winning and long-running newscast on ABS-CBN and ANC, delivering the top news of the day from the political, business and foreign fronts.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822133000 +0000" stop="20250822140000 +0000" display-name="ANC Global">
+    <title lang="zh">Banker After Dark</title>
+    <desc>Stephen Cuunjieng gets up close and personal with various industry leaders for some insightful and entertaining conversations.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822140000 +0000" stop="20250822143000 +0000" display-name="ANC Global">
+    <title lang="zh">Made In Germany</title>
+    <desc>This programme examines the risks and benefits of digitalization and its impact on the way we work, what we earn and how we live.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822143000 +0000" stop="20250822150000 +0000" display-name="ANC Global">
+    <title lang="zh">Rev+</title>
+    <desc>Take a fun ride into the unique and exciting world of the Philippine automotive scene.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822150000 +0000" stop="20250822160000 +0000" display-name="ANC Global">
+    <title lang="zh">Chasing Flavors</title>
+    <desc>Well-known Kapampangan chef, Chef Claude Tayag, probes the origins of Filipino iconic dishes from region to region, one dish at a time, and will attempt to answer what makes each dish unique and outstanding in its own right.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822160000 +0000" stop="20250822163000 +0000" display-name="ANC Global">
+    <title lang="zh">The World Tonight</title>
+    <desc>The World Tonight is a multi-award-winning and long-running newscast on ABS-CBN and ANC, delivering the top news of the day from the political, business and foreign fronts.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822163000 +0000" stop="20250822170000 +0000" display-name="ANC Global">
+    <title lang="zh">Beyond The Exchange</title>
+    <desc>Join veteran anchor Rico Hizon as he talks to industry leaders, entrepreneurs and experts to share their insights on everything business.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822170000 +0000" stop="20250822180000 +0000" display-name="ANC Global">
+    <title lang="zh">Headstart</title>
+    <desc>Headstart with Karen Davila sets the news agenda for the day by breaking the most significant stories and issues unfolding in the country. Davila talks to newsmakers and major personalities, and interacts with viewers through social media.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822180000 +0000" stop="20250822183000 +0000" display-name="ANC Global">
+    <title lang="zh">Local Legends</title>
+    <desc>Take a step into the lives of Filipino craftsmen, as they share their mastery and passion in keeping their respective traditions and industries alive.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822183000 +0000" stop="20250822190000 +0000" display-name="ANC Global">
+    <title lang="zh">Arts.21</title>
+    <desc>Germany is becoming a crossroads for the creative scene of the 21st century. Dive deep into the artistic process on Arts. 21.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822190000 +0000" stop="20250822193000 +0000" display-name="ANC Global">
+    <title lang="zh">Eic On The Move</title>
+    <desc>Metro Society Editor-in-Chief Raul Manzano takes you to his exclusive travel, fashion and food escapades domestically and internationally, giving you a feel of the VIP treatment in his personalised accommodations and trips!</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822193000 +0000" stop="20250822200000 +0000" display-name="ANC Global">
+    <title lang="zh">The A-List</title>
+    <desc>The A-List is a lifestyle programme that serves as your go-to guide for the ultimate recommendations in modern living. Hosted by Sam Sadhwani, it delves into what makes each item or experience a must-try, offering viewers insights and advice.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822200000 +0000" stop="20250822210000 +0000" display-name="ANC Global">
+    <title lang="zh">Beached</title>
+    <desc>Beached takes viewers on the ultimate tropical adventure that will allow them to discover new shores and the exclusive accommodations and activites that come with them.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822210000 +0000" stop="20250822213000 +0000" display-name="ANC Global">
+    <title lang="zh">Insights: Israel And Middle East</title>
+    <desc>Take an inside look at modern Israel, including stories of what Israel has accomplished with regard to technology, innovation, faith, and more.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822213000 +0000" stop="20250822220000 +0000" display-name="ANC Global">
+    <title lang="zh">Executive Class</title>
+    <desc>Executive Class is an award-winning luxury lifestyle and travel programme hosted by veteran broadcast journalist David Celdran.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822220000 +0000" stop="20250822230000 +0000" display-name="ANC Global">
+    <title lang="zh">Market Edge</title>
+    <desc>Market Edge brings you the latest news in the stock market and currencies, while giving you a comprehensive look at economic developments all around Asia.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822230000 +0000" stop="20250822233000 +0000" display-name="ANC Global">
+    <title lang="zh">Business Outlook</title>
+    <desc>Join veteran anchor Rico Hizon as he talks to industry leaders, entrepreneurs and experts to share their insights on everything business.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250822233000 +0000" stop="20250823000000 +0000" display-name="ANC Global">
+    <title lang="zh">Metabeats</title>
+    <desc>Get fit and fabulous with this fitness and wellness nutrition show that features training activities to boost your metabolism.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="412127" start="20250823003000 +0000" stop="20250823010000 +0000" display-name="ANC Global">
+    <title lang="zh">Made In Germany</title>
+    <desc>This programme examines the risks and benefits of digitalization and its impact on the way we work, what we earn and how we live.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823010000 +0000" stop="20250823013000 +0000" display-name="ANC Global">
+    <title lang="zh">Market Edge</title>
+    <desc>Market Edge brings you the latest news in the stock market and currencies, while giving you a comprehensive look at economic developments all around Asia.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823013000 +0000" stop="20250823020000 +0000" display-name="ANC Global">
+    <title lang="zh">Casa Daza</title>
+    <desc>Learn and enjoy delicious homemade meals with Chef Sandy Daza in Caza Daza!</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823020000 +0000" stop="20250823023000 +0000" display-name="ANC Global">
+    <title lang="zh">Banker After Dark</title>
+    <desc>Stephen Cuunjieng gets up close and personal with various industry leaders for some insightful and entertaining conversations.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823023000 +0000" stop="20250823030000 +0000" display-name="ANC Global">
+    <title lang="zh">In Good Shape</title>
+    <desc>What does our minds and bodies good? What kind of exercise can make or keep us fit? Find out more on In Good Shape!</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823030000 +0000" stop="20250823033000 +0000" display-name="ANC Global">
+    <title lang="zh">Dayaw</title>
+    <desc>Dayaw is a documentary series that focuses on the preservation of the country's culture and heritage.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823033000 +0000" stop="20250823040000 +0000" display-name="ANC Global">
+    <title lang="zh">Local Legends</title>
+    <desc>Take a step into the lives of Filipino craftsmen, as they share their mastery and passion in keeping their respective traditions and industries alive.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823040000 +0000" stop="20250823050000 +0000" display-name="ANC Global">
+    <title lang="zh">Headstart</title>
+    <desc>Headstart with Karen Davila sets the news agenda for the day by breaking the most significant stories and issues unfolding in the country. Davila talks to newsmakers and major personalities, and interacts with viewers through social media.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823050000 +0000" stop="20250823053000 +0000" display-name="ANC Global">
+    <title lang="zh">Beyond The Exchange</title>
+    <desc>Join veteran anchor Rico Hizon as he talks to industry leaders, entrepreneurs and experts to share their insights on everything business.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823053000 +0000" stop="20250823060000 +0000" display-name="ANC Global">
+    <title lang="zh">Juan Conversations</title>
+    <desc>Global achievers and everyday heroes reveal the triumphs, struggles and inspiring journeys of overseas Filipinos across Europe.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823060000 +0000" stop="20250823063000 +0000" display-name="ANC Global">
+    <title lang="zh">Asian Air Safari</title>
+    <desc>Asian Air Safari is a one-of-a-kind travel adventure show, taking you on a journey to the most exciting and exotic places around the world.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823063000 +0000" stop="20250823070000 +0000" display-name="ANC Global">
+    <title lang="zh">Hot Copy On Headstart</title>
+    <desc>Headstart with Karen Davila sets the news agenda for the day by breaking the most significant stories and issues unfolding in the country. Davila talks to newsmakers and major personalities, and interacts with viewers through social media.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823070000 +0000" stop="20250823073000 +0000" display-name="ANC Global">
+    <title lang="zh">The Business Outlook</title>
+    <desc>The Business Outlook gives viewers a rundown of the top business stories of the day. The show takes you beyond the headlines, hearing from people whose opinions matter and giving you an inside track on how the business world is shaping up.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823073000 +0000" stop="20250823080000 +0000" display-name="ANC Global">
+    <title lang="zh">Eic On The Move</title>
+    <desc>Metro Society Editor-in-Chief Raul Manzano takes you to his exclusive travel, fashion and food escapades domestically and internationally, giving you a feel of the VIP treatment in his personalised accommodations and trips!</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823080000 +0000" stop="20250823083000 +0000" display-name="ANC Global">
+    <title lang="zh">Casa Daza</title>
+    <desc>Learn and enjoy delicious homemade meals with Chef Sandy Daza in Caza Daza!</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823083000 +0000" stop="20250823090000 +0000" display-name="ANC Global">
+    <title lang="zh">Ano Na Bev</title>
+    <desc>Hosted by acclaimed and award-winning TV journalist Beverly "Bev" Llorente, this show promises to bring thought-provoking conversations coming from a wide range of fascinating and interesting people, whether non-celebrities or current newsmakers.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823090000 +0000" stop="20250823100000 +0000" display-name="ANC Global">
+    <title lang="zh">Foodprints</title>
+    <desc>Chef Sandy of the famous cooking Daza clan shares easy-to-follow recipes with interesting backstories that will encourage both kitchen newbies and experts alike to celebrate cooking and eating with the whole family.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823100000 +0000" stop="20250823103000 +0000" display-name="ANC Global">
+    <title lang="zh">Dwellings</title>
+    <desc>See the world's best cities through the eyes of its dwellers.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823103000 +0000" stop="20250823110000 +0000" display-name="ANC Global">
+    <title lang="zh">Banker After Dark</title>
+    <desc>Stephen Cuunjieng gets up close and personal with various industry leaders for some insightful and entertaining conversations.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823110000 +0000" stop="20250823113000 +0000" display-name="ANC Global">
+    <title lang="zh">Beyond The Exchange</title>
+    <desc>Join veteran anchor Rico Hizon as he talks to industry leaders, entrepreneurs and experts to share their insights on everything business.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823113000 +0000" stop="20250823120000 +0000" display-name="ANC Global">
+    <title lang="zh">Tomorrow Today</title>
+    <desc>A show for everyone who's curious about our cosmos and how it works. Dive in to the fascinating world of science with Tomorrow Today!</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823120000 +0000" stop="20250823123000 +0000" display-name="ANC Global">
+    <title lang="zh">Citizen Pinoy</title>
+    <desc>This US-produced talk show discusses frequently-asked questions about US migration. It provides the stage for engaging talk that highlights topics relevant to our kababayans in the US and the Philippines.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823123000 +0000" stop="20250823130000 +0000" display-name="ANC Global">
+    <title lang="zh">Juan Conversations</title>
+    <desc>Global achievers and everyday heroes reveal the triumphs, struggles and inspiring journeys of overseas Filipinos across Europe.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823130000 +0000" stop="20250823133000 +0000" display-name="ANC Global">
+    <title lang="zh">The A-List</title>
+    <desc>The A-List is a lifestyle programme that serves as your go-to guide for the ultimate recommendations in modern living. Hosted by Sam Sadhwani, it delves into what makes each item or experience a must-try, offering viewers insights and advice.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823133000 +0000" stop="20250823140000 +0000" display-name="ANC Global">
+    <title lang="zh">Executive Class</title>
+    <desc>Executive Class is an award-winning luxury lifestyle and travel programme hosted by veteran broadcast journalist David Celdran.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823140000 +0000" stop="20250823143000 +0000" display-name="ANC Global">
+    <title lang="zh">24x24</title>
+    <desc>This programme chronicles the 24-hour life cycle of real women, capturing their habits, hobbies, hacks, personal styles, daily challenges, little victories, intimate relationships and professional networks - all presented in a 24-minute timeline.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823143000 +0000" stop="20250823150000 +0000" display-name="ANC Global">
+    <title lang="zh">24x24</title>
+    <desc>This programme chronicles the 24-hour life cycle of real women, capturing their habits, hobbies, hacks, personal styles, daily challenges, little victories, intimate relationships and professional networks - all presented in a 24-minute timeline.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823150000 +0000" stop="20250823160000 +0000" display-name="ANC Global">
+    <title lang="zh">Metabeats</title>
+    <desc>Get fit and fabulous with this fitness and wellness nutrition show that features training activities to boost your metabolism.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823160000 +0000" stop="20250823163000 +0000" display-name="ANC Global">
+    <title lang="zh">Rev+</title>
+    <desc>Take a fun ride into the unique and exciting world of the Philippine automotive scene.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823163000 +0000" stop="20250823170000 +0000" display-name="ANC Global">
+    <title lang="zh">Local Legends</title>
+    <desc>Take a step into the lives of Filipino craftsmen, as they share their mastery and passion in keeping their respective traditions and industries alive.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823170000 +0000" stop="20250823173000 +0000" display-name="ANC Global">
+    <title lang="zh">Dwellings</title>
+    <desc>See the world's best cities through the eyes of its dwellers.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823173000 +0000" stop="20250823180000 +0000" display-name="ANC Global">
+    <title lang="zh">America's Hidden History</title>
+    <desc>Discover stories of America's founders and other heroes that modern historians don't want you to know.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823180000 +0000" stop="20250823183000 +0000" display-name="ANC Global">
+    <title lang="zh">24x24</title>
+    <desc>This programme chronicles the 24-hour life cycle of real women, capturing their habits, hobbies, hacks, personal styles, daily challenges, little victories, intimate relationships and professional networks - all presented in a 24-minute timeline.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823183000 +0000" stop="20250823190000 +0000" display-name="ANC Global">
+    <title lang="zh">24x24</title>
+    <desc>This programme chronicles the 24-hour life cycle of real women, capturing their habits, hobbies, hacks, personal styles, daily challenges, little victories, intimate relationships and professional networks - all presented in a 24-minute timeline.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823190000 +0000" stop="20250823193000 +0000" display-name="ANC Global">
+    <title lang="zh">In Good Shape</title>
+    <desc>What does our minds and bodies good? What kind of exercise can make or keep us fit? Find out more on In Good Shape!</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823193000 +0000" stop="20250823200000 +0000" display-name="ANC Global">
+    <title lang="zh">Banker After Dark</title>
+    <desc>Stephen Cuunjieng gets up close and personal with various industry leaders for some insightful and entertaining conversations.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823200000 +0000" stop="20250823203000 +0000" display-name="ANC Global">
+    <title lang="zh">Dayaw</title>
+    <desc>Dayaw is a documentary series that focuses on the preservation of the country's culture and heritage.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823203000 +0000" stop="20250823210000 +0000" display-name="ANC Global">
+    <title lang="zh">Arts.21</title>
+    <desc>Germany is becoming a crossroads for the creative scene of the 21st century. Dive deep into the artistic process on Arts. 21.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823210000 +0000" stop="20250823213000 +0000" display-name="ANC Global">
+    <title lang="zh">Global Us</title>
+    <desc>There are eight billion people on Earth and we are better connected than ever before. How can we make use of that? Global Us provides unexpected insights and exemplary solutions for a rapidly changing world. The focus is on people - those who want change</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823213000 +0000" stop="20250823220000 +0000" display-name="ANC Global">
+    <title lang="zh">Made In Germany</title>
+    <desc>This programme examines the risks and benefits of digitalization and its impact on the way we work, what we earn and how we live.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823220000 +0000" stop="20250823223000 +0000" display-name="ANC Global">
+    <title lang="zh">The Word Exposed</title>
+    <desc>ANC brings you news updates and breaking news from the Philippines, as well as cultural and religious progamming.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823223000 +0000" stop="20250823230000 +0000" display-name="ANC Global">
+    <title lang="zh">Dayaw</title>
+    <desc>Dayaw is a documentary series that focuses on the preservation of the country's culture and heritage.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250823230000 +0000" stop="20250824000000 +0000" display-name="ANC Global">
+    <title lang="zh">Metabeats</title>
+    <desc>Get fit and fabulous with this fitness and wellness nutrition show that features training activities to boost your metabolism.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="412127" start="20250824000000 +0000" stop="20250825000000 +0000" display-name="ANC Global">
+    <title lang="zh">Executive Class</title>
+    <desc>Executive Class is an award-winning luxury lifestyle and travel programme hosted by veteran broadcast journalist David Celdran.</desc>
     <date>2025-08-24</date>
   </programme>
   <programme channel="7846" start="20250822000000 +0000" stop="20250822010000 +0000" display-name="ANC">
