@@ -44,6 +44,10 @@
     <display-name lang="en">Cinema Mo!</display-name>
     <icon src="https://i.imgur.com/UOsv6wt.png"/>
   </channel>
+  <channel id="443288">
+    <display-name lang="en">MYX</display-name>
+    <icon src="https://i.imgur.com/CYo7qgS.png"/>
+  </channel>
   <channel id="70612">
     <display-name lang="en">PTV</display-name>
     <icon src="https://i.imgur.com/XKsiME1.png"/>
@@ -2863,6 +2867,76 @@
   </programme>
   <programme channel="443285" start="20250822110000 +0000" stop="20250823000000 +0000" display-name="Cinema Mo!">
     <title lang="zh">DIBDIBAN ANG LABAN GARY ESTRADA</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443288" start="20250822000000 +0000" stop="20250822010000 +0000" display-name="MYX">
+    <title lang="zh">BOOKED</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443288" start="20250822010000 +0000" stop="20250822020000 +0000" display-name="MYX">
+    <title lang="zh">MYX HITS DIFFERENT</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443288" start="20250822020000 +0000" stop="20250822030000 +0000" display-name="MYX">
+    <title lang="zh">THE OPM HOUR</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443288" start="20250822030000 +0000" stop="20250822040000 +0000" display-name="MYX">
+    <title lang="zh">ONE DREAM THE BINIBGYO JOURNEY</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443288" start="20250822040000 +0000" stop="20250822050000 +0000" display-name="MYX">
+    <title lang="zh">MYX PRESS PLAY</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443288" start="20250822050000 +0000" stop="20250822060000 +0000" display-name="MYX">
+    <title lang="zh">MYX LIVE!</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443288" start="20250822060000 +0000" stop="20250822063000 +0000" display-name="MYX">
+    <title lang="zh">BOOKED</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443288" start="20250822063000 +0000" stop="20250822070000 +0000" display-name="MYX">
+    <title lang="zh">MYX PRESENTS THE MUSIC ROOM</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443288" start="20250822070000 +0000" stop="20250822080000 +0000" display-name="MYX">
+    <title lang="zh">MYX HITS DIFFERENT</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443288" start="20250822080000 +0000" stop="20250822090000 +0000" display-name="MYX">
+    <title lang="zh">THE OPM HOUR</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443288" start="20250822090000 +0000" stop="20250822100000 +0000" display-name="MYX">
+    <title lang="zh">ONE DREAM THE BINIBGYO JOURNEY</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443288" start="20250822100000 +0000" stop="20250822110000 +0000" display-name="MYX">
+    <title lang="zh">MYX PRESS PLAY</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443288" start="20250822110000 +0000" stop="20250822120000 +0000" display-name="MYX">
+    <title lang="zh">MYX LIVE!</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443288" start="20250822120000 +0000" stop="20250823000000 +0000" display-name="MYX">
+    <title lang="zh">MYXCLUSIVES</title>
     <desc/>
     <date>2025-08-22</date>
   </programme>
