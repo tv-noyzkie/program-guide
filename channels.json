@@ -12,6 +12,24 @@
     "logo": "https://i.imgur.com/mhYrit2.png" 
   },
   { 
+    "id": "369842",
+    "name": "GMA Pinoy TV (SG)",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=369842",
+    "logo": "https://i.imgur.com/Jinf00v.png" 
+  },
+  { 
+    "id": "369769",
+    "name": "GMA Life TV (SG)",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=369769",
+    "logo": "https://i.imgur.com/jiX9Sol.png" 
+  },
+  { 
+    "id": "369794",
+    "name": "GMA News TV (SG)",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=369794",
+    "logo": "https://i.imgur.com/7hBbdO6.png" 
+  },
+  { 
     "id": "412127",
     "name": "ANC Global",             
     "url": "https://epg.pw/api/epg.xml?channel_id=412127",
