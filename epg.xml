@@ -48,116 +48,6 @@
     <display-name lang="en">Celestial Movies Pinoy</display-name>
     <icon src="https://i.imgur.com/EkmCzO1.png"/>
   </channel>
-  <programme channel="7870" start="20250821000000 +0000" stop="20250821003000 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">The Flying House</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821003000 +0000" stop="20250821010000 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">Superbook Reimagined</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821010000 +0000" stop="20250821020000 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">Magandang Buhay</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821020000 +0000" stop="20250821040000 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">Kapamilya Blockbusters</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821040000 +0000" stop="20250821063000 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">It's Showtime</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821063000 +0000" stop="20250821071500 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">Linlang</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821071500 +0000" stop="20250821080000 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">Pamilya Sagrado</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821080000 +0000" stop="20250821093000 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">Kapamilya Gold Hits</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821093000 +0000" stop="20250821094500 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">TV Patrol Express</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821094500 +0000" stop="20250821103000 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">Kapamilya Deal Or No Deal</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821103000 +0000" stop="20250821120000 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">TV Patrol</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821120000 +0000" stop="20250821124500 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">FPJ's Batang Quiapo</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821124500 +0000" stop="20250821133000 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">It's Okay To Not Be Okay</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821133000 +0000" stop="20250821141500 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">Sins Of The Father</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821141500 +0000" stop="20250821144500 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">Unchained Love</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821144500 +0000" stop="20250821151500 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">The World Tonight</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821151500 +0000" stop="20250821180000 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">Movie Central Presents</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821180000 +0000" stop="20250821194500 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">Movie Central Presents</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821194500 +0000" stop="20250821213000 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">Movie Central Presents</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821213000 +0000" stop="20250821220000 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">Kapamilya Daily Mass</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821220000 +0000" stop="20250821230000 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">School Anywhere sa Kapamilya Channel</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7870" start="20250821230000 +0000" stop="20250822000000 +0000" display-name="Kapamilya Channel">
-    <title lang="zh">Marina</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
   <programme channel="7870" start="20250822000000 +0000" stop="20250822003000 +0000" display-name="Kapamilya Channel">
     <title lang="zh">The Flying House</title>
     <desc/>
@@ -268,200 +158,90 @@
     <desc/>
     <date>2025-08-22</date>
   </programme>
-  <programme channel="7846" start="20250821000000 +0000" stop="20250821010000 +0000" display-name="ANC">
-    <title lang="zh">Headstart with Karen Davila</title>
+  <programme channel="7870" start="20250823003000 +0000" stop="20250823040000 +0000" display-name="Kapamilya Channel">
+    <title lang="zh">KB Family Weekend</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7846" start="20250821010000 +0000" stop="20250821020000 +0000" display-name="ANC">
-    <title lang="zh">Market Edge</title>
+  <programme channel="7870" start="20250823040000 +0000" stop="20250823063000 +0000" display-name="Kapamilya Channel">
+    <title lang="zh">It's Showtime</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7846" start="20250821020000 +0000" stop="20250821023000 +0000" display-name="ANC">
-    <title lang="zh">#NoFilter</title>
+  <programme channel="7870" start="20250823063000 +0000" stop="20250823071500 +0000" display-name="Kapamilya Channel">
+    <title lang="zh">Huwag Kang Mangamba</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7846" start="20250821023000 +0000" stop="20250821030000 +0000" display-name="ANC">
-    <title lang="zh">Hot Copy on Headstart with Karen Davila</title>
+  <programme channel="7870" start="20250823071500 +0000" stop="20250823091500 +0000" display-name="Kapamilya Channel">
+    <title lang="zh">Kapamilya Action Sabado</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7846" start="20250821030000 +0000" stop="20250821033000 +0000" display-name="ANC">
-    <title lang="zh">Tomorrow Today</title>
+  <programme channel="7870" start="20250823091500 +0000" stop="20250823101500 +0000" display-name="Kapamilya Channel">
+    <title lang="zh">TV Patrol Sabado</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7846" start="20250821033000 +0000" stop="20250821040000 +0000" display-name="ANC">
+  <programme channel="7870" start="20250823101500 +0000" stop="20250823111500 +0000" display-name="Kapamilya Channel">
+    <title lang="zh">Rainbow Rumble</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7870" start="20250823111500 +0000" stop="20250823123000 +0000" display-name="Kapamilya Channel">
+    <title lang="zh">Idol Kids Philippines</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7870" start="20250823123000 +0000" stop="20250823133000 +0000" display-name="Kapamilya Channel">
+    <title lang="zh">Maalaala Mo Kaya</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7870" start="20250823133000 +0000" stop="20250823141500 +0000" display-name="Kapamilya Channel">
     <title lang="zh">Tao Po!</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7846" start="20250821040000 +0000" stop="20250821050000 +0000" display-name="ANC">
-    <title lang="zh">Dateline Philippines</title>
+  <programme channel="7870" start="20250823141500 +0000" stop="20250823160000 +0000" display-name="Kapamilya Channel">
+    <title lang="zh">Super Kapamilya Blockbuster Movie</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7846" start="20250821050000 +0000" stop="20250821053000 +0000" display-name="ANC">
-    <title lang="zh">On Cue</title>
+  <programme channel="7870" start="20250823160000 +0000" stop="20250823180000 +0000" display-name="Kapamilya Channel">
+    <title lang="zh">Movie Central Presents</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7846" start="20250821053000 +0000" stop="20250821060000 +0000" display-name="ANC">
-    <title lang="zh">Ride: Fei Originals</title>
+  <programme channel="7870" start="20250823180000 +0000" stop="20250823200000 +0000" display-name="Kapamilya Channel">
+    <title lang="zh">Movie Central Presents</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7846" start="20250821060000 +0000" stop="20250821063000 +0000" display-name="ANC">
-    <title lang="zh">Global 3000</title>
+  <programme channel="7870" start="20250823200000 +0000" stop="20250823220000 +0000" display-name="Kapamilya Channel">
+    <title lang="zh">Movie Central Presents</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7846" start="20250821063000 +0000" stop="20250821070000 +0000" display-name="ANC">
-    <title lang="zh">At The Moment</title>
+  <programme channel="7870" start="20250823220000 +0000" stop="20250823230000 +0000" display-name="Kapamilya Channel">
+    <title lang="zh">The Healing Eucharist Sunday Mass</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7846" start="20250821070000 +0000" stop="20250821080000 +0000" display-name="ANC">
-    <title lang="zh">Business Roadshow</title>
+  <programme channel="7870" start="20250823230000 +0000" stop="20250823232500 +0000" display-name="Kapamilya Channel">
+    <title lang="zh">Ready Set Read</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7846" start="20250821080000 +0000" stop="20250821083000 +0000" display-name="ANC">
-    <title lang="zh">Executive Class</title>
+  <programme channel="7870" start="20250823232500 +0000" stop="20250823235000 +0000" display-name="Kapamilya Channel">
+    <title lang="zh">Math-dali</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7846" start="20250821083000 +0000" stop="20250821090000 +0000" display-name="ANC">
-    <title lang="zh">Made in Germany</title>
+  <programme channel="7870" start="20250823235000 +0000" stop="20250824000000 +0000" display-name="Kapamilya Channel">
+    <title lang="zh">Estudyantipid</title>
     <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821090000 +0000" stop="20250821100000 +0000" display-name="ANC">
-    <title lang="zh">Top Story</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821100000 +0000" stop="20250821103000 +0000" display-name="ANC">
-    <title lang="zh">Rev</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821103000 +0000" stop="20250821120000 +0000" display-name="ANC">
-    <title lang="zh">TV Patrol</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821120000 +0000" stop="20250821123000 +0000" display-name="ANC">
-    <title lang="zh">Business Outlook</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821123000 +0000" stop="20250821130000 +0000" display-name="ANC">
-    <title lang="zh">Dayaw</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821130000 +0000" stop="20250821133000 +0000" display-name="ANC">
-    <title lang="zh">The World Tonight</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821133000 +0000" stop="20250821140000 +0000" display-name="ANC">
-    <title lang="zh">Rev</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821140000 +0000" stop="20250821143000 +0000" display-name="ANC">
-    <title lang="zh">Arts.21</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821143000 +0000" stop="20250821150000 +0000" display-name="ANC">
-    <title lang="zh">My Puhunan Kaya Mo!</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821150000 +0000" stop="20250821153000 +0000" display-name="ANC">
-    <title lang="zh">Executive Class</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821153000 +0000" stop="20250821160000 +0000" display-name="ANC">
-    <title lang="zh">Asian Air Safari</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821160000 +0000" stop="20250821163000 +0000" display-name="ANC">
-    <title lang="zh">The World Tonight</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821163000 +0000" stop="20250821170000 +0000" display-name="ANC">
-    <title lang="zh">Women of Style</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821170000 +0000" stop="20250821180000 +0000" display-name="ANC">
-    <title lang="zh">Headstart with Karen Davila</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821180000 +0000" stop="20250821183000 +0000" display-name="ANC">
-    <title lang="zh">#NoFilter</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821183000 +0000" stop="20250821190000 +0000" display-name="ANC">
-    <title lang="zh">My Italy with Margarita</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821190000 +0000" stop="20250821193000 +0000" display-name="ANC">
-    <title lang="zh">At The Moment</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821193000 +0000" stop="20250821200000 +0000" display-name="ANC">
-    <title lang="zh">Casa Daza</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821200000 +0000" stop="20250821203000 +0000" display-name="ANC">
-    <title lang="zh">Dwellings</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821203000 +0000" stop="20250821210000 +0000" display-name="ANC">
-    <title lang="zh">Arts.21</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821210000 +0000" stop="20250821213000 +0000" display-name="ANC">
-    <title lang="zh">EIC on The Move</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821213000 +0000" stop="20250821220000 +0000" display-name="ANC">
-    <title lang="zh">Ride: Fei Originals</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821220000 +0000" stop="20250821230000 +0000" display-name="ANC">
-    <title lang="zh">Business Roadshow</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821230000 +0000" stop="20250821233000 +0000" display-name="ANC">
-    <title lang="zh">ANC Rundown</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="7846" start="20250821233000 +0000" stop="20250822000000 +0000" display-name="ANC">
-    <title lang="zh">Business Outlook</title>
-    <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
   <programme channel="7846" start="20250822000000 +0000" stop="20250822010000 +0000" display-name="ANC">
     <title lang="zh">Headstart with Karen Davila</title>
@@ -643,175 +423,375 @@
     <desc/>
     <date>2025-08-22</date>
   </programme>
-  <programme channel="7846" start="20250823000000 +0000" stop="20250824000000 +0000" display-name="ANC">
+  <programme channel="7846" start="20250823000000 +0000" stop="20250823003000 +0000" display-name="ANC">
     <title lang="zh">The World Sailing Show</title>
     <desc/>
     <date>2025-08-23</date>
   </programme>
-  <programme channel="7864" start="20250821010000 +0000" stop="20250821030000 +0000" display-name="Cinema One">
-    <title lang="zh">No Return No Exchange</title>
+  <programme channel="7846" start="20250823003000 +0000" stop="20250823010000 +0000" display-name="ANC">
+    <title lang="zh">Michelin Le Man Cup</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7864" start="20250821030000 +0000" stop="20250821050000 +0000" display-name="Cinema One">
-    <title lang="zh">Starzan II</title>
+  <programme channel="7846" start="20250823010000 +0000" stop="20250823013000 +0000" display-name="ANC">
+    <title lang="zh">ANC Conversations</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7864" start="20250821050000 +0000" stop="20250821070000 +0000" display-name="Cinema One">
-    <title lang="zh">Kay Tagal Kang Hinintay</title>
+  <programme channel="7846" start="20250823013000 +0000" stop="20250823020000 +0000" display-name="ANC">
+    <title lang="zh">Casa Daza</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7864" start="20250821070000 +0000" stop="20250821090000 +0000" display-name="Cinema One">
-    <title lang="zh">Asboobs Asal Bobo</title>
+  <programme channel="7846" start="20250823020000 +0000" stop="20250823023000 +0000" display-name="ANC">
+    <title lang="zh">ANC Rundown</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7864" start="20250821090000 +0000" stop="20250821110000 +0000" display-name="Cinema One">
-    <title lang="zh">Crazy Beautiful You</title>
+  <programme channel="7846" start="20250823023000 +0000" stop="20250823030000 +0000" display-name="ANC">
+    <title lang="zh">G Diaries: Stronger Together</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7864" start="20250821110000 +0000" stop="20250821130000 +0000" display-name="Cinema One">
-    <title lang="zh">Sigaw</title>
+  <programme channel="7846" start="20250823030000 +0000" stop="20250823033000 +0000" display-name="ANC">
+    <title lang="zh">Dayaw</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="7864" start="20250821130000 +0000" stop="20250822000000 +0000" display-name="Cinema One">
-    <title lang="zh">Multo In The City</title>
+  <programme channel="7846" start="20250823033000 +0000" stop="20250823040000 +0000" display-name="ANC">
+    <title lang="zh">My Puhunan Kaya Mo!</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="443285" start="20250821010000 +0000" stop="20250821030000 +0000" display-name="Cinema Mo!">
-    <title lang="zh">FAMILY TREE NIDA BLANCA</title>
+  <programme channel="7846" start="20250823040000 +0000" stop="20250823050000 +0000" display-name="ANC">
+    <title lang="zh">Dateline Philippines</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="443285" start="20250821030000 +0000" stop="20250821050000 +0000" display-name="Cinema Mo!">
-    <title lang="zh">LOVERS DELIGHT JOEY MARQUEZ</title>
+  <programme channel="7846" start="20250823050000 +0000" stop="20250823053000 +0000" display-name="ANC">
+    <title lang="zh">Insight with April Lee-Tan</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="443285" start="20250821050000 +0000" stop="20250821070000 +0000" display-name="Cinema Mo!">
-    <title lang="zh">MONTEMAYOR TULISANG DAGAT RUDY FERNANDEZ</title>
+  <programme channel="7846" start="20250823053000 +0000" stop="20250823060000 +0000" display-name="ANC">
+    <title lang="zh">Rev</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="443285" start="20250821070000 +0000" stop="20250821090000 +0000" display-name="Cinema Mo!">
-    <title lang="zh">KAMANDAG NG REHAS NA BAKAL PHILLIP SALVADOR</title>
+  <programme channel="7846" start="20250823060000 +0000" stop="20250823063000 +0000" display-name="ANC">
+    <title lang="zh">Asian Air Safari</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="443285" start="20250821090000 +0000" stop="20250821110000 +0000" display-name="Cinema Mo!">
-    <title lang="zh">STOMACH IN, CHEST OUT EDDIE GARCIA</title>
+  <programme channel="7846" start="20250823063000 +0000" stop="20250823070000 +0000" display-name="ANC">
+    <title lang="zh">Hot Copy on Headstart with Karen Davila</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="443285" start="20250821110000 +0000" stop="20250822000000 +0000" display-name="Cinema Mo!">
-    <title lang="zh">SHOTGUN BANJO ZOREN LEGASPI</title>
+  <programme channel="7846" start="20250823070000 +0000" stop="20250823080000 +0000" display-name="ANC">
+    <title lang="zh">Chasing Flavors</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821000000 +0000" stop="20250821010000 +0000" display-name="PTV">
-    <title lang="zh">PTV Sports</title>
+  <programme channel="7846" start="20250823080000 +0000" stop="20250823083000 +0000" display-name="ANC">
+    <title lang="zh">Tao Po!</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821010000 +0000" stop="20250821020000 +0000" display-name="PTV">
-    <title lang="zh">Mike Abe Live</title>
+  <programme channel="7846" start="20250823083000 +0000" stop="20250823084500 +0000" display-name="ANC">
+    <title lang="zh">Maaram Isla Ng Panay</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821020000 +0000" stop="20250821030000 +0000" display-name="PTV">
-    <title lang="zh">Radyo Publiko Serbisyo</title>
+  <programme channel="7846" start="20250823084500 +0000" stop="20250823091500 +0000" display-name="ANC">
+    <title lang="zh">Top Story Weekend</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821030000 +0000" stop="20250821040000 +0000" display-name="PTV">
-    <title lang="zh">Presidential Coverage</title>
+  <programme channel="7846" start="20250823091500 +0000" stop="20250823101500 +0000" display-name="ANC">
+    <title lang="zh">TV Patrol Weekend</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821040000 +0000" stop="20250821050000 +0000" display-name="PTV">
-    <title lang="zh">Bagong Pilipinas Ngayon</title>
+  <programme channel="7846" start="20250823101500 +0000" stop="20250823103000 +0000" display-name="ANC">
+    <title lang="zh">Gourmet Takeaway</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821050000 +0000" stop="20250821060000 +0000" display-name="PTV">
-    <title lang="zh">Sentro Balita</title>
+  <programme channel="7846" start="20250823103000 +0000" stop="20250823110000 +0000" display-name="ANC">
+    <title lang="zh">LSS: The Martin Nievera Show</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821060000 +0000" stop="20250821061500 +0000" display-name="PTV">
-    <title lang="zh">ASEAN Documentary</title>
+  <programme channel="7846" start="20250823110000 +0000" stop="20250823113000 +0000" display-name="ANC">
+    <title lang="zh">At The Moment</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821061500 +0000" stop="20250821070000 +0000" display-name="PTV">
-    <title lang="zh">Stories From The Grid</title>
+  <programme channel="7846" start="20250823113000 +0000" stop="20250823120000 +0000" display-name="ANC">
+    <title lang="zh">My Italy with Margarita</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821070000 +0000" stop="20250821080000 +0000" display-name="PTV">
-    <title lang="zh">PTV Sports</title>
+  <programme channel="7846" start="20250823120000 +0000" stop="20250823123000 +0000" display-name="ANC">
+    <title lang="zh">Mobil 1 The Grid</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821080000 +0000" stop="20250821090000 +0000" display-name="PTV">
-    <title lang="zh">Bagong Pilipinas Ngayon</title>
+  <programme channel="7846" start="20250823123000 +0000" stop="20250823130000 +0000" display-name="ANC">
+    <title lang="zh">Rev</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821090000 +0000" stop="20250821093000 +0000" display-name="PTV">
-    <title lang="zh">Eat's Fun</title>
+  <programme channel="7846" start="20250823130000 +0000" stop="20250823133000 +0000" display-name="ANC">
+    <title lang="zh">The World Tonight</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821093000 +0000" stop="20250821100000 +0000" display-name="PTV">
-    <title lang="zh">PBBM Bloc</title>
+  <programme channel="7846" start="20250823133000 +0000" stop="20250823140000 +0000" display-name="ANC">
+    <title lang="zh">Executive Class</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821100000 +0000" stop="20250821110000 +0000" display-name="PTV">
-    <title lang="zh">Ulat Bayan</title>
+  <programme channel="7846" start="20250823140000 +0000" stop="20250823150000 +0000" display-name="ANC">
+    <title lang="zh">Asian Le Mans Series</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821110000 +0000" stop="20250821120000 +0000" display-name="PTV">
-    <title lang="zh">Iskoolmates</title>
+  <programme channel="7846" start="20250823150000 +0000" stop="20250823160000 +0000" display-name="ANC">
+    <title lang="zh">Metabeats</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821120000 +0000" stop="20250821130000 +0000" display-name="PTV">
-    <title lang="zh">Pag-usapan Natin with Oscar Orbos</title>
+  <programme channel="7846" start="20250823160000 +0000" stop="20250823163000 +0000" display-name="ANC">
+    <title lang="zh">The World Tonight</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821130000 +0000" stop="20250821140000 +0000" display-name="PTV">
-    <title lang="zh">PTV News Tonight</title>
+  <programme channel="7846" start="20250823163000 +0000" stop="20250823170000 +0000" display-name="ANC">
+    <title lang="zh">Local Legends</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821140000 +0000" stop="20250821150000 +0000" display-name="PTV">
-    <title lang="zh">Oras Ng Himala</title>
+  <programme channel="7846" start="20250823170000 +0000" stop="20250823173000 +0000" display-name="ANC">
+    <title lang="zh">Tao Po!</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821150000 +0000" stop="20250821213000 +0000" display-name="PTV">
-    <title lang="zh">Bagong Pilipinas Ngayon</title>
+  <programme channel="7846" start="20250823173000 +0000" stop="20250823180000 +0000" display-name="ANC">
+    <title lang="zh">At The Moment</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821213000 +0000" stop="20250821220000 +0000" display-name="PTV">
-    <title lang="zh">PBBM Bloc</title>
+  <programme channel="7846" start="20250823180000 +0000" stop="20250823190000 +0000" display-name="ANC">
+    <title lang="zh">24x24</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70612" start="20250821220000 +0000" stop="20250822000000 +0000" display-name="PTV">
-    <title lang="zh">Rise and Shine Pilipinas</title>
+  <programme channel="7846" start="20250823190000 +0000" stop="20250823193000 +0000" display-name="ANC">
+    <title lang="zh">On Cue</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7846" start="20250823193000 +0000" stop="20250823200000 +0000" display-name="ANC">
+    <title lang="zh">LSS: The Martin Nievera Show</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7846" start="20250823200000 +0000" stop="20250823203000 +0000" display-name="ANC">
+    <title lang="zh">G Diaries: Stronger Together</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7846" start="20250823203000 +0000" stop="20250823210000 +0000" display-name="ANC">
+    <title lang="zh">My Italy with Margarita</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7846" start="20250823210000 +0000" stop="20250823213000 +0000" display-name="ANC">
+    <title lang="zh">Global Us</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7846" start="20250823213000 +0000" stop="20250823220000 +0000" display-name="ANC">
+    <title lang="zh">Made in Germany</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7846" start="20250823220000 +0000" stop="20250823223000 +0000" display-name="ANC">
+    <title lang="zh">The Word Exposed</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7846" start="20250823223000 +0000" stop="20250823230000 +0000" display-name="ANC">
+    <title lang="zh">Dayaw</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7846" start="20250823230000 +0000" stop="20250824000000 +0000" display-name="ANC">
+    <title lang="zh">Metabeats</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7846" start="20250824000000 +0000" stop="20250825000000 +0000" display-name="ANC">
+    <title lang="zh">Executive Class</title>
+    <desc/>
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="7864" start="20250822010000 +0000" stop="20250822030000 +0000" display-name="Cinema One">
+    <title lang="zh">The Knight Of Shadows</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7864" start="20250822030000 +0000" stop="20250822050000 +0000" display-name="Cinema One">
+    <title lang="zh">Isprikitik Walastik Kung Pumitik</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7864" start="20250822050000 +0000" stop="20250822070000 +0000" display-name="Cinema One">
+    <title lang="zh">Abandoned</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7864" start="20250822070000 +0000" stop="20250822080000 +0000" display-name="Cinema One">
+    <title lang="zh">The B Side: Iza Calzado</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7864" start="20250822080000 +0000" stop="20250822100000 +0000" display-name="Cinema One">
+    <title lang="zh">The Amazing Praybeyt Benjamin</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7864" start="20250822100000 +0000" stop="20250822120000 +0000" display-name="Cinema One">
+    <title lang="zh">Unofficially Yours</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7864" start="20250822120000 +0000" stop="20250822140000 +0000" display-name="Cinema One">
+    <title lang="zh">Maria Leonora Teresa</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7864" start="20250822140000 +0000" stop="20250822160000 +0000" display-name="Cinema One">
+    <title lang="zh">Mabuting Kaibigan, Masamang Kaaway</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7864" start="20250822160000 +0000" stop="20250822180000 +0000" display-name="Cinema One">
+    <title lang="zh">Magandang Hating Gabi</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7864" start="20250822180000 +0000" stop="20250822200000 +0000" display-name="Cinema One">
+    <title lang="zh">Ligaya Ang Itawag Mo Sa Akin</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7864" start="20250822200000 +0000" stop="20250822220000 +0000" display-name="Cinema One">
+    <title lang="zh">Nervous Translation</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7864" start="20250822220000 +0000" stop="20250823000000 +0000" display-name="Cinema One">
+    <title lang="zh">Geron Olivar</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7864" start="20250823000000 +0000" stop="20250823020000 +0000" display-name="Cinema One">
+    <title lang="zh">Give Me Five</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7864" start="20250823020000 +0000" stop="20250823040000 +0000" display-name="Cinema One">
+    <title lang="zh">Haba Baba Doo Puti Puti Poo</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7864" start="20250823040000 +0000" stop="20250823060000 +0000" display-name="Cinema One">
+    <title lang="zh">Wansapanataym</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7864" start="20250823060000 +0000" stop="20250823080000 +0000" display-name="Cinema One">
+    <title lang="zh">Must Be Love</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7864" start="20250823080000 +0000" stop="20250823100000 +0000" display-name="Cinema One">
+    <title lang="zh">Babe, I Love You</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7864" start="20250823100000 +0000" stop="20250823110000 +0000" display-name="Cinema One">
+    <title lang="zh">The B Side: Iza Calzado</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7864" start="20250823110000 +0000" stop="20250823130000 +0000" display-name="Cinema One">
+    <title lang="zh">One More Try</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7864" start="20250823130000 +0000" stop="20250823150000 +0000" display-name="Cinema One">
+    <title lang="zh">Jack Em Popoy: The Puliscredibles</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7864" start="20250823150000 +0000" stop="20250823170000 +0000" display-name="Cinema One">
+    <title lang="zh">Student Body</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7864" start="20250823170000 +0000" stop="20250823190000 +0000" display-name="Cinema One">
+    <title lang="zh">Pieta 2</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7864" start="20250823190000 +0000" stop="20250823210000 +0000" display-name="Cinema One">
+    <title lang="zh">Singing In Graveyards</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7864" start="20250823210000 +0000" stop="20250823230000 +0000" display-name="Cinema One">
+    <title lang="zh">Yesterday, Today, And Tomorrow</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7864" start="20250823230000 +0000" stop="20250824000000 +0000" display-name="Cinema One">
+    <title lang="zh">Biokids</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="443285" start="20250822010000 +0000" stop="20250822030000 +0000" display-name="Cinema Mo!">
+    <title lang="zh">SPIRIT WARRIORS VHONG NAVARRO</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443285" start="20250822030000 +0000" stop="20250822050000 +0000" display-name="Cinema Mo!">
+    <title lang="zh">JUAN TANGA JOEY MARQUEZ</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443285" start="20250822050000 +0000" stop="20250822070000 +0000" display-name="Cinema Mo!">
+    <title lang="zh">BOY TORNADO BONG REVILLA</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443285" start="20250822070000 +0000" stop="20250822090000 +0000" display-name="Cinema Mo!">
+    <title lang="zh">RESBAK PHILLIP SALVADOR</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443285" start="20250822090000 +0000" stop="20250822110000 +0000" display-name="Cinema Mo!">
+    <title lang="zh">THE ADVENTURES OF PUREZA QUEEN OF THE RILES MELAI CANTIVEROS</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="443285" start="20250822110000 +0000" stop="20250823000000 +0000" display-name="Cinema Mo!">
+    <title lang="zh">DIBDIBAN ANG LABAN GARY ESTRADA</title>
+    <desc/>
+    <date>2025-08-22</date>
   </programme>
   <programme channel="70612" start="20250822000000 +0000" stop="20250822010000 +0000" display-name="PTV">
     <title lang="zh">PTV Sports</title>
@@ -908,180 +888,115 @@
     <desc/>
     <date>2025-08-22</date>
   </programme>
-  <programme channel="70612" start="20250823000000 +0000" stop="20250824000000 +0000" display-name="PTV">
+  <programme channel="70612" start="20250823000000 +0000" stop="20250823003000 +0000" display-name="PTV">
     <title lang="zh">Yan Ang Marino</title>
     <desc/>
     <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821000000 +0000" stop="20250821010000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="11984" start="20250821010000 +0000" stop="20250821020000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="11984" start="20250821020000 +0000" stop="20250821023000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="11984" start="20250821023000 +0000" stop="20250821030000 +0000" display-name="TV5">
-    <title lang="zh">Frontline Express</title>
+  <programme channel="70612" start="20250823003000 +0000" stop="20250823010000 +0000" display-name="PTV">
+    <title lang="zh">Auto Review</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821030000 +0000" stop="20250821040000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="11984" start="20250821040000 +0000" stop="20250821050000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="11984" start="20250821050000 +0000" stop="20250821060000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="11984" start="20250821060000 +0000" stop="20250821063000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="11984" start="20250821063000 +0000" stop="20250821070000 +0000" display-name="TV5">
-    <title lang="zh">Frontline Express</title>
+  <programme channel="70612" start="20250823010000 +0000" stop="20250823023000 +0000" display-name="PTV">
+    <title lang="zh">Presidential Coverage</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821070000 +0000" stop="20250821074500 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="11984" start="20250821074500 +0000" stop="20250821080000 +0000" display-name="TV5">
-    <title lang="zh">Cine Cinco Sa Hapon</title>
+  <programme channel="70612" start="20250823023000 +0000" stop="20250823030000 +0000" display-name="PTV">
+    <title lang="zh">Artsy Craftsy</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821080000 +0000" stop="20250821090000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="11984" start="20250821090000 +0000" stop="20250821093000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="11984" start="20250821093000 +0000" stop="20250821100000 +0000" display-name="TV5">
-    <title lang="zh">Una Sa Lahat</title>
+  <programme channel="70612" start="20250823030000 +0000" stop="20250823040000 +0000" display-name="PTV">
+    <title lang="zh">Iskoolmates</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821100000 +0000" stop="20250821104500 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="11984" start="20250821104500 +0000" stop="20250821110000 +0000" display-name="TV5">
-    <title lang="zh">Seducing Drake Palma</title>
+  <programme channel="70612" start="20250823040000 +0000" stop="20250823050000 +0000" display-name="PTV">
+    <title lang="zh">Bagong Pilipinas Ngayon</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821110000 +0000" stop="20250821111500 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="11984" start="20250821111500 +0000" stop="20250821120000 +0000" display-name="TV5">
-    <title lang="zh">Totoy Bato</title>
+  <programme channel="70612" start="20250823050000 +0000" stop="20250823053000 +0000" display-name="PTV">
+    <title lang="zh">Sentro Balita Weekend</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821120000 +0000" stop="20250821124500 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="11984" start="20250821124500 +0000" stop="20250821130000 +0000" display-name="TV5">
-    <title lang="zh">It's Okay To Not Be Okay</title>
+  <programme channel="70612" start="20250823053000 +0000" stop="20250823060000 +0000" display-name="PTV">
+    <title lang="zh">Maaram Isla Ng Panay</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821130000 +0000" stop="20250821133000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="11984" start="20250821133000 +0000" stop="20250821140000 +0000" display-name="TV5">
-    <title lang="zh">Sins Of The Father</title>
+  <programme channel="70612" start="20250823060000 +0000" stop="20250823070000 +0000" display-name="PTV">
+    <title lang="zh">Presidential Coverage</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821140000 +0000" stop="20250821141500 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="11984" start="20250821141500 +0000" stop="20250821144500 +0000" display-name="TV5">
-    <title lang="zh">Unchained Love</title>
+  <programme channel="70612" start="20250823070000 +0000" stop="20250823080000 +0000" display-name="PTV">
+    <title lang="zh">Abu Sports</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821144500 +0000" stop="20250821150000 +0000" display-name="TV5">
-    <title lang="zh">Frontline Tonight</title>
+  <programme channel="70612" start="20250823080000 +0000" stop="20250823083000 +0000" display-name="PTV">
+    <title lang="zh">ASEAN Documentary</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821150000 +0000" stop="20250821160000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
+  <programme channel="70612" start="20250823083000 +0000" stop="20250823090000 +0000" display-name="PTV">
+    <title lang="zh">PTV Sports Weekend</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821160000 +0000" stop="20250821170000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
+  <programme channel="70612" start="20250823090000 +0000" stop="20250823093000 +0000" display-name="PTV">
+    <title lang="zh">Eat's Fun</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821170000 +0000" stop="20250821180000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
+  <programme channel="70612" start="20250823093000 +0000" stop="20250823100000 +0000" display-name="PTV">
+    <title lang="zh">Malacanang Press Briefing</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821180000 +0000" stop="20250821190000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
+  <programme channel="70612" start="20250823100000 +0000" stop="20250823110000 +0000" display-name="PTV">
+    <title lang="zh">Ulat Bayan Weekend</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821190000 +0000" stop="20250821200000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
+  <programme channel="70612" start="20250823110000 +0000" stop="20250823120000 +0000" display-name="PTV">
+    <title lang="zh">Bagong Pilipinas Ngayon</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821200000 +0000" stop="20250821210000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
+  <programme channel="70612" start="20250823120000 +0000" stop="20250823130000 +0000" display-name="PTV">
+    <title lang="zh">Public Eye</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821210000 +0000" stop="20250821220000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
+  <programme channel="70612" start="20250823130000 +0000" stop="20250823133000 +0000" display-name="PTV">
+    <title lang="zh">Presidential Coverage</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821220000 +0000" stop="20250821230000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
+  <programme channel="70612" start="20250823133000 +0000" stop="20250823143000 +0000" display-name="PTV">
+    <title lang="zh">Ulat Bayan Weekend</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="11984" start="20250821230000 +0000" stop="20250822000000 +0000" display-name="TV5">
-    <title lang="zh">To Be Announced</title>
-    <desc>Program information is not yet available.</desc>
-    <date>2025-08-21</date>
+  <programme channel="70612" start="20250823143000 +0000" stop="20250823230000 +0000" display-name="PTV">
+    <title lang="zh">Jesus Miracle Crusade</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="70612" start="20250823230000 +0000" stop="20250823233000 +0000" display-name="PTV">
+    <title lang="zh">PBBM Bloc</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="70612" start="20250823233000 +0000" stop="20250824000000 +0000" display-name="PTV">
+    <title lang="zh">Presidential Coverage</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
   <programme channel="11984" start="20250822000000 +0000" stop="20250822010000 +0000" display-name="TV5">
     <title lang="zh">To Be Announced</title>
@@ -1258,110 +1173,175 @@
     <desc>Program information is not yet available.</desc>
     <date>2025-08-22</date>
   </programme>
-  <programme channel="11984" start="20250823000000 +0000" stop="20250824000000 +0000" display-name="TV5">
+  <programme channel="11984" start="20250823000000 +0000" stop="20250823010000 +0000" display-name="TV5">
     <title lang="zh">To Be Announced</title>
     <desc>Program information is not yet available.</desc>
     <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821000000 +0000" stop="20250821002500 +0000" display-name="GMA">
-    <title lang="zh">One Piece: Dress Rosa Arc</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="11984" start="20250823010000 +0000" stop="20250823013000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821002500 +0000" stop="20250821010000 +0000" display-name="GMA">
-    <title lang="zh">Kamen Rider Revice</title>
+  <programme channel="11984" start="20250823013000 +0000" stop="20250823020000 +0000" display-name="TV5">
+    <title lang="zh">Cine Cinco Weekend</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821010000 +0000" stop="20250821013000 +0000" display-name="GMA">
-    <title lang="zh">Hidden Love</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="11984" start="20250823020000 +0000" stop="20250823030000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821013000 +0000" stop="20250821030000 +0000" display-name="GMA">
-    <title lang="zh">Kapuso Movie Festival</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="11984" start="20250823030000 +0000" stop="20250823033000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821030000 +0000" stop="20250821040000 +0000" display-name="GMA">
-    <title lang="zh">Tiktoclock</title>
+  <programme channel="11984" start="20250823033000 +0000" stop="20250823040000 +0000" display-name="TV5">
+    <title lang="zh">Eat Bulaga</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821040000 +0000" stop="20250821063000 +0000" display-name="GMA">
-    <title lang="zh">It's Showtime</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="11984" start="20250823040000 +0000" stop="20250823050000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821063000 +0000" stop="20250821072000 +0000" display-name="GMA">
-    <title lang="zh">My Father's Wife</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="11984" start="20250823050000 +0000" stop="20250823060000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821072000 +0000" stop="20250821080500 +0000" display-name="GMA">
-    <title lang="zh">Cruz vs. Cruz</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="11984" start="20250823060000 +0000" stop="20250823063000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821080500 +0000" stop="20250821084500 +0000" display-name="GMA">
-    <title lang="zh">Akusada</title>
+  <programme channel="11984" start="20250823063000 +0000" stop="20250823070000 +0000" display-name="TV5">
+    <title lang="zh">Frontline Express</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821084500 +0000" stop="20250821091000 +0000" display-name="GMA">
-    <title lang="zh">Fast Talk with Boy Abunda</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="11984" start="20250823070000 +0000" stop="20250823073000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821091000 +0000" stop="20250821094000 +0000" display-name="GMA">
-    <title lang="zh">The Lovely Runner</title>
+  <programme channel="11984" start="20250823073000 +0000" stop="20250823080000 +0000" display-name="TV5">
+    <title lang="zh">Cine Cinco Hit Na Hit</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821094000 +0000" stop="20250821103000 +0000" display-name="GMA">
-    <title lang="zh">Family Feud</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="11984" start="20250823080000 +0000" stop="20250823090000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821103000 +0000" stop="20250821120000 +0000" display-name="GMA">
-    <title lang="zh">24 Oras</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="11984" start="20250823090000 +0000" stop="20250823093000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821120000 +0000" stop="20250821125000 +0000" display-name="GMA">
-    <title lang="zh">Encantadia Chronicles: Sang'gre</title>
+  <programme channel="11984" start="20250823093000 +0000" stop="20250823100000 +0000" display-name="TV5">
+    <title lang="zh">Emojination</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821125000 +0000" stop="20250821133500 +0000" display-name="GMA">
-    <title lang="zh">Sanggang - Dikit FR</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="11984" start="20250823100000 +0000" stop="20250823103000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821133500 +0000" stop="20250821141000 +0000" display-name="GMA">
-    <title lang="zh">Beauty Empire</title>
+  <programme channel="11984" start="20250823103000 +0000" stop="20250823110000 +0000" display-name="TV5">
+    <title lang="zh">Sing Galing</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821141000 +0000" stop="20250821150000 +0000" display-name="GMA">
-    <title lang="zh">Saksi</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="11984" start="20250823110000 +0000" stop="20250823111500 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821150000 +0000" stop="20250821153000 +0000" display-name="GMA">
-    <title lang="zh">Bossam: Steal The Fate</title>
+  <programme channel="11984" start="20250823111500 +0000" stop="20250823120000 +0000" display-name="TV5">
+    <title lang="zh">Masked Singer Pilipinas</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821153000 +0000" stop="20250821213000 +0000" display-name="GMA">
-    <title lang="zh">Desirable Flowers</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="11984" start="20250823120000 +0000" stop="20250823130000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70615" start="20250821213000 +0000" stop="20250822000000 +0000" display-name="GMA">
-    <title lang="zh">Unang Hirit</title>
+  <programme channel="11984" start="20250823130000 +0000" stop="20250823131500 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="11984" start="20250823131500 +0000" stop="20250823140000 +0000" display-name="TV5">
+    <title lang="zh">American Idol</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="11984" start="20250823140000 +0000" stop="20250823141500 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="11984" start="20250823141500 +0000" stop="20250823150000 +0000" display-name="TV5">
+    <title lang="zh">Gretchen Ho Reports</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="11984" start="20250823150000 +0000" stop="20250823160000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="11984" start="20250823160000 +0000" stop="20250823170000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="11984" start="20250823170000 +0000" stop="20250823180000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="11984" start="20250823180000 +0000" stop="20250823190000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="11984" start="20250823190000 +0000" stop="20250823200000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="11984" start="20250823200000 +0000" stop="20250823210000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="11984" start="20250823210000 +0000" stop="20250823220000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="11984" start="20250823220000 +0000" stop="20250823230000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="11984" start="20250823230000 +0000" stop="20250824000000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="11984" start="20250824000000 +0000" stop="20250825000000 +0000" display-name="TV5">
+    <title lang="zh">To Be Announced</title>
+    <desc>Program information is not yet available.</desc>
+    <date>2025-08-24</date>
   </programme>
   <programme channel="70615" start="20250822000000 +0000" stop="20250822002500 +0000" display-name="GMA">
     <title lang="zh">One Piece: Dress Rosa Arc</title>
@@ -1483,90 +1463,140 @@
     <desc/>
     <date>2025-08-22</date>
   </programme>
-  <programme channel="70615" start="20250823000000 +0000" stop="20250824000000 +0000" display-name="GMA">
+  <programme channel="70615" start="20250823000000 +0000" stop="20250823003000 +0000" display-name="GMA">
     <title lang="zh">Detective Conan</title>
     <desc/>
     <date>2025-08-23</date>
   </programme>
-  <programme channel="70607" start="20250821000000 +0000" stop="20250821010000 +0000" display-name="GTV">
-    <title lang="zh">Saksi Sa Dobol B</title>
+  <programme channel="70615" start="20250823003000 +0000" stop="20250823010000 +0000" display-name="GMA">
+    <title lang="zh">Magic Kaito</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70607" start="20250821010000 +0000" stop="20250821030000 +0000" display-name="GTV">
-    <title lang="zh">Cinema G!</title>
+  <programme channel="70615" start="20250823010000 +0000" stop="20250823013000 +0000" display-name="GMA">
+    <title lang="zh">Jackie Chan Adventures</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70607" start="20250821030000 +0000" stop="20250821040000 +0000" display-name="GTV">
-    <title lang="zh">Balitanghali</title>
+  <programme channel="70615" start="20250823013000 +0000" stop="20250823020000 +0000" display-name="GMA">
+    <title lang="zh">Voltes V</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70607" start="20250821040000 +0000" stop="20250821063000 +0000" display-name="GTV">
-    <title lang="zh">Noontime Movie Hits</title>
+  <programme channel="70615" start="20250823020000 +0000" stop="20250823021500 +0000" display-name="GMA">
+    <title lang="zh">Angry Birds Bubble Trouble</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70607" start="20250821063000 +0000" stop="20250821070000 +0000" display-name="GTV">
-    <title lang="zh">Hugo's Love</title>
+  <programme channel="70615" start="20250823021500 +0000" stop="20250823024500 +0000" display-name="GMA">
+    <title lang="zh">Knock Out</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70607" start="20250821070000 +0000" stop="20250821073000 +0000" display-name="GTV">
-    <title lang="zh">Romantic Deception</title>
+  <programme channel="70615" start="20250823024500 +0000" stop="20250823031500 +0000" display-name="GMA">
+    <title lang="zh">Dami Mong Alam, Kuya Kim</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70607" start="20250821073000 +0000" stop="20250821094500 +0000" display-name="GTV">
-    <title lang="zh">Afternoon Movie Break</title>
+  <programme channel="70615" start="20250823031500 +0000" stop="20250823040000 +0000" display-name="GMA">
+    <title lang="zh">Pera-Paraan</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70607" start="20250821094500 +0000" stop="20250821103000 +0000" display-name="GTV">
-    <title lang="zh">Luv Is: Caught In His Arms</title>
+  <programme channel="70615" start="20250823040000 +0000" stop="20250823063000 +0000" display-name="GMA">
+    <title lang="zh">It's Showtime</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70607" start="20250821103000 +0000" stop="20250821120500 +0000" display-name="GTV">
-    <title lang="zh">24 Oras</title>
+  <programme channel="70615" start="20250823063000 +0000" stop="20250823071500 +0000" display-name="GMA">
+    <title lang="zh">My Father's Wife</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70607" start="20250821120500 +0000" stop="20250821134500 +0000" display-name="GTV">
-    <title lang="zh">G! Flicks</title>
+  <programme channel="70615" start="20250823071500 +0000" stop="20250823080500 +0000" display-name="GMA">
+    <title lang="zh">Tadhana</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70607" start="20250821134500 +0000" stop="20250821143000 +0000" display-name="GTV">
-    <title lang="zh">Encantadia Chronicles: Sang'gre</title>
+  <programme channel="70615" start="20250823080500 +0000" stop="20250823084500 +0000" display-name="GMA">
+    <title lang="zh">Wish Ko Lang</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70607" start="20250821143000 +0000" stop="20250821150500 +0000" display-name="GTV">
-    <title lang="zh">Sanggang - Dikit FR</title>
+  <programme channel="70615" start="20250823084500 +0000" stop="20250823093000 +0000" display-name="GMA">
+    <title lang="zh">MAKA</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70607" start="20250821150500 +0000" stop="20250821152500 +0000" display-name="GTV">
-    <title lang="zh">State Of The Nation</title>
+  <programme channel="70615" start="20250823093000 +0000" stop="20250823101500 +0000" display-name="GMA">
+    <title lang="zh">24 Oras Weekend</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70607" start="20250821152500 +0000" stop="20250821213000 +0000" display-name="GTV">
-    <title lang="zh">Beauty Empire</title>
+  <programme channel="70615" start="20250823101500 +0000" stop="20250823111500 +0000" display-name="GMA">
+    <title lang="zh">Pepito Manaloto: Tuloy Ang Kuwento</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70607" start="20250821213000 +0000" stop="20250821230000 +0000" display-name="GTV">
-    <title lang="zh">Melo Del Prado Sa Super Radyo</title>
+  <programme channel="70615" start="20250823111500 +0000" stop="20250823121500 +0000" display-name="GMA">
+    <title lang="zh">Stars On The Floor</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="70607" start="20250821230000 +0000" stop="20250822000000 +0000" display-name="GTV">
-    <title lang="zh">Super Balita Sa Umaga Nationwide</title>
+  <programme channel="70615" start="20250823121500 +0000" stop="20250823133000 +0000" display-name="GMA">
+    <title lang="zh">Magpakailanman</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="70615" start="20250823133000 +0000" stop="20250823141500 +0000" display-name="GMA">
+    <title lang="zh">Daig Kayo Ng Lola Ko</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="70615" start="20250823141500 +0000" stop="20250823150000 +0000" display-name="GMA">
+    <title lang="zh">I-Witness</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="70615" start="20250823150000 +0000" stop="20250823153000 +0000" display-name="GMA">
+    <title lang="zh">Reporter's Notebook</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="70615" start="20250823153000 +0000" stop="20250823213000 +0000" display-name="GMA">
+    <title lang="zh">Desirable Flowers</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="70615" start="20250823213000 +0000" stop="20250823220000 +0000" display-name="GMA">
+    <title lang="zh">Key Of David</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="70615" start="20250823220000 +0000" stop="20250823223000 +0000" display-name="GMA">
+    <title lang="zh">Power Rangers Beast Morphers</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="70615" start="20250823223000 +0000" stop="20250823230000 +0000" display-name="GMA">
+    <title lang="zh">Detective Conan</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="70615" start="20250823230000 +0000" stop="20250823233000 +0000" display-name="GMA">
+    <title lang="zh">The Little Prince and Friends</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="70615" start="20250823233000 +0000" stop="20250824000000 +0000" display-name="GMA">
+    <title lang="zh">H20: Mermaid Adventures</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="70615" start="20250824000000 +0000" stop="20250825000000 +0000" display-name="GMA">
+    <title lang="zh">The Amazing Spiez!</title>
+    <desc/>
+    <date>2025-08-24</date>
   </programme>
   <programme channel="70607" start="20250822000000 +0000" stop="20250822010000 +0000" display-name="GTV">
     <title lang="zh">Saksi Sa Dobol B</title>
@@ -1643,105 +1673,80 @@
     <desc/>
     <date>2025-08-22</date>
   </programme>
-  <programme channel="307748" start="20250821000000 +0000" stop="20250821003000 +0000" display-name="A2Z">
-    <title lang="zh">The Flying House</title>
+  <programme channel="70607" start="20250823010000 +0000" stop="20250823013000 +0000" display-name="GTV">
+    <title lang="zh">Science Pinas</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="307748" start="20250821003000 +0000" stop="20250821010000 +0000" display-name="A2Z">
-    <title lang="zh">Superbook</title>
+  <programme channel="70607" start="20250823013000 +0000" stop="20250823040000 +0000" display-name="GTV">
+    <title lang="zh">Saturday Cinema Hits</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="307748" start="20250821010000 +0000" stop="20250821020000 +0000" display-name="A2Z">
-    <title lang="zh">Magandang Buhay</title>
+  <programme channel="70607" start="20250823040000 +0000" stop="20250823063000 +0000" display-name="GTV">
+    <title lang="zh">Noontime Movie Hits</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="307748" start="20250821020000 +0000" stop="20250821040000 +0000" display-name="A2Z">
-    <title lang="zh">Zinema Sa Umaga</title>
+  <programme channel="70607" start="20250823063000 +0000" stop="20250823093000 +0000" display-name="GTV">
+    <title lang="zh">Afternoon Movie Break</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="307748" start="20250821040000 +0000" stop="20250821063000 +0000" display-name="A2Z">
-    <title lang="zh">Its Showtime</title>
+  <programme channel="70607" start="20250823093000 +0000" stop="20250823101500 +0000" display-name="GTV">
+    <title lang="zh">24 Oras Weekend</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="307748" start="20250821063000 +0000" stop="20250821071500 +0000" display-name="A2Z">
-    <title lang="zh">Linlang</title>
+  <programme channel="70607" start="20250823101500 +0000" stop="20250823121500 +0000" display-name="GTV">
+    <title lang="zh">G! Flicks</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="307748" start="20250821071500 +0000" stop="20250821080000 +0000" display-name="A2Z">
-    <title lang="zh">Pamilya Sagrado</title>
+  <programme channel="70607" start="20250823121500 +0000" stop="20250823130000 +0000" display-name="GTV">
+    <title lang="zh">Pinas Sarap</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="307748" start="20250821080000 +0000" stop="20250821093000 +0000" display-name="A2Z">
-    <title lang="zh">Afternoon Zinema</title>
+  <programme channel="70607" start="20250823130000 +0000" stop="20250823134500 +0000" display-name="GTV">
+    <title lang="zh">Good News</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="307748" start="20250821093000 +0000" stop="20250821094500 +0000" display-name="A2Z">
-    <title lang="zh">TV Patrol Express</title>
+  <programme channel="70607" start="20250823134500 +0000" stop="20250823143000 +0000" display-name="GTV">
+    <title lang="zh">Daig Kayo Ng Lola Ko</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="307748" start="20250821094500 +0000" stop="20250821103000 +0000" display-name="A2Z">
-    <title lang="zh">Kapamilya Deal Or No Deal</title>
+  <programme channel="70607" start="20250823143000 +0000" stop="20250823153000 +0000" display-name="GTV">
+    <title lang="zh">Just For Laughs Gags</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="307748" start="20250821103000 +0000" stop="20250821120000 +0000" display-name="A2Z">
-    <title lang="zh">TV Patrol</title>
+  <programme channel="70607" start="20250823153000 +0000" stop="20250823220000 +0000" display-name="GTV">
+    <title lang="zh">In Touch with Dr. Charles Stanley</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="307748" start="20250821120000 +0000" stop="20250821124500 +0000" display-name="A2Z">
-    <title lang="zh">FPJs Batang Quiapo</title>
+  <programme channel="70607" start="20250823220000 +0000" stop="20250823223000 +0000" display-name="GTV">
+    <title lang="zh">Piggy Tales</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="307748" start="20250821124500 +0000" stop="20250821133000 +0000" display-name="A2Z">
-    <title lang="zh">Its Okay To Not Be Okay</title>
+  <programme channel="70607" start="20250823223000 +0000" stop="20250823230000 +0000" display-name="GTV">
+    <title lang="zh">Puppy In My Pocket</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="307748" start="20250821133000 +0000" stop="20250821141500 +0000" display-name="A2Z">
-    <title lang="zh">Sins Of The Father</title>
+  <programme channel="70607" start="20250823230000 +0000" stop="20250823233000 +0000" display-name="GTV">
+    <title lang="zh">Sunny Bunnies</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="307748" start="20250821141500 +0000" stop="20250821144500 +0000" display-name="A2Z">
-    <title lang="zh">Unchained Love</title>
+  <programme channel="70607" start="20250823233000 +0000" stop="20250824000000 +0000" display-name="GTV">
+    <title lang="zh">Tokyo Revengers</title>
     <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="307748" start="20250821144500 +0000" stop="20250821151500 +0000" display-name="A2Z">
-    <title lang="zh">Balitang A2Z</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="307748" start="20250821151500 +0000" stop="20250821210000 +0000" display-name="A2Z">
-    <title lang="zh">Bro Eddie Classics</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="307748" start="20250821210000 +0000" stop="20250821220000 +0000" display-name="A2Z">
-    <title lang="zh">Shuffle</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="307748" start="20250821220000 +0000" stop="20250821230000 +0000" display-name="A2Z">
-    <title lang="zh">Bro Eddie Classics</title>
-    <desc/>
-    <date>2025-08-21</date>
-  </programme>
-  <programme channel="307748" start="20250821230000 +0000" stop="20250822000000 +0000" display-name="A2Z">
-    <title lang="zh">School Anywhere</title>
-    <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
   <programme channel="307748" start="20250822000000 +0000" stop="20250822003000 +0000" display-name="A2Z">
     <title lang="zh">The Flying House</title>
@@ -1838,75 +1843,85 @@
     <desc/>
     <date>2025-08-22</date>
   </programme>
-  <programme channel="307748" start="20250823000000 +0000" stop="20250824000000 +0000" display-name="A2Z">
+  <programme channel="307748" start="20250823000000 +0000" stop="20250823001500 +0000" display-name="A2Z">
     <title lang="zh">Bubu and The Little Owl</title>
     <desc/>
     <date>2025-08-23</date>
   </programme>
-  <programme channel="427989" start="20250821003400 +0000" stop="20250821023600 +0000" display-name="Blast Movies">
-    <title lang="zh">The Secret Scripture</title>
-    <desc>A woman keeps a diary of her extended stay at a mental hospital.</desc>
-    <date>2025-08-21</date>
+  <programme channel="307748" start="20250823001500 +0000" stop="20250823003000 +0000" display-name="A2Z">
+    <title lang="zh">Dinoman</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427989" start="20250821023600 +0000" stop="20250821043600 +0000" display-name="Blast Movies">
-    <title lang="zh">Hirokin</title>
-    <desc>A reluctant samurai with a dark past sets off on a mission to fulfill his destiny.</desc>
-    <date>2025-08-21</date>
+  <programme channel="307748" start="20250823003000 +0000" stop="20250823010000 +0000" display-name="A2Z">
+    <title lang="zh">Team Yey Galaw Go</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427989" start="20250821043600 +0000" stop="20250821063700 +0000" display-name="Blast Movies">
-    <title lang="zh">The Zero Theorem</title>
-    <desc>A hugely talented but socially isolated computer operator is tasked by Management to prove the Zero Theorem: that the universe ends as nothing, rendering life meaningless. But meaning is what he already craves.</desc>
-    <date>2025-08-21</date>
+  <programme channel="307748" start="20250823010000 +0000" stop="20250823020000 +0000" display-name="A2Z">
+    <title lang="zh">Wansapanataym</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427989" start="20250821063700 +0000" stop="20250821081900 +0000" display-name="Blast Movies">
-    <title lang="zh">Out for A Kill</title>
-    <desc>An unsuspecting university professor is an unwitting accomplice in a foiled Chinese cocaine deal. Wrongly imprisoned, he escapes to take his revenge and prove his innocence.</desc>
-    <date>2025-08-21</date>
+  <programme channel="307748" start="20250823020000 +0000" stop="20250823040000 +0000" display-name="A2Z">
+    <title lang="zh">Zinema Sa Umaga</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427989" start="20250821081900 +0000" stop="20250821095900 +0000" display-name="Blast Movies">
-    <title lang="zh">Cat.8: Night 1</title>
-    <desc>An untested global defence system triggers a swarm of devastating solar flares, resulting in catastrophic earthquakes and ferocious magnetic storms; an unprecedented CAT. 8 Armageddon. Can we stop the annihilation of the human race?</desc>
-    <date>2025-08-21</date>
+  <programme channel="307748" start="20250823040000 +0000" stop="20250823063000 +0000" display-name="A2Z">
+    <title lang="zh">Its Showtime</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427989" start="20250821095900 +0000" stop="20250821113900 +0000" display-name="Blast Movies">
-    <title lang="zh">Cat.8: Night 2</title>
-    <desc>Much to the world's surprise, the sun releases a gigantic coronal mass ejection, as the elite task force of the dangerous secretary of defence is hot on Ranger and Whitlow's trail. They are mankind's last hope. Can they save us once more?</desc>
-    <date>2025-08-21</date>
+  <programme channel="307748" start="20250823063000 +0000" stop="20250823071500 +0000" display-name="A2Z">
+    <title lang="zh">Linlang</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427989" start="20250821113900 +0000" stop="20250821132600 +0000" display-name="Blast Movies">
-    <title lang="zh">The Mechanic</title>
-    <desc>An elite hitman teaches his trade to an apprentice who has a connection to one of his previous victims.</desc>
-    <date>2025-08-21</date>
+  <programme channel="307748" start="20250823071500 +0000" stop="20250823091500 +0000" display-name="A2Z">
+    <title lang="zh">Zine Aksyon</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427989" start="20250821132600 +0000" stop="20250821152400 +0000" display-name="Blast Movies">
-    <title lang="zh">Charlie Countryman</title>
-    <desc>While travelling abroad, a guy falls for a Romanian beauty whose unreachable heart has its origins in her violent, charismatic ex.</desc>
-    <date>2025-08-21</date>
+  <programme channel="307748" start="20250823091500 +0000" stop="20250823101500 +0000" display-name="A2Z">
+    <title lang="zh">TV Patrol Weekend</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427989" start="20250821152400 +0000" stop="20250821171200 +0000" display-name="Blast Movies">
-    <title lang="zh">Generation Um...</title>
-    <desc>Three adults during a single day in New York City filled with sex, drugs, and indecision.</desc>
-    <date>2025-08-21</date>
+  <programme channel="307748" start="20250823101500 +0000" stop="20250823111500 +0000" display-name="A2Z">
+    <title lang="zh">Rainbow Rumble</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427989" start="20250821171200 +0000" stop="20250821185400 +0000" display-name="Blast Movies">
-    <title lang="zh">The Order</title>
-    <desc>A playboy criminal contacts his dad after stealing a Faberge egg. Later it seems his dad has gone missing in Israel so he heads there. His disappearance is linked to the religious sect: The Order. Lots of fight and chase scenes.</desc>
-    <date>2025-08-21</date>
+  <programme channel="307748" start="20250823111500 +0000" stop="20250823123000 +0000" display-name="A2Z">
+    <title lang="zh">Idol Kids Philippines</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427989" start="20250821185400 +0000" stop="20250821204200 +0000" display-name="Blast Movies">
-    <title lang="zh">The Peacekeeper</title>
-    <desc>When a terrorist group steals the US President's personal communications computer for launching the US arsenal in case of war, only a heroic Major has the key to prevent a Presidential assassination or a nuclear holocaust.</desc>
-    <date>2025-08-21</date>
+  <programme channel="307748" start="20250823123000 +0000" stop="20250823133000 +0000" display-name="A2Z">
+    <title lang="zh">Maalala Mo Kaya</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427989" start="20250821204200 +0000" stop="20250821223000 +0000" display-name="Blast Movies">
-    <title lang="zh">The Philly Kid</title>
-    <desc>A former NCAA champion wrestler, paroled after ten years in prison, agrees to a series of cage fights to save a friend's life and is asked to do the impossible - lose.</desc>
-    <date>2025-08-21</date>
+  <programme channel="307748" start="20250823133000 +0000" stop="20250823141500 +0000" display-name="A2Z">
+    <title lang="zh">Tao Po</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427989" start="20250821223000 +0000" stop="20250822000000 +0000" display-name="Blast Movies">
-    <title lang="zh">1275 Days</title>
-    <desc>15-year-old Blake faces life in prison for felony murder after a botched home invasion. His single mom and girlfriend support his David vs. Goliath legal battle in Elkhart, Indiana, seeking a second chance.</desc>
-    <date>2025-08-21</date>
+  <programme channel="307748" start="20250823141500 +0000" stop="20250823220000 +0000" display-name="A2Z">
+    <title lang="zh">Jesus The Healer</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="307748" start="20250823220000 +0000" stop="20250823230000 +0000" display-name="A2Z">
+    <title lang="zh">Shuffle</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="307748" start="20250823230000 +0000" stop="20250824000000 +0000" display-name="A2Z">
+    <title lang="zh">Jesus Is Lord Sunday Worship And Healing Service</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
   <programme channel="427989" start="20250822000300 +0000" stop="20250822015300 +0000" display-name="Blast Movies">
     <title lang="zh">Kill Craft</title>
@@ -1973,60 +1988,70 @@
     <desc>Picking up directly from the previous movie, vampire warrior Selene and the half werewolf Michael hunt for clues to reveal the history of their races and the war between them.</desc>
     <date>2025-08-22</date>
   </programme>
-  <programme channel="427992" start="20250821000000 +0000" stop="20250821033000 +0000" display-name="Blast Sports">
-    <title lang="zh">LPGA Tour</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="427989" start="20250823004200 +0000" stop="20250823023200 +0000" display-name="Blast Movies">
+    <title lang="zh">Mr. Right</title>
+    <desc>A girl falls for the \"perfect\" guy, who happens to have a very fatal flaw: he's a hitman on the run from the crime cartels who employ him.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427992" start="20250821033000 +0000" stop="20250821060000 +0000" display-name="Blast Sports">
-    <title lang="zh">WTA TOUR 2025</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="427989" start="20250823023200 +0000" stop="20250823041600 +0000" display-name="Blast Movies">
+    <title lang="zh">Don Jon</title>
+    <desc>A New Jersey guy dedicated to his family, friends, and church, develops unrealistic expectations from watching porn and works to find happiness and intimacy with his potential true love.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427992" start="20250821060000 +0000" stop="20250821080000 +0000" display-name="Blast Sports">
-    <title lang="zh">ISUZU A-League</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="427989" start="20250823041600 +0000" stop="20250823061800 +0000" display-name="Blast Movies">
+    <title lang="zh">The Secret Scripture</title>
+    <desc>A woman keeps a diary of her extended stay at a mental hospital.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427992" start="20250821080000 +0000" stop="20250821100000 +0000" display-name="Blast Sports">
-    <title lang="zh">EUROLEAGUE 2024-25</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="427989" start="20250823061800 +0000" stop="20250823081800 +0000" display-name="Blast Movies">
+    <title lang="zh">Hirokin</title>
+    <desc>A reluctant samurai with a dark past sets off on a mission to fulfill his destiny.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427992" start="20250821100000 +0000" stop="20250821120000 +0000" display-name="Blast Sports">
-    <title lang="zh">SERIE A</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="427989" start="20250823081800 +0000" stop="20250823101900 +0000" display-name="Blast Movies">
+    <title lang="zh">The Zero Theorem</title>
+    <desc>A hugely talented but socially isolated computer operator is tasked by Management to prove the Zero Theorem: that the universe ends as nothing, rendering life meaningless. But meaning is what he already craves.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427992" start="20250821120000 +0000" stop="20250821133000 +0000" display-name="Blast Sports">
-    <title lang="zh">WWE NXT</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="427989" start="20250823101900 +0000" stop="20250823120100 +0000" display-name="Blast Movies">
+    <title lang="zh">Out for A Kill</title>
+    <desc>An unsuspecting university professor is an unwitting accomplice in a foiled Chinese cocaine deal. Wrongly imprisoned, he escapes to take his revenge and prove his innocence.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427992" start="20250821133000 +0000" stop="20250821160000 +0000" display-name="Blast Sports">
-    <title lang="zh">UFC</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="427989" start="20250823120100 +0000" stop="20250823134100 +0000" display-name="Blast Movies">
+    <title lang="zh">Cat.8: Night 1</title>
+    <desc>An untested global defence system triggers a swarm of devastating solar flares, resulting in catastrophic earthquakes and ferocious magnetic storms; an unprecedented CAT. 8 Armageddon. Can we stop the annihilation of the human race?</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427992" start="20250821160000 +0000" stop="20250821180000 +0000" display-name="Blast Sports">
-    <title lang="zh">ISUZU A-League</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="427989" start="20250823134100 +0000" stop="20250823152100 +0000" display-name="Blast Movies">
+    <title lang="zh">Cat.8: Night 2</title>
+    <desc>Much to the world's surprise, the sun releases a gigantic coronal mass ejection, as the elite task force of the dangerous secretary of defence is hot on Ranger and Whitlow's trail. They are mankind's last hope. Can they save us once more?</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427992" start="20250821180000 +0000" stop="20250821200000 +0000" display-name="Blast Sports">
-    <title lang="zh">EUROLEAGUE 2024-25</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="427989" start="20250823152100 +0000" stop="20250823170800 +0000" display-name="Blast Movies">
+    <title lang="zh">The Mechanic</title>
+    <desc>An elite hitman teaches his trade to an apprentice who has a connection to one of his previous victims.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427992" start="20250821200000 +0000" stop="20250821220000 +0000" display-name="Blast Sports">
-    <title lang="zh">SERIE A</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="427989" start="20250823170800 +0000" stop="20250823190600 +0000" display-name="Blast Movies">
+    <title lang="zh">Charlie Countryman</title>
+    <desc>While travelling abroad, a guy falls for a Romanian beauty whose unreachable heart has its origins in her violent, charismatic ex.</desc>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="427992" start="20250821220000 +0000" stop="20250822000000 +0000" display-name="Blast Sports">
-    <title lang="zh">EDGE Sport</title>
-    <desc/>
-    <date>2025-08-21</date>
+  <programme channel="427989" start="20250823190600 +0000" stop="20250823205400 +0000" display-name="Blast Movies">
+    <title lang="zh">Generation Um...</title>
+    <desc>Three adults during a single day in New York City filled with sex, drugs, and indecision.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="427989" start="20250823205400 +0000" stop="20250823223600 +0000" display-name="Blast Movies">
+    <title lang="zh">The Order</title>
+    <desc>A playboy criminal contacts his dad after stealing a Faberge egg. Later it seems his dad has gone missing in Israel so he heads there. His disappearance is linked to the religious sect: The Order. Lots of fight and chase scenes.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="427989" start="20250823223600 +0000" stop="20250824000000 +0000" display-name="Blast Movies">
+    <title lang="zh">The Peacekeeper</title>
+    <desc>When a terrorist group steals the US President's personal communications computer for launching the US arsenal in case of war, only a heroic Major has the key to prevent a Presidential assassination or a nuclear holocaust.</desc>
+    <date>2025-08-23</date>
   </programme>
   <programme channel="427992" start="20250822000000 +0000" stop="20250822033000 +0000" display-name="Blast Sports">
     <title lang="zh">LPGA Tour</title>
@@ -2078,54 +2103,194 @@
     <desc/>
     <date>2025-08-22</date>
   </programme>
-  <programme channel="427992" start="20250823000000 +0000" stop="20250824000000 +0000" display-name="Blast Sports">
+  <programme channel="427992" start="20250823000000 +0000" stop="20250823033000 +0000" display-name="Blast Sports">
     <title lang="zh">LPGA Tour</title>
     <desc/>
     <date>2025-08-23</date>
   </programme>
-  <programme channel="157088" start="20250821004500 +0000" stop="20250821022500 +0000" display-name="Celestial Movies Pinoy">
-    <title lang="zh">Confinement</title>
+  <programme channel="427992" start="20250823033000 +0000" stop="20250823060000 +0000" display-name="Blast Sports">
+    <title lang="zh">WTA TOUR 2025</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="157088" start="20250821022500 +0000" stop="20250821041500 +0000" display-name="Celestial Movies Pinoy">
-    <title lang="zh">Five Shaolin Masters</title>
+  <programme channel="427992" start="20250823060000 +0000" stop="20250823080000 +0000" display-name="Blast Sports">
+    <title lang="zh">SERIE A</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="157088" start="20250821041500 +0000" stop="20250821061500 +0000" display-name="Celestial Movies Pinoy">
-    <title lang="zh">Angel with the Iron Fists</title>
+  <programme channel="427992" start="20250823080000 +0000" stop="20250823103000 +0000" display-name="Blast Sports">
+    <title lang="zh">WWE SMACKDOWN</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="157088" start="20250821061500 +0000" stop="20250821074500 +0000" display-name="Celestial Movies Pinoy">
-    <title lang="zh">The Medallion</title>
+  <programme channel="427992" start="20250823103000 +0000" stop="20250823130000 +0000" display-name="Blast Sports">
+    <title lang="zh">WWE RAW</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="157088" start="20250821074500 +0000" stop="20250821093000 +0000" display-name="Celestial Movies Pinoy">
-    <title lang="zh">The Twelve Gold Medallions</title>
+  <programme channel="427992" start="20250823130000 +0000" stop="20250823160000 +0000" display-name="Blast Sports">
+    <title lang="zh">BKFC</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="157088" start="20250821093000 +0000" stop="20250821110000 +0000" display-name="Celestial Movies Pinoy">
-    <title lang="zh">Painted Face</title>
+  <programme channel="427992" start="20250823160000 +0000" stop="20250823183000 +0000" display-name="Blast Sports">
+    <title lang="zh">WTA TOUR 2025</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="157088" start="20250821110000 +0000" stop="20250821124000 +0000" display-name="Celestial Movies Pinoy">
-    <title lang="zh">Get in the Dark</title>
+  <programme channel="427992" start="20250823183000 +0000" stop="20250823220000 +0000" display-name="Blast Sports">
+    <title lang="zh">BKFC</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="157088" start="20250821124000 +0000" stop="20250821141500 +0000" display-name="Celestial Movies Pinoy">
-    <title lang="zh">The Master</title>
+  <programme channel="427992" start="20250823220000 +0000" stop="20250824000000 +0000" display-name="Blast Sports">
+    <title lang="zh">EDGE Sport</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-23</date>
   </programme>
-  <programme channel="157088" start="20250821141500 +0000" stop="20250822000000 +0000" display-name="Celestial Movies Pinoy">
-    <title lang="zh">My School Mate, The Barbarian</title>
+  <programme channel="427992" start="20250824000000 +0000" stop="20250825000000 +0000" display-name="Blast Sports">
+    <title lang="zh">WTA TOUR 2025</title>
     <desc/>
-    <date>2025-08-21</date>
+    <date>2025-08-24</date>
+  </programme>
+  <programme channel="157088" start="20250822012000 +0000" stop="20250822025500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Fate Jealous Greed</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="157088" start="20250822025500 +0000" stop="20250822043000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Martial Arts of Shaolin</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="157088" start="20250822043000 +0000" stop="20250822061000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Kungfu Stuntmen</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="157088" start="20250822061000 +0000" stop="20250822081500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">My Indian Boyfriend</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="157088" start="20250822081500 +0000" stop="20250822092500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">The Protectors</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="157088" start="20250822092500 +0000" stop="20250822110000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">The Gangster, the Cop, the Devil</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="157088" start="20250822110000 +0000" stop="20250822130000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">The Narrow Road</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="157088" start="20250822130000 +0000" stop="20250822143500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">The Fate of Reunion</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="157088" start="20250822143500 +0000" stop="20250822161500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Magnificent Wanderers</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="157088" start="20250822161500 +0000" stop="20250822175500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Heaven Sword and Dragon Sabre 2</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="157088" start="20250822175500 +0000" stop="20250822193500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">The Fake Ghost Catchers</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="157088" start="20250822193500 +0000" stop="20250822212000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">The Lizard</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="157088" start="20250822212000 +0000" stop="20250822231000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Shaolin Martial Arts</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="157088" start="20250822231000 +0000" stop="20250823000000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">From Vegas to Macau</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="157088" start="20250823005000 +0000" stop="20250823024000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">That Demon Within</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="157088" start="20250823024000 +0000" stop="20250823041500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Reincarnated Swordsman</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="157088" start="20250823041500 +0000" stop="20250823055500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Once Upon A Time In Shanghai</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="157088" start="20250823055500 +0000" stop="20250823074500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">An Abandoned Team</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="157088" start="20250823074500 +0000" stop="20250823093000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">The Sentimental Swordsman</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="157088" start="20250823093000 +0000" stop="20250823110000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Holy Flame of the Martial World</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="157088" start="20250823110000 +0000" stop="20250823115500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">3AM - Campsite</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="157088" start="20250823115500 +0000" stop="20250823133500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Till We Meet Again</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="157088" start="20250823133500 +0000" stop="20250823152500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Martial Club</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="157088" start="20250823152500 +0000" stop="20250823170500 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Clans of Intrigue</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="157088" start="20250823170500 +0000" stop="20250823184000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Disciples of The 36th Chamber</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="157088" start="20250823184000 +0000" stop="20250823205000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Shaolin</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="157088" start="20250823205000 +0000" stop="20250823230000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Model Family</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="157088" start="20250823230000 +0000" stop="20250824000000 +0000" display-name="Celestial Movies Pinoy">
+    <title lang="zh">Cop Shop Babes</title>
+    <desc/>
+    <date>2025-08-23</date>
   </programme>
 </tv>
