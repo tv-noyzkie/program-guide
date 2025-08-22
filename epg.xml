@@ -4,6 +4,10 @@
     <display-name lang="en">Kapamilya Channel</display-name>
     <icon src="https://i.imgur.com/Dcys2TG.png"/>
   </channel>
+  <channel id="429570">
+    <display-name lang="en">TFC Asia</display-name>
+    <icon src="https://i.imgur.com/mhYrit2.png"/>
+  </channel>
   <channel id="7846">
     <display-name lang="en">ANC</display-name>
     <icon src="https://i.imgur.com/4R2CXoh.png"/>
@@ -242,6 +246,291 @@
     <title lang="zh">Estudyantipid</title>
     <desc/>
     <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250822000000 +0000" stop="20250822010000 +0000" display-name="TFC Asia">
+    <title lang="zh">Tandem Ng Bayan</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822010000 +0000" stop="20250822020000 +0000" display-name="TFC Asia">
+    <title lang="zh">MAGANDANG BUHAY</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822020000 +0000" stop="20250822023000 +0000" display-name="TFC Asia">
+    <title lang="zh">HUWAG KANG MANGAMBA</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822023000 +0000" stop="20250822030000 +0000" display-name="TFC Asia">
+    <title lang="zh">CAN'T BUY ME LOVE</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822030000 +0000" stop="20250822033000 +0000" display-name="TFC Asia">
+    <title lang="zh">ANG SA IYO AY AKIN</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822033000 +0000" stop="20250822040000 +0000" display-name="TFC Asia">
+    <title lang="zh">Are You G? With MJ Felipe</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822040000 +0000" stop="20250822063000 +0000" display-name="TFC Asia">
+    <title lang="zh">IT'S SHOWTIME</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822063000 +0000" stop="20250822070000 +0000" display-name="TFC Asia">
+    <title lang="zh">TFC KIDS' ZONE</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822070000 +0000" stop="20250822073500 +0000" display-name="TFC Asia">
+    <title lang="zh">IT'S OKAY NOT TO BE OKAY</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822073500 +0000" stop="20250822081000 +0000" display-name="TFC Asia">
+    <title lang="zh">FPJ'S BATANG QUIAPO</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822081000 +0000" stop="20250822084500 +0000" display-name="TFC Asia">
+    <title lang="zh">Sins of The Father</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822084500 +0000" stop="20250822093000 +0000" display-name="TFC Asia">
+    <title lang="zh">GOIN' BULILIT</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822093000 +0000" stop="20250822094500 +0000" display-name="TFC Asia">
+    <title lang="zh">TV PATROL EXPRESS</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822094500 +0000" stop="20250822103000 +0000" display-name="TFC Asia">
+    <title lang="zh">Are You G? With MJ Felipe</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822103000 +0000" stop="20250822120000 +0000" display-name="TFC Asia">
+    <title lang="zh">TV PATROL</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822120000 +0000" stop="20250822124500 +0000" display-name="TFC Asia">
+    <title lang="zh">FPJ'S BATANG QUIAPO</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822124500 +0000" stop="20250822133000 +0000" display-name="TFC Asia">
+    <title lang="zh">IT'S OKAY NOT TO BE OKAY</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822133000 +0000" stop="20250822141500 +0000" display-name="TFC Asia">
+    <title lang="zh">Sins of The Father</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822141500 +0000" stop="20250822161500 +0000" display-name="TFC Asia">
+    <title lang="zh">IT'S SHOWTIME</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822161500 +0000" stop="20250822170000 +0000" display-name="TFC Asia">
+    <title lang="zh">GOIN' BULILIT</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822170000 +0000" stop="20250822173000 +0000" display-name="TFC Asia">
+    <title lang="zh">ANG SA IYO AY AKIN</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822173000 +0000" stop="20250822180000 +0000" display-name="TFC Asia">
+    <title lang="zh">HUWAG KANG MANGAMBA</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822180000 +0000" stop="20250822190000 +0000" display-name="TFC Asia">
+    <title lang="zh">LOVE IN 40 DAYS</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822190000 +0000" stop="20250822200000 +0000" display-name="TFC Asia">
+    <title lang="zh">RATED KORINA</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822200000 +0000" stop="20250822213000 +0000" display-name="TFC Asia">
+    <title lang="zh">TV PATROL GLOBAL EDITION</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822213000 +0000" stop="20250822220000 +0000" display-name="TFC Asia">
+    <title lang="zh">KAPAMILYA DAILY MASS</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822220000 +0000" stop="20250822223000 +0000" display-name="TFC Asia">
+    <title lang="zh">MY PUHUNAN: KAYA MO!</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822223000 +0000" stop="20250822230000 +0000" display-name="TFC Asia">
+    <title lang="zh">Chef RV's Kitchen S17</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822230000 +0000" stop="20250822233000 +0000" display-name="TFC Asia">
+    <title lang="zh">Beached S5</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250822233000 +0000" stop="20250823000000 +0000" display-name="TFC Asia">
+    <title lang="zh">Beached S5</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="429570" start="20250823000000 +0000" stop="20250823003000 +0000" display-name="TFC Asia">
+    <title lang="zh">WOW</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823003000 +0000" stop="20250823010000 +0000" display-name="TFC Asia">
+    <title lang="zh">Juan Conversations with Rose Eclarinal</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823010000 +0000" stop="20250823020000 +0000" display-name="TFC Asia">
+    <title lang="zh">TULONG KO, PASA MO</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823020000 +0000" stop="20250823023000 +0000" display-name="TFC Asia">
+    <title lang="zh">TAO PO</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823023000 +0000" stop="20250823030000 +0000" display-name="TFC Asia">
+    <title lang="zh">Ano Na, Bev S4</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823030000 +0000" stop="20250823040000 +0000" display-name="TFC Asia">
+    <title lang="zh">DARNA</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823040000 +0000" stop="20250823063000 +0000" display-name="TFC Asia">
+    <title lang="zh">IT'S SHOWTIME SATURDAY</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823063000 +0000" stop="20250823070000 +0000" display-name="TFC Asia">
+    <title lang="zh">PAMILYA TALK WITH TITA JING S3</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823070000 +0000" stop="20250823073000 +0000" display-name="TFC Asia">
+    <title lang="zh">Astig Vegan S2</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823073000 +0000" stop="20250823080000 +0000" display-name="TFC Asia">
+    <title lang="zh">WOW</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823080000 +0000" stop="20250823084500 +0000" display-name="TFC Asia">
+    <title lang="zh">Home Away From Home S3</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823084500 +0000" stop="20250823091500 +0000" display-name="TFC Asia">
+    <title lang="zh">Juan Conversations with Rose Eclarinal</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823091500 +0000" stop="20250823101500 +0000" display-name="TFC Asia">
+    <title lang="zh">TV PATROL SABADO</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823101500 +0000" stop="20250823111500 +0000" display-name="TFC Asia">
+    <title lang="zh">RAINBOW RUMBLE</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823111500 +0000" stop="20250823123000 +0000" display-name="TFC Asia">
+    <title lang="zh">IDOL KIDS PHILIPPINES</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823123000 +0000" stop="20250823133000 +0000" display-name="TFC Asia">
+    <title lang="zh">LOVE IN 40 DAYS</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823133000 +0000" stop="20250823143000 +0000" display-name="TFC Asia">
+    <title lang="zh">MAALAALA MO KAYA</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823143000 +0000" stop="20250823163000 +0000" display-name="TFC Asia">
+    <title lang="zh">PRINCESS DAYAREESE</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823163000 +0000" stop="20250823183000 +0000" display-name="TFC Asia">
+    <title lang="zh">It's Showtime :registered:</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823183000 +0000" stop="20250823193000 +0000" display-name="TFC Asia">
+    <title lang="zh">Rainbow Rumble (Sat):registered:</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823193000 +0000" stop="20250823203000 +0000" display-name="TFC Asia">
+    <title lang="zh">TABING ILOG</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823203000 +0000" stop="20250823210000 +0000" display-name="TFC Asia">
+    <title lang="zh">Ano Na, Bev S4 :registered:</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823210000 +0000" stop="20250823213000 +0000" display-name="TFC Asia">
+    <title lang="zh">CITIZEN PINOY</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823213000 +0000" stop="20250823220000 +0000" display-name="TFC Asia">
+    <title lang="zh">KAPAMILYA JOURNEYS OF HOPE WITHFR. TITO CALUAG</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823220000 +0000" stop="20250823230000 +0000" display-name="TFC Asia">
+    <title lang="zh">THE HEALING EUCHARIST</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250823230000 +0000" stop="20250824000000 +0000" display-name="TFC Asia">
+    <title lang="zh">BRO. EDDIE CLASSICS</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="429570" start="20250824000000 +0000" stop="20250825000000 +0000" display-name="TFC Asia">
+    <title lang="zh">Astig Vegan :registered:</title>
+    <desc/>
+    <date>2025-08-24</date>
   </programme>
   <programme channel="7846" start="20250822000000 +0000" stop="20250822010000 +0000" display-name="ANC">
     <title lang="zh">Headstart with Karen Davila</title>
