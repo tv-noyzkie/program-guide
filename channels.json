@@ -12,6 +12,12 @@
     "logo": "https://i.imgur.com/mhYrit2.png" 
   },
   { 
+    "id": "412127",
+    "name": "ANC Global",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=412127",
+    "logo": "https://i.imgur.com/6l5x8Tx.png" 
+  },
+  { 
     "id": "7846",
     "name": "ANC",             
     "url": "https://epg.pw/api/epg.xml?channel_id=7846",
