@@ -6,6 +6,12 @@
     "logo": "https://i.imgur.com/Dcys2TG.png" 
   },
   { 
+    "id": "429570",
+    "name": "TFC Asia", 
+    "url": "https://epg.pw/api/epg.xml?channel_id=429570",
+    "logo": "https://i.imgur.com/mhYrit2.png" 
+  },
+  { 
     "id": "7846",
     "name": "ANC",             
     "url": "https://epg.pw/api/epg.xml?channel_id=7846",
