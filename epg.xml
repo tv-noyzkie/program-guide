@@ -24,6 +24,10 @@
     <display-name lang="en">GMA News TV (SG)</display-name>
     <icon src="https://i.imgur.com/7hBbdO6.png"/>
   </channel>
+  <channel id="7850">
+    <display-name lang="en">Jeepney TV</display-name>
+    <icon src="https://i.imgur.com/7HSBVsl.png"/>
+  </channel>
   <channel id="412127">
     <display-name lang="en">ANC Global</display-name>
     <icon src="https://i.imgur.com/6l5x8Tx.png"/>
@@ -1686,6 +1690,211 @@
     <title lang="zh">Imbestigador</title>
     <desc>An investigative show highlighting societal issues like corruption, local government problems, illegal activities, poverty, disloyalty, cleanliness, education, wasted public funds, youth, and public health and safety.</desc>
     <date>2025-08-23</date>
+  </programme>
+  <programme channel="7850" start="20250822000000 +0000" stop="20250822010000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Noah</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822010000 +0000" stop="20250822020000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Magandang Buhay</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822020000 +0000" stop="20250822030000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Ning Ning</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822030000 +0000" stop="20250822040000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Honesto</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822040000 +0000" stop="20250822050000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Aryana</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822050000 +0000" stop="20250822060000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Reputasyon</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822060000 +0000" stop="20250822063000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Kahit Puso'y Masugatan</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822063000 +0000" stop="20250822070000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Ina, Kapatid, Anak</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822070000 +0000" stop="20250822074500 +0000" display-name="Jeepney TV">
+    <title lang="zh">Maging Sino Ka Man</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822074500 +0000" stop="20250822090000 +0000" display-name="Jeepney TV">
+    <title lang="zh">The Greatest Love</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822090000 +0000" stop="20250822093000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Basta't Kasama Kita</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822093000 +0000" stop="20250822094500 +0000" display-name="Jeepney TV">
+    <title lang="zh">TV Patrol Express</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822094500 +0000" stop="20250822103000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Galema</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822103000 +0000" stop="20250822113000 +0000" display-name="Jeepney TV">
+    <title lang="zh">PHR Presents: Pintada</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822113000 +0000" stop="20250822120000 +0000" display-name="Jeepney TV">
+    <title lang="zh">PHR Presents: Bud Brothers Series</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822120000 +0000" stop="20250822124500 +0000" display-name="Jeepney TV">
+    <title lang="zh">The Legal Wife</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822124500 +0000" stop="20250822133000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Pusong Ligaw</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822133000 +0000" stop="20250822141500 +0000" display-name="Jeepney TV">
+    <title lang="zh">Ang Sa Iyo Ay Akin</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822141500 +0000" stop="20250822150000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Sins Of The Father</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822150000 +0000" stop="20250822153500 +0000" display-name="Jeepney TV">
+    <title lang="zh">It's Okay To Not Be Okay</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822153500 +0000" stop="20250822160000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Galema</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822160000 +0000" stop="20250822164500 +0000" display-name="Jeepney TV">
+    <title lang="zh">PHR Presents: Bud Brothers Series</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822164500 +0000" stop="20250822174500 +0000" display-name="Jeepney TV">
+    <title lang="zh">Home Along Da Riles</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822174500 +0000" stop="20250822183000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Oki Doki Doc</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822183000 +0000" stop="20250822233000 +0000" display-name="Jeepney TV">
+    <title lang="zh">PHR Presents: Pintada</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250822233000 +0000" stop="20250823000000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Kapamilya Daily Mass</title>
+    <desc/>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="7850" start="20250823000000 +0000" stop="20250823015500 +0000" display-name="Jeepney TV">
+    <title lang="zh">Ang Munting Paraiso</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7850" start="20250823015500 +0000" stop="20250823020000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Yey Famtime</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7850" start="20250823020000 +0000" stop="20250823040000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Super Inggo</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7850" start="20250823040000 +0000" stop="20250823050000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Home Along Da Riles</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7850" start="20250823050000 +0000" stop="20250823063000 +0000" display-name="Jeepney TV">
+    <title lang="zh">G-Mik</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7850" start="20250823063000 +0000" stop="20250823083000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Mangarap Ka</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7850" start="20250823083000 +0000" stop="20250823091500 +0000" display-name="Jeepney TV">
+    <title lang="zh">Wansapanataym</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7850" start="20250823091500 +0000" stop="20250823101500 +0000" display-name="Jeepney TV">
+    <title lang="zh">Oki Doki Doc</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7850" start="20250823101500 +0000" stop="20250823123000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Halik</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7850" start="20250823123000 +0000" stop="20250823160000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Tabing Ilog</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7850" start="20250823160000 +0000" stop="20250823173000 +0000" display-name="Jeepney TV">
+    <title lang="zh">ASAP Remix</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7850" start="20250823173000 +0000" stop="20250823200000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Maging Sino Ka Man</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7850" start="20250823200000 +0000" stop="20250823230000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Galema</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7850" start="20250823230000 +0000" stop="20250824000000 +0000" display-name="Jeepney TV">
+    <title lang="zh">The Healing Eucharist Sunday Mass</title>
+    <desc/>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="7850" start="20250824000000 +0000" stop="20250825000000 +0000" display-name="Jeepney TV">
+    <title lang="zh">Ang Munting Paraiso</title>
+    <desc/>
+    <date>2025-08-24</date>
   </programme>
   <programme channel="412127" start="20250822000000 +0000" stop="20250822010000 +0000" display-name="ANC Global">
     <title lang="zh">Headstart</title>
