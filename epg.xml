@@ -8,6 +8,18 @@
     <display-name lang="en">TFC Asia</display-name>
     <icon src="https://i.imgur.com/mhYrit2.png"/>
   </channel>
+  <channel id="369842">
+    <display-name lang="en">GMA Pinoy TV (SG)</display-name>
+    <icon src="https://i.imgur.com/Jinf00v.png"/>
+  </channel>
+  <channel id="369769">
+    <display-name lang="en">GMA Life TV (SG)</display-name>
+    <icon src="https://i.imgur.com/jiX9Sol.png"/>
+  </channel>
+  <channel id="369794">
+    <display-name lang="en">GMA News TV (SG)</display-name>
+    <icon src="https://i.imgur.com/7hBbdO6.png"/>
+  </channel>
   <channel id="412127">
     <display-name lang="en">ANC Global</display-name>
     <icon src="https://i.imgur.com/6l5x8Tx.png"/>
@@ -535,6 +547,846 @@
     <title lang="zh">Astig Vegan :registered:</title>
     <desc/>
     <date>2025-08-24</date>
+  </programme>
+  <programme channel="369842" start="20250822004500 +0000" stop="20250822011500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Wish Ko Lang</title>
+    <desc>The first wish-granting program on Philippine television, featuring inspiring stories of ordinary Filipinos as they struggle to overcome extraordinary situations.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822011500 +0000" stop="20250822014500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Born To Be Wild</title>
+    <desc>Adventures that explore the unknown and take viewers to an amazing wildlife encounter.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822014500 +0000" stop="20250822021500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Daig Kayo Ng Lola Ko</title>
+    <desc>About a stereotypical grandmother who is kind, loving and attentive. Unknown to many, she is benevolent keeper of an extraordinary and mystical family secret.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822021500 +0000" stop="20250822025000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Cruz vs. Cruz</title>
+    <desc>is a story of the two families of Ryan Cruz. He left his original family in the Philippines to work abroad and provide for them. During his time as an OFW, he meets a woman who lures him to marry her after she gets pregnant.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822025000 +0000" stop="20250822032500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">My Father's Wife</title>
+    <desc>Two friends, Gina and Betsy, strike a deal: Gina will enter into a marriage of convenience with Betsy's boyfriend, Gerald, to help Betsy achieve her American dream. But when Gina and Gerald unexpectedly fall in love and choose to honor their vows, everything changes. Betrayed and furious, Betsy retaliates in the most shocking way—by marrying Gina's father. What begins as a calculated plan spirals </desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822032500 +0000" stop="20250822040000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Akusada</title>
+    <desc>Is the story of Carolina Astor, a resort staff who accidentally “kills” Joi, a resort shareholder. Carolina goes into hiding and assumes a new identity - Lorena. Lorena moves on and starts a new life but her past will haunt her.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822040000 +0000" stop="20250822063000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">It's Showtime</title>
+    <desc>"It's Showtime" is a hit variety program that thrives on spontaneity and animated conversations.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822063000 +0000" stop="20250822072000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Tiktoclock: Happy Hour Na</title>
+    <desc>A game-variety show showcasing talents of Filipinos in singing, dancing and many more.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822072000 +0000" stop="20250822075000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Akusada</title>
+    <desc>Is the story of Carolina Astor, a resort staff who accidentally “kills” Joi, a resort shareholder. Carolina goes into hiding and assumes a new identity - Lorena. Lorena moves on and starts a new life but her past will haunt her.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822075000 +0000" stop="20250822082000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Cruz vs. Cruz</title>
+    <desc>is a story of the two families of Ryan Cruz. He left his original family in the Philippines to work abroad and provide for them. During his time as an OFW, he meets a woman who lures him to marry her after she gets pregnant.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822082000 +0000" stop="20250822090000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">My Father's Wife</title>
+    <desc>Two friends, Gina and Betsy, strike a deal: Gina will enter into a marriage of convenience with Betsy's boyfriend, Gerald, to help Betsy achieve her American dream. But when Gina and Gerald unexpectedly fall in love and choose to honor their vows, everything changes. Betrayed and furious, Betsy retaliates in the most shocking way—by marrying Gina's father. What begins as a calculated plan spirals </desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822090000 +0000" stop="20250822094000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Sanggang-Dikit FR</title>
+    <desc>Two law-enforcers, each burdened by personal loss, are forced to work together when a high-profile murder implicates an action star. Their investigation unravels a deeper conspiracy linking their own families to the crimes, testing their loyalty, trust, and pursuit of justice.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822094000 +0000" stop="20250822101500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Beauty Empire</title>
+    <desc>is a glossy drama series about a rags-to-riches beauty entrepreneur who is out to take revenge on the people who have wronged her. She comes out as a new beauty industry player, tearing down the empire that her enemies have built. She goes head-to-head against a crass but social media famous beauty CEO who is mentored by her idol, a powerful industry veteran whose ties to her goes beyond business.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822101500 +0000" stop="20250822104500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Family Feud</title>
+    <desc>It features two families who compete to name the most popular answers to survey questions in order to win cash and prizes.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822104500 +0000" stop="20250822111500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>The latest multi-platform showbiz news and talk show on Kapuso network.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822111500 +0000" stop="20250822124500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">24 Oras</title>
+    <desc>Gives an up-to-the minute news here and around the world.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822124500 +0000" stop="20250822132000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Encantadia Chronicles: Sang'gre</title>
+    <desc>The series is a spin-off to the Philippine television fantasy drama series, Encantadia.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822132000 +0000" stop="20250822135500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Sanggang-Dikit FR</title>
+    <desc>Two law-enforcers, each burdened by personal loss, are forced to work together when a high-profile murder implicates an action star. Their investigation unravels a deeper conspiracy linking their own families to the crimes, testing their loyalty, trust, and pursuit of justice.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822135500 +0000" stop="20250822143000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Beauty Empire</title>
+    <desc>is a glossy drama series about a rags-to-riches beauty entrepreneur who is out to take revenge on the people who have wronged her. She comes out as a new beauty industry player, tearing down the empire that her enemies have built. She goes head-to-head against a crass but social media famous beauty CEO who is mentored by her idol, a powerful industry veteran whose ties to her goes beyond business.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822143000 +0000" stop="20250822150000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">My Father's Wife</title>
+    <desc>Two friends, Gina and Betsy, strike a deal: Gina will enter into a marriage of convenience with Betsy's boyfriend, Gerald, to help Betsy achieve her American dream. But when Gina and Gerald unexpectedly fall in love and choose to honor their vows, everything changes. Betrayed and furious, Betsy retaliates in the most shocking way—by marrying Gina's father. What begins as a calculated plan spirals </desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822150000 +0000" stop="20250822153000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Family Feud</title>
+    <desc>It features two families who compete to name the most popular answers to survey questions in order to win cash and prizes.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822153000 +0000" stop="20250822160000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>The latest multi-platform showbiz news and talk show on Kapuso network.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822160000 +0000" stop="20250822180000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">It's Showtime</title>
+    <desc>"It's Showtime" is a hit variety program that thrives on spontaneity and animated conversations.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822180000 +0000" stop="20250822184500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Tiktoclock: Happy Hour Na</title>
+    <desc>A game-variety show showcasing talents of Filipinos in singing, dancing and many more.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822184500 +0000" stop="20250822200000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">24 Oras</title>
+    <desc>Gives an up-to-the minute news here and around the world.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822200000 +0000" stop="20250822203500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Encantadia Chronicles: Sang'gre</title>
+    <desc>The series is a spin-off to the Philippine television fantasy drama series, Encantadia.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822203500 +0000" stop="20250822211000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Sanggang-Dikit FR</title>
+    <desc>Two law-enforcers, each burdened by personal loss, are forced to work together when a high-profile murder implicates an action star. Their investigation unravels a deeper conspiracy linking their own families to the crimes, testing their loyalty, trust, and pursuit of justice.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822211000 +0000" stop="20250822214500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Daig Kayo Ng Lola Ko</title>
+    <desc>About a stereotypical grandmother who is kind, loving and attentive. Unknown to many, she is benevolent keeper of an extraordinary and mystical family secret.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822214500 +0000" stop="20250822221500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Saksi</title>
+    <desc>Brings up-to-the-minute news, relentlessly delivering breaking stories and covering live reports.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250822221500 +0000" stop="20250823000000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Sanggang-Dikit FR Marathon</title>
+    <desc>Two law-enforcers, each burdened by personal loss, are forced to work together when a high-profile murder implicates an action star. Their investigation unravels a deeper conspiracy linking their own families to the crimes, testing their loyalty, trust, and pursuit of justice.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369842" start="20250823010000 +0000" stop="20250823013000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Reporter's Notebook</title>
+    <desc>Features stories culled from the reporters' own files, news that people did not see on the news programs. The show is written and hosted by the network's aggressive young reporters and hosted by the network.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823013000 +0000" stop="20250823020000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Resibo: Walang Lusot ang May Atraso</title>
+    <desc>A public service program aimed at giving a voice to the public's grievances and complaints, exposing wrongdoing, and providing concrete resolutions.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823020000 +0000" stop="20250823033000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Kapuso Mo Jessica Soho</title>
+    <desc>Features the lighter side of veteran journalist, Jessica Soho, and highlights insightful stories of a wide range of topics.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823033000 +0000" stop="20250823040000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">My Father's Wife</title>
+    <desc>Two friends, Gina and Betsy, strike a deal: Gina will enter into a marriage of convenience with Betsy's boyfriend, Gerald, to help Betsy achieve her American dream. But when Gina and Gerald unexpectedly fall in love and choose to honor their vows, everything changes. Betrayed and furious, Betsy retaliates in the most shocking way—by marrying Gina's father. What begins as a calculated plan spirals </desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823040000 +0000" stop="20250823063000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">It's Showtime</title>
+    <desc>"It's Showtime" is a hit variety program that thrives on spontaneity and animated conversations.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823063000 +0000" stop="20250823071500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">MAKA</title>
+    <desc>It is a youth-oriented drama series that follows the lives of six high school students enrolled in the Arts &amp; Performance section of public school, Douglas Mac Arthur High School for the Arts aka. MAKA.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823071500 +0000" stop="20250823074500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Wish Ko Lang</title>
+    <desc>The first wish-granting program on Philippine television, featuring inspiring stories of ordinary Filipinos as they struggle to overcome extraordinary situations.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823074500 +0000" stop="20250823082000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Hanap ng Puso: A Global Pinoy's Story</title>
+    <desc>Hanap ng Puso: A Global Pinoy's Story is a monthly program about Pinoy migration.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823082000 +0000" stop="20250823090000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">My Father's Wife</title>
+    <desc>Two friends, Gina and Betsy, strike a deal: Gina will enter into a marriage of convenience with Betsy's boyfriend, Gerald, to help Betsy achieve her American dream. But when Gina and Gerald unexpectedly fall in love and choose to honor their vows, everything changes. Betrayed and furious, Betsy retaliates in the most shocking way—by marrying Gina's father. What begins as a calculated plan spirals </desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823090000 +0000" stop="20250823100000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Magpakailanman</title>
+    <desc>A drama anthology featuring real-life inspired stories.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823100000 +0000" stop="20250823104000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Regal Studio Presents</title>
+    <desc>A collection of weekly specials which feature timely, feel-good stories.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823104000 +0000" stop="20250823111500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Resibo: Walang Lusot ang May Atraso</title>
+    <desc>A public service program aimed at giving a voice to the public's grievances and complaints, exposing wrongdoing, and providing concrete resolutions.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823111500 +0000" stop="20250823120000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">24 Oras Weekend</title>
+    <desc>A weekend report on the latest happenings in the Philippines and around the world.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823120000 +0000" stop="20250823123000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">MAKA</title>
+    <desc>It is a youth-oriented drama series that follows the lives of six high school students enrolled in the Arts &amp; Performance section of public school, Douglas Mac Arthur High School for the Arts aka. MAKA.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823123000 +0000" stop="20250823131000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Pepito Manaloto, Tuloy Ang Kuwento</title>
+    <desc>The continuing comedic chronicle of the life of Pepito Manaloto, a lucky multimillion lotto winner, his family, and the merry mix of neighbors and colleagues.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823131000 +0000" stop="20250823134500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">BBLGang</title>
+    <desc>A refreshing, exciting and funny show with an assortment of gags, spoofs, and comic performances.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823134500 +0000" stop="20250823143000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">The Boobay and Tekla Show</title>
+    <desc>A comedy program that features a wide range of hilarious discussion topics in pop culture, entertainment, current events, society, sports, cyber culture and more.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823143000 +0000" stop="20250823150000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">My Father's Wife</title>
+    <desc>Two friends, Gina and Betsy, strike a deal: Gina will enter into a marriage of convenience with Betsy's boyfriend, Gerald, to help Betsy achieve her American dream. But when Gina and Gerald unexpectedly fall in love and choose to honor their vows, everything changes. Betrayed and furious, Betsy retaliates in the most shocking way—by marrying Gina's father. What begins as a calculated plan spirals </desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823150000 +0000" stop="20250823153000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">I-Witness</title>
+    <desc>A documentary on the different issues in society hosted by a set of trusted broadcast journalists in the country.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823153000 +0000" stop="20250823174500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">It's Showtime</title>
+    <desc>"It's Showtime" is a hit variety program that thrives on spontaneity and animated conversations.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823174500 +0000" stop="20250823183000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">The Boobay and Tekla Show</title>
+    <desc>A comedy program that features a wide range of hilarious discussion topics in pop culture, entertainment, current events, society, sports, cyber culture and more.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823183000 +0000" stop="20250823191500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">24 Oras Weekend</title>
+    <desc>A weekend report on the latest happenings in the Philippines and around the world.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823191500 +0000" stop="20250823194500 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Reporter's Notebook</title>
+    <desc>Features stories culled from the reporters' own files, news that people did not see on the news programs. The show is written and hosted by the network's aggressive young reporters and hosted by the network.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823194500 +0000" stop="20250823202000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">MAKA</title>
+    <desc>It is a youth-oriented drama series that follows the lives of six high school students enrolled in the Arts &amp; Performance section of public school, Douglas Mac Arthur High School for the Arts aka. MAKA.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823202000 +0000" stop="20250823210000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">BBLGang</title>
+    <desc>A refreshing, exciting and funny show with an assortment of gags, spoofs, and comic performances.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823210000 +0000" stop="20250823215000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">The Boobay and Tekla Show</title>
+    <desc>A comedy program that features a wide range of hilarious discussion topics in pop culture, entertainment, current events, society, sports, cyber culture and more.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823215000 +0000" stop="20250823220000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Global Pinoy Unlimited</title>
+    <desc>Global Pinoy Unlimited features community news, Pinoy headliners and their significant contributions to the community, as well as special kababayan and Kapuso happenings across the globe.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823220000 +0000" stop="20250823223000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Wish Ko Lang</title>
+    <desc>The first wish-granting program on Philippine television, featuring inspiring stories of ordinary Filipinos as they struggle to overcome extraordinary situations.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369842" start="20250823223000 +0000" stop="20250824000000 +0000" display-name="GMA Pinoy TV (SG)">
+    <title lang="zh">Encantadia Chronicles: Sang'gre Marathon</title>
+    <desc>The series is a spin-off to the Philippine television fantasy drama series, Encantadia.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250822000000 +0000" stop="20250822004500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Idol sa Kusina</title>
+    <desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822004500 +0000" stop="20250822013000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Day Off</title>
+    <desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822013000 +0000" stop="20250822021500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Farm To Table</title>
+    <desc>Chef JR gives our viewers a peek into the fascinating process of food preparation -- from picking and harvesting fresh ingredients to cooking and plating a delicious dish.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822021500 +0000" stop="20250822031500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822031500 +0000" stop="20250822040000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Idol sa Kusina</title>
+    <desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822040000 +0000" stop="20250822044500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Mars Pa More</title>
+    <desc>Offer insightful discussions on the hottest topics, easy home-cooked recipes, family-friendly games, interesting crafts, musical segments, trending challenges on social media, must-visit places, beauty and home tips, and many more.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822044500 +0000" stop="20250822053000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Day Off</title>
+    <desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822053000 +0000" stop="20250822061500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Underage</title>
+    <desc>A drama about three sisters—Celine, Carrie, and Chynna—whose lives spiral after a viral video scandal, forcing them to face adult problems like family conflict, teen romance, and social media pressure.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822061500 +0000" stop="20250822071500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822071500 +0000" stop="20250822080000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Weekend Getaway</title>
+    <desc>Drew Arellano treats two adventure-seekers to a weekend trip and shows them that traveling can be fun on a budget! Weekend Getaway will showcase affordable, off-the-beaten-track weekend getaway options in the Philippines and around Asia.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822080000 +0000" stop="20250822100000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">REEL LIFE</title>
+    <desc>MOVIE.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822100000 +0000" stop="20250822104500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Underage</title>
+    <desc>A drama about three sisters—Celine, Carrie, and Chynna—whose lives spiral after a viral video scandal, forcing them to face adult problems like family conflict, teen romance, and social media pressure.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822104500 +0000" stop="20250822113000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Lutong Bahay</title>
+    <desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822113000 +0000" stop="20250822121500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Day Off</title>
+    <desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822121500 +0000" stop="20250822130000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Mars Pa More</title>
+    <desc>Offer insightful discussions on the hottest topics, easy home-cooked recipes, family-friendly games, interesting crafts, musical segments, trending challenges on social media, must-visit places, beauty and home tips, and many more.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822130000 +0000" stop="20250822134500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Idol sa Kusina</title>
+    <desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822134500 +0000" stop="20250822144500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822144500 +0000" stop="20250822153000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Regal Studio Presents</title>
+    <desc>A collection of weekly specials which feature timely, feel-good stories.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822153000 +0000" stop="20250822163000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Lutong Bahay</title>
+    <desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822163000 +0000" stop="20250822171500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Mars Pa More</title>
+    <desc>Offer insightful discussions on the hottest topics, easy home-cooked recipes, family-friendly games, interesting crafts, musical segments, trending challenges on social media, must-visit places, beauty and home tips, and many more.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822171500 +0000" stop="20250822180000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Idol sa Kusina</title>
+    <desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822180000 +0000" stop="20250822184500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Day Off</title>
+    <desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822184500 +0000" stop="20250822204500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">REEL LIFE</title>
+    <desc>MOVIE.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822204500 +0000" stop="20250822213000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Underage</title>
+    <desc>A drama about three sisters—Celine, Carrie, and Chynna—whose lives spiral after a viral video scandal, forcing them to face adult problems like family conflict, teen romance, and social media pressure.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822213000 +0000" stop="20250822223000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822223000 +0000" stop="20250822231500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Lutong Bahay</title>
+    <desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250822231500 +0000" stop="20250823000000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Mars Pa More</title>
+    <desc>Offer insightful discussions on the hottest topics, easy home-cooked recipes, family-friendly games, interesting crafts, musical segments, trending challenges on social media, must-visit places, beauty and home tips, and many more.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369769" start="20250823000000 +0000" stop="20250823004500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Idol sa Kusina</title>
+    <desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823004500 +0000" stop="20250823013000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Day Off</title>
+    <desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823013000 +0000" stop="20250823021500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Heart World</title>
+    <desc>A reality series that follows actress and fashion icon Heart Evangelista, offering a behind-the-scenes look at her life, from global fashion events to personal struggles and growth.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823021500 +0000" stop="20250823031500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823031500 +0000" stop="20250823040000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Idol sa Kusina</title>
+    <desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823040000 +0000" stop="20250823044500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Mars Pa More</title>
+    <desc>Offer insightful discussions on the hottest topics, easy home-cooked recipes, family-friendly games, interesting crafts, musical segments, trending challenges on social media, must-visit places, beauty and home tips, and many more.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823044500 +0000" stop="20250823053000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Day Off</title>
+    <desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823053000 +0000" stop="20250823061500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Underage</title>
+    <desc>A drama about three sisters—Celine, Carrie, and Chynna—whose lives spiral after a viral video scandal, forcing them to face adult problems like family conflict, teen romance, and social media pressure.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823061500 +0000" stop="20250823071500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Weekend Getaway</title>
+    <desc>Drew Arellano treats two adventure-seekers to a weekend trip and shows them that traveling can be fun on a budget! Weekend Getaway will showcase affordable, off-the-beaten-track weekend getaway options in the Philippines and around Asia.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823071500 +0000" stop="20250823074500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">I Heart PH</title>
+    <desc>Features a three-part Hong Kong special with cultural spots, local cuisine, and Disneyland's 20th anniversary, all told through the show's signature Filipino travel and lifestyle lens.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823074500 +0000" stop="20250823081500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Sarap 'di ba?</title>
+    <desc>A talk-variety show hosted by no less than celebrity mom Carmina Villarroel together with her talented twins Mavy and Cassy. Learn new recipes from Carmina and her twins while she shares parenting tips with their Kapuso celebrity guests.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823081500 +0000" stop="20250823094500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Telesine</title>
+    <desc>A weekly drama presenting various stories that were made for television.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823094500 +0000" stop="20250823114500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Reel Life Weekend "Barumbadings"</title>
+    <desc>A black comedy about three gay gangsters who, after their guardian's death, clash with a rival lesbian group in a violent feud blending action and humor.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823114500 +0000" stop="20250823124500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Weekend Getaway</title>
+    <desc>Drew Arellano treats two adventure-seekers to a weekend trip and shows them that traveling can be fun on a budget! Weekend Getaway will showcase affordable, off-the-beaten-track weekend getaway options in the Philippines and around Asia.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823124500 +0000" stop="20250823133000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Biyahe ni Drew</title>
+    <desc>Let Drew Arellano be your personal tour guide every week on GMA Life TV's top travel show. Travel hacks, bucket list ideas, and tipid tips for local and international? Biyahero Drew has got you covered!</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823133000 +0000" stop="20250823140000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Turbo Zone</title>
+    <desc>A young, dynamic, fresh take motoring show in the Philippines that allows us to satiate our appetite for cars, motoring gadgets and automotive market trends.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823140000 +0000" stop="20250823143000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Tunay na Buhay</title>
+    <desc>Pia Arcanghel takes you on a journey of hope, courage, and determination; real people, real stories providing you with real inspiration.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823143000 +0000" stop="20250823151500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Karelasyon</title>
+    <desc>A drama anthology that touches on the various issues that Filipinos deal with regularly.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823151500 +0000" stop="20250823160000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">The Final Pitch: Cebu Edition</title>
+    <desc>A special version of the business reality show where entrepreneurs pitch to investors. Filmed in Cebu with Geeks on a Beach, it featured startups aiming to expand regionally or globally.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823160000 +0000" stop="20250823180000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Reel Life Weekend "Barumbadings"</title>
+    <desc>A black comedy about three gay gangsters who, after their guardian's death, clash with a rival lesbian group in a violent feud blending action and humor.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823180000 +0000" stop="20250823204500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Underage</title>
+    <desc>A drama about three sisters—Celine, Carrie, and Chynna—whose lives spiral after a viral video scandal, forcing them to face adult problems like family conflict, teen romance, and social media pressure.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823204500 +0000" stop="20250823212500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Biyahe ni Drew</title>
+    <desc>Let Drew Arellano be your personal tour guide every week on GMA Life TV's top travel show. Travel hacks, bucket list ideas, and tipid tips for local and international? Biyahero Drew has got you covered!</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823212500 +0000" stop="20250823213000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">I Speak Pinoy</title>
+    <desc>A a mini-series by GMA Pinoy TV that teaches Filipino words and phrases to help viewers learn and understand the language.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823213000 +0000" stop="20250823220000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">I Bilib</title>
+    <desc>The show features scientific experiments and explores different scientific facts and theories surrounding everyday events presented in magical manner. The show also features some cosplay pictures by different cosplayers.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823220000 +0000" stop="20250823223000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Dami Mong Alam, Kuya Kim!</title>
+    <desc>A family-friendly magazine show that showcases viral videos from social media, offering deeper insights and added value by exploring the stories behind the videos and providing a fresh perspective on the lessons viewers can learn from them.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823223000 +0000" stop="20250823230000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">AHA!</title>
+    <desc>An informative and educational program that promises to share interesting facts and trivia about a wide range of topics to the viewers.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823230000 +0000" stop="20250823234500 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">Sarap 'di ba?</title>
+    <desc>A talk-variety show hosted by no less than celebrity mom Carmina Villarroel together with her talented twins Mavy and Cassy. Learn new recipes from Carmina and her twins while she shares parenting tips with their Kapuso celebrity guests.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369769" start="20250823234500 +0000" stop="20250824000000 +0000" display-name="GMA Life TV (SG)">
+    <title lang="zh">The Final Pitch: Cebu Edition</title>
+    <desc>A special version of the business reality show where entrepreneurs pitch to investors. Filmed in Cebu with Geeks on a Beach, it featured startups aiming to expand regionally or globally.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250822003000 +0000" stop="20250822040000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">DOBOL B TV</title>
+    <desc>Various newscasts and programs of Super Radyo DZBB delivers the much-needed news and information to its viewers.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822040000 +0000" stop="20250822044500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Dokumentaryo</title>
+    <desc>A compilation of the award-winning I-Witness documentaries.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822044500 +0000" stop="20250822054500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Reel Time</title>
+    <desc>A reality documentary program that features honest and unpretentious stories of simple people and takes an unfiltered look at various social issues.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822054500 +0000" stop="20250822064500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Cayetano in Action with Boy Abunda</title>
+    <desc>Senator Alan Peter Cayetano and host Boy Abunda engage in insightful conversations on current events, social issues, and interviews with various guests. The show combines thought-provoking discussions with entertainment, offering diverse perspectives on important topics.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822064500 +0000" stop="20250822073000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Imbestigador</title>
+    <desc>An investigative show highlighting societal issues like corruption, local government problems, illegal activities, poverty, disloyalty, cleanliness, education, wasted public funds, youth, and public health and safety.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822073000 +0000" stop="20250822081500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Born Impact</title>
+    <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822081500 +0000" stop="20250822090000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Dokumentaryo</title>
+    <desc>A compilation of the award-winning I-Witness documentaries.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822090000 +0000" stop="20250822100000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822100000 +0000" stop="20250822110000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Reel Time</title>
+    <desc>A reality documentary program that features honest and unpretentious stories of simple people and takes an unfiltered look at various social issues.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822110000 +0000" stop="20250822120000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Pera Paraan</title>
+    <desc>Offers practical tips on handling household finances and earning additional income.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822120000 +0000" stop="20250822124500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Balitang Bisdak</title>
+    <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822124500 +0000" stop="20250822133000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">One North Central Luzon</title>
+    <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822133000 +0000" stop="20250822140000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">One Mindanao</title>
+    <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822140000 +0000" stop="20250822144500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">One Western Visayas</title>
+    <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822144500 +0000" stop="20250822154500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822154500 +0000" stop="20250822164500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Reel Time</title>
+    <desc>A reality documentary program that features honest and unpretentious stories of simple people and takes an unfiltered look at various social issues.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822164500 +0000" stop="20250822171500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">State of the Nation</title>
+    <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822171500 +0000" stop="20250822180000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Born Impact</title>
+    <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822180000 +0000" stop="20250822183000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Saksi</title>
+    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822183000 +0000" stop="20250822191500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Balitang Bisdak</title>
+    <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822191500 +0000" stop="20250822200000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">One North Central Luzon</title>
+    <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822200000 +0000" stop="20250822204500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">One Mindanao</title>
+    <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822204500 +0000" stop="20250822213000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">One Western Visayas</title>
+    <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822213000 +0000" stop="20250822221500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">State of the Nation</title>
+    <desc>The flagship nightly news program that delivers the latest news and happenings around the country.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822221500 +0000" stop="20250822224500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Saksi</title>
+    <desc>Brings up-to-the-minute news relentlessly delivering breaking stories and covering live reports.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822224500 +0000" stop="20250822234500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Balitanghali</title>
+    <desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250822234500 +0000" stop="20250823000000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Born Impact</title>
+    <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
+    <date>2025-08-22</date>
+  </programme>
+  <programme channel="369794" start="20250823003000 +0000" stop="20250823033000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">DOBOL B TV</title>
+    <desc>Various newscasts and programs of Super Radyo DZBB delivers the much-needed news and information to its viewers.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823033000 +0000" stop="20250823041500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Imbestigador</title>
+    <desc>An investigative show highlighting societal issues like corruption, local government problems, illegal activities, poverty, disloyalty, cleanliness, education, wasted public funds, youth, and public health and safety.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823041500 +0000" stop="20250823051500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Cayetano in Action with Boy Abunda</title>
+    <desc>Senator Alan Peter Cayetano and host Boy Abunda engage in insightful conversations on current events, social issues, and interviews with various guests. The show combines thought-provoking discussions with entertainment, offering diverse perspectives on important topics.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823051500 +0000" stop="20250823060000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Pinoy Crime Stories</title>
+    <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823060000 +0000" stop="20250823070000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Brigada</title>
+    <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823070000 +0000" stop="20250823073000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Agripreneur</title>
+    <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823073000 +0000" stop="20250823083000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Good News</title>
+    <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823083000 +0000" stop="20250823091500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Front Row</title>
+    <desc>Features a different full-length, cinéma vérité style documentary that often tackles social issues such as poverty and corruption.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823091500 +0000" stop="20250823100000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Born Impact</title>
+    <desc>A travel and wildlife program that features breathtaking wildlife encounters and the most extensive archive of nature footages.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823100000 +0000" stop="20250823110000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Brigada</title>
+    <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823110000 +0000" stop="20250823120000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Cayetano in Action with Boy Abunda</title>
+    <desc>Senator Alan Peter Cayetano and host Boy Abunda engage in insightful conversations on current events, social issues, and interviews with various guests. The show combines thought-provoking discussions with entertainment, offering diverse perspectives on important topics.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823120000 +0000" stop="20250823124500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Balitang Bisdak</title>
+    <desc>Provides news and features around Cebu and the rest of Central Visayas including Negros Oriental, Bohol, and Siquijor.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823124500 +0000" stop="20250823133000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">One North Central Luzon</title>
+    <desc>Delivers all the freshest news, events, and updates from North Central Luzon.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823133000 +0000" stop="20250823140000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">One Mindanao</title>
+    <desc>The newscast covers the most significant news and features in six regions in Mindanao.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823140000 +0000" stop="20250823144500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">One Western Visayas</title>
+    <desc>Brings in-depth and comprehensive news from across Western Visayan region, delivered in Hiligaynon language.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823144500 +0000" stop="20250823153000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Pinoy Crime Stories</title>
+    <desc>The show tackled real-life crimes such as murder, trafficking, and abductions through interviews and dramatizations, offering insight into investigations.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823153000 +0000" stop="20250823160000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Agripreneur</title>
+    <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823160000 +0000" stop="20250823164500 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Good News</title>
+    <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823164500 +0000" stop="20250823173000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Pera Paraan</title>
+    <desc>Offers practical tips on handling household finances and earning additional income.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823173000 +0000" stop="20250823183000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Brigada</title>
+    <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823183000 +0000" stop="20250823193000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Investigative Documentaries</title>
+    <desc>A documentary program that provides in-depth analysis on current national issues.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823193000 +0000" stop="20250823200000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Agripreneur</title>
+    <desc>Features the local agriculture industry from practical tips on animal raising and planting to stories of entrepreneurs behind the country's most profitable farms and agricultural spaces.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823200000 +0000" stop="20250823210000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Good News</title>
+    <desc>A program that rounds up the trending feel-good stories in the Philippines and offers fashion tips and affordable healthy recipes for Kapuso viewers on a budget.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823210000 +0000" stop="20250823220000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Brigada</title>
+    <desc>An award-winning investigative documentary program hosted by multi-awarded broadcast journalist Kara David.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823220000 +0000" stop="20250823230000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Cayetano in Action with Boy Abunda</title>
+    <desc>Senator Alan Peter Cayetano and host Boy Abunda engage in insightful conversations on current events, social issues, and interviews with various guests. The show combines thought-provoking discussions with entertainment, offering diverse perspectives on important topics.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823230000 +0000" stop="20250823233000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Front Row</title>
+    <desc>Features a different full-length, cinéma vérité style documentary that often tackles social issues such as poverty and corruption.</desc>
+    <date>2025-08-23</date>
+  </programme>
+  <programme channel="369794" start="20250823233000 +0000" stop="20250824000000 +0000" display-name="GMA News TV (SG)">
+    <title lang="zh">Imbestigador</title>
+    <desc>An investigative show highlighting societal issues like corruption, local government problems, illegal activities, poverty, disloyalty, cleanliness, education, wasted public funds, youth, and public health and safety.</desc>
+    <date>2025-08-23</date>
   </programme>
   <programme channel="412127" start="20250822000000 +0000" stop="20250822010000 +0000" display-name="ANC Global">
     <title lang="zh">Headstart</title>
