@@ -36,6 +36,12 @@
     "logo": "https://i.imgur.com/7hBbdO6.png" 
   },
   { 
+    "id": "7850",
+    "name": "Jeepney TV",             
+    "url": "https://epg.pw/api/epg.xml?channel_id=7850",
+    "logo": "https://i.imgur.com/7HSBVsl.png" 
+  },
+  { 
     "id": "412127",
     "name": "ANC Global",             
     "url": "https://epg.pw/api/epg.xml?channel_id=412127",
