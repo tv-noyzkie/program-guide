@@ -12,6 +12,12 @@
     "logo": "https://i.imgur.com/mhYrit2.png" 
   },
   { 
+    "id": "403541",
+    "name": "TFC NA", 
+    "url": "https://epg.pw/api/epg.xml?channel_id=403541",
+    "logo": "https://i.imgur.com/mhYrit2.png" 
+  },
+  { 
     "id": "369842",
     "name": "GMA Pinoy TV (SG)",             
     "url": "https://epg.pw/api/epg.xml?channel_id=369842",
