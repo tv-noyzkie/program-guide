@@ -1,159 +1,159 @@
-  [
-  { 
-    "id": "7870",
-    "name": "Kapamilya Channel", 
-    "url": "https://epg.pw/api/epg.xml?channel_id=7870",
-    "logo": "https://i.imgur.com/Dcys2TG.png" 
-  },
-  { 
-    "id": "429570",
-    "name": "TFC Asia", 
-    "url": "https://epg.pw/api/epg.xml?channel_id=429570",
-    "logo": "https://i.imgur.com/mhYrit2.png" 
-  },
-  { 
-    "id": "403541",
-    "name": "TFC North America", 
-    "url": "https://epg.pw/api/epg.xml?channel_id=403541",
-    "logo": "https://i.imgur.com/mhYrit2.png" 
-  },
-  { 
-    "id": "369842",
-    "name": "GMA Pinoy TV (SG)",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=369842",
-    "logo": "https://i.imgur.com/Jinf00v.png" 
-  },
-  { 
-    "id": "369769",
-    "name": "GMA Life TV (SG)",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=369769",
-    "logo": "https://i.imgur.com/jiX9Sol.png" 
-  },
-  { 
-    "id": "369794",
-    "name": "GMA News TV (SG)",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=369794",
-    "logo": "https://i.imgur.com/7hBbdO6.png" 
-  },
-  { 
-    "id": "7850",
-    "name": "Jeepney TV",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=7850",
-    "logo": "https://i.imgur.com/7HSBVsl.png" 
-  },
-  { 
-    "id": "412127",
-    "name": "ANC Global",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=412127",
-    "logo": "https://i.imgur.com/6l5x8Tx.png" 
-  },
-  { 
-    "id": "7846",
-    "name": "ANC",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=7846",
-    "logo": "https://i.imgur.com/4R2CXoh.png" 
-  },
-  { 
-    "id": "7864",
-    "name": "Cinema One",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=7864",
-    "logo": "https://i.imgur.com/y70JwoJ.png" 
-  },
-  { 
-    "id": "443285",
-    "name": "Cinema Mo!",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=443285",
-    "logo": "https://i.imgur.com/UOsv6wt.png" 
-  },
-  { 
-    "id": "443288",
-    "name": "MYX",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=443288",
-    "logo": "https://i.imgur.com/CYo7qgS.png" 
-  },
-  { 
-    "id": "70612",
-    "name": "PTV",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=70612",
-    "logo": "https://i.imgur.com/XKsiME1.png" 
-  },
-  { 
-    "id": "11984",
-    "name": "TV5",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=11984",
-    "logo": "https://i.imgur.com/Ufp278A.png" 
-  },
-  { 
-    "id": "70615",
-    "name": "GMA",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=70615",
-    "logo": "https://i.imgur.com/WqJTuv3.png" 
-  },
-  {
-    "id": "70607",
-    "name": "GTV",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=70607",
-    "logo": "https://i.imgur.com/mOmtU9T.png" 
-  },
-  { 
-    "id": "307748",
-    "name": "A2Z",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=307748",
-    "logo": "https://i.imgur.com/y0BqsiQ.png" 
-  },
-  { 
-    "id": "427989",
-    "name": "Blast Movies",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=427989",
-    "logo": "https://i.imgur.com/rYPRj9a.png" 
-  },
-  { 
-    "id": "427992",
-    "name": "Blast Sports",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=427992",
-    "logo": "https://i.imgur.com/lIb8fTM.png" 
-  },
-  { 
-    "id": "157088",
-    "name": "Celestial Movies Pinoy",             
-    "url": "https://epg.pw/api/epg.xml?channel_id=157088",
-    "logo": "https://i.imgur.com/EkmCzO1.png" 
-  }
-]
+{
+  "channels": [
+    { 
+      "id": "7870",
+      "name": "Kapamilya Channel", 
+      "url": "https://epg.pw/api/epg.xml?channel_id=7870",
+      "logo": "https://i.imgur.com/Dcys2TG.png" 
+    },
+    { 
+      "id": "429570",
+      "name": "TFC Asia", 
+      "url": "https://epg.pw/api/epg.xml?channel_id=429570",
+      "logo": "https://i.imgur.com/mhYrit2.png" 
+    },
+    { 
+      "id": "403541",
+      "name": "TFC North America", 
+      "url": "https://epg.pw/api/epg.xml?channel_id=403541",
+      "logo": "https://i.imgur.com/mhYrit2.png" 
+    },
+    { 
+      "id": "369842",
+      "name": "GMA Pinoy TV (SG)",             
+      "url": "https://epg.pw/api/epg.xml?channel_id=369842",
+      "logo": "https://i.imgur.com/Jinf00v.png" 
+    },
+    { 
+      "id": "369769",
+      "name": "GMA Life TV (SG)",             
+      "url": "https://epg.pw/api/epg.xml?channel_id=369769",
+      "logo": "https://i.imgur.com/jiX9Sol.png" 
+    },
+    { 
+      "id": "369794",
+      "name": "GMA News TV (SG)",             
+      "url": "https://epg.pw/api/epg.xml?channel_id=369794",
+      "logo": "https://i.imgur.com/7hBbdO6.png" 
+    },
+    { 
+      "id": "7850",
+      "name": "Jeepney TV",             
+      "url": "https://epg.pw/api/epg.xml?channel_id=7850",
+      "logo": "https://i.imgur.com/7HSBVsl.png" 
+    },
+    { 
+      "id": "412127",
+      "name": "ANC Global",             
+      "url": "https://epg.pw/api/epg.xml?channel_id=412127",
+      "logo": "https://i.imgur.com/6l5x8Tx.png" 
+    },
+    { 
+      "id": "7846",
+      "name": "ANC",             
+      "url": "https://epg.pw/api/epg.xml?channel_id=7846",
+      "logo": "https://i.imgur.com/4R2CXoh.png" 
+    },
+    { 
+      "id": "7864",
+      "name": "Cinema One",             
+      "url": "https://epg.pw/api/epg.xml?channel_id=7864",
+      "logo": "https://i.imgur.com/y70JwoJ.png" 
+    },
+    { 
+      "id": "443285",
+      "name": "Cinema Mo!",             
+      "url": "https://epg.pw/api/epg.xml?channel_id=443285",
+      "logo": "https://i.imgur.com/UOsv6wt.png" 
+    },
+    { 
+      "id": "443288",
+      "name": "MYX",             
+      "url": "https://epg.pw/api/epg.xml?channel_id=443288",
+      "logo": "https://i.imgur.com/CYo7qgS.png" 
+    },
+    { 
+      "id": "70612",
+      "name": "PTV",             
+      "url": "https://epg.pw/api/epg.xml?channel_id=70612",
+      "logo": "https://i.imgur.com/XKsiME1.png" 
+    },
+    { 
+      "id": "11984",
+      "name": "TV5",             
+      "url": "https://epg.pw/api/epg.xml?channel_id=11984",
+      "logo": "https://i.imgur.com/Ufp278A.png" 
+    },
+    { 
+      "id": "70615",
+      "name": "GMA",             
+      "url": "https://epg.pw/api/epg.xml?channel_id=70615",
+      "logo": "https://i.imgur.com/WqJTuv3.png" 
+    },
+    {
+      "id": "70607",
+      "name": "GTV",             
+      "url": "https://epg.pw/api/epg.xml?channel_id=70607",
+      "logo": "https://i.imgur.com/mOmtU9T.png" 
+    },
+    { 
+      "id": "307748",
+      "name": "A2Z",             
+      "url": "https://epg.pw/api/epg.xml?channel_id=307748",
+      "logo": "https://i.imgur.com/y0BqsiQ.png" 
+    },
+    { 
+      "id": "427989",
+      "name": "Blast Movies",             
+      "url": "https://epg.pw/api/epg.xml?channel_id=427989",
+      "logo": "https://i.imgur.com/rYPRj9a.png" 
+    },
+    { 
+      "id": "427992",
+      "name": "Blast Sports",             
+      "url": "https://epg.pw/api/epg.xml?channel_id=427992",
+      "logo": "https://i.imgur.com/lIb8fTM.png" 
+    },
+    { 
+      "id": "157088",
+      "name": "Celestial Movies Pinoy",             
+      "url": "https://epg.pw/api/epg.xml?channel_id=157088",
+      "logo": "https://i.imgur.com/EkmCzO1.png" 
+    }
+  ],
 
-"extra_epg": [
+  "extra_epg": [
     {
       "url": "https://tvguideph.netlify.app/cplay.xml",
       "channels": [
-        [
-      {"id": "bilyonaryoch", "name": "Bilyonaryo News Channel"},
-      {"id": "buko", "name": "Buko"},
-      {"id": "depedchannel", "name": "DepEd TV"},
-      {"id": "cg_dreamworktag", "name": "DreamWorks (Tagalized"},
-      {"id": "knowledge_channel", "name": "Knowledge Channel"},
-      {"id": "lotusmacau_prd", "name": "Lotus Macau"},
-      {"id": "cgnal_nba", "name": "NBA TV Philippines"},
-      {"id": "onenews_hd", "name": "One News"},
-      {"id": "oneph", "name": "One PH"},
-      {"id": "onesports", "name": "One Sports HD"},
-      {"id": "onesportsplus_hd", "name": "One Sports+"},
-      {"id": "pbarush_hd", "name": "PBA Rush"},
-      {"id": "pbo", "name": "Pinoy Box Office"},    
-      {"id": "rptv", "name": "RPTV HD"},
-      {"id": "sari_sari", "name": "Sari-Sari"},
-      {"id": "cg_tagalogmovie", "name": "Tagalog Movie Channel (TMC)"},
-      {"id": "thrill", "name": "Thrill SD"},
-      {"id": "travel_channel", "name": "Travel Channel SD"},
-      {"id": "truefmtv", "name": "True FM TV"},
-      {"id": "tvmaria_prd", "name": "TV Maria"},
-      {"id": "cg_tvnmovie", "name": "tvN Movies Pinoy"},
-      {"id": "cg_tvnpre", "name": "tvN Premium HD"},
-      {"id": "tvup_prd", "name": "TVUP"},
-      {"id": "uaap_varsity", "name": "UAAP Varsity Channel"},
-      {"id": "viva", "name": "Viva Cinema"}
-        ]
-  },
-  {
+        { "id": "bilyonaryoch", "name": "Bilyonaryo News Channel", "logo": "" },
+        { "id": "buko", "name": "Buko", "logo": "" },
+        { "id": "depedchannel", "name": "DepEd TV", "logo": "" },
+        { "id": "cg_dreamworktag", "name": "DreamWorks (Tagalized)", "logo": "" },
+        { "id": "knowledge_channel", "name": "Knowledge Channel", "logo": "" },
+        { "id": "lotusmacau_prd", "name": "Lotus Macau", "logo": "" },
+        { "id": "cgnal_nba", "name": "NBA TV Philippines", "logo": "" },
+        { "id": "onenews_hd", "name": "One News" },
+        { "id": "oneph", "name": "One PH" },
+        { "id": "onesports", "name": "One Sports HD" },
+        { "id": "onesportsplus_hd", "name": "One Sports+" },
+        { "id": "pbarush_hd", "name": "PBA Rush" },
+        { "id": "pbo", "name": "Pinoy Box Office" },    
+        { "id": "rptv", "name": "RPTV HD" },
+        { "id": "sari_sari", "name": "Sari-Sari" },
+        { "id": "cg_tagalogmovie", "name": "Tagalog Movie Channel (TMC)" },
+        { "id": "thrill", "name": "Thrill SD" },
+        { "id": "travel_channel", "name": "Travel Channel SD" },
+        { "id": "truefmtv", "name": "True FM TV" },
+        { "id": "tvmaria_prd", "name": "TV Maria" },
+        { "id": "cg_tvnmovie", "name": "tvN Movies Pinoy" },
+        { "id": "cg_tvnpre", "name": "tvN Premium HD" },
+        { "id": "tvup_prd", "name": "TVUP" },
+        { "id": "uaap_varsity", "name": "UAAP Varsity Channel" },
+        { "id": "viva", "name": "Viva Cinema" }
+      ]
+    },
+    {
       "url": "https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml",
       "channels": [
         { "id": "97098", "name": "Channel 5" },
