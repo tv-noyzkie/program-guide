@@ -15,21 +15,28 @@ def get_channel_id(ch):
 
 def merge_epg(channels_file, output_file):
     with open(channels_file, "r", encoding="utf-8") as f:
-        channels = json.load(f)
+        data = json.load(f)
+
+    channels = data.get("channels", [])
+    extra_epg = data.get("extra_epg", [])
 
     tv = ET.Element("tv")
 
-    # --- Add <channel> list ---
+    # --- Add <channel> list (epg.pw) ---
     for ch in channels:
         ch_id = get_channel_id(ch)
         channel_el = ET.SubElement(tv, "channel", id=ch_id)
-
         ET.SubElement(channel_el, "display-name", lang="en").text = ch["name"]
-
         if ch.get("logo"):
             ET.SubElement(channel_el, "icon", src=ch["logo"])
 
-    # --- Add <programme> list ---
+    # --- Add <channel> list (extra_epg) ---
+    for src in extra_epg:
+        for ch in src["channels"]:
+            channel_el = ET.SubElement(tv, "channel", id=ch["id"])
+            ET.SubElement(channel_el, "display-name", lang="en").text = ch["name"]
+
+    # --- Add <programme> list (epg.pw) ---
     for ch in channels:
         ch_id = get_channel_id(ch)
         try:
@@ -42,13 +49,31 @@ def merge_epg(channels_file, output_file):
             prog_root = ET.fromstring("<tv>" + inner + "</tv>")
 
             for prog in prog_root.findall("programme"):
-                # Replace channel attribute with ID and add display-name
                 prog.set("channel", ch_id)
-                prog.set("display-name", ch["name"])
+                prog.set("display-name", ch["name"])  # add channel name for clarity
                 tv.append(prog)
 
         except Exception as e:
             print(f"❌ Failed for {ch['name']}: {e}")
+
+    # --- Add <programme> list (extra_epg) ---
+    for src in extra_epg:
+        try:
+            res = requests.get(src["url"], timeout=15)
+            res.raise_for_status()
+            xml_text = res.text
+            xml_root = ET.fromstring(xml_text)
+
+            wanted_ids = {c["id"]: c["name"] for c in src["channels"]}
+
+            for prog in xml_root.findall("programme"):
+                ch_id = prog.get("channel")
+                if ch_id in wanted_ids:
+                    prog.set("channel", ch_id)
+                    prog.set("display-name", wanted_ids[ch_id])  # include readable name
+                    tv.append(prog)
+        except Exception as e:
+            print(f"❌ Failed loading extra EPG {src['url']}: {e}")
 
     # --- Pretty-print XML ---
     rough_string = ET.tostring(tv, encoding="utf-8")
