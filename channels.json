@@ -161,11 +161,17 @@
         { "id": "97129", "name": "Channel U" },
         { "id": "97084", "name": "Suria" },
         { "id": "97096", "name": "Vasantham" },
-        { "id": "97096", "name": "Vasantham" },
-        { "id": "97096", "name": "Vasantham" },
-        { "id": "97096", "name": "Vasantham" },
-        { "id": "97096", "name": "Vasantham" },
-        { "id": "nickelodeon.ph", "name": "Nickelodeon" }
+        { "id": "97072", "name": "CNA" },
+        { "id": "98200", "name": "SPL CH01" },
+        { "id": "98201", "name": "SPL CH02" },
+        { "id": "158964", "name": "NOW 70's" },
+        { "id": "158965", "name": "NOW 80's" },
+        { "id": "158963", "name": "NOW Rock" },
+        { "id": "158962", "name": "TRACE Urban" },
+        { "id": "242030", "name": "Animax" },
+        { "id": "382872", "name": "CinemaWorld" },
+        { "id": "97073", "name": "LIVE 1" },
+        { "id": "97078", "name": "LIVE 2" }
       ]
     }
   ]
