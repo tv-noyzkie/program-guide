@@ -100,7 +100,7 @@
 
   "extra_epg": [
     {
-      "url": "https://tvguideph.netlify.app/cplay.xml",
+      "url": "https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml",
       "channels": [
     {
       "id": "a2z",
@@ -512,33 +512,6 @@
       "name": "Warner TV HD",
       "logo": "https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABA02-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?height=150"
     } 
-      ]
-    },
-    {
-  "url": "https://tvguideph.netlify.app/blast.xml",
-  "channels": [
-    { "id": "cdde8e7e-1ab4-4bec-8ee9-b677b7d46953", "name": "Abante", "logo": "https://i.imgur.com/ROo4CqY.png" },
-    { "id": "8d432379-4c46-4d52-bacb-c695a335369d", "name": "Anione", "logo": "https://i.imgur.com/v2S1JlS.png" },
-    { "id": "af2c519d-b1fd-4789-b02c-7acb358f323b", "name": "Bilyonaryo", "logo": "https://i.imgur.com/K4rCmSB.png" },
-    { "id": "35570aaf-b4e7-4e8b-9d34-f30539208470", "name": "Blastchiller", "logo": "" },
-    { "id": "4f925da2-b4ba-4fea-af2b-3be5ca4d13eb", "name": "Blastfamily", "logo": "" },
-    { "id": "e8312e70-7235-4ed7-bf0e-2bae02760a8e", "name": "Blastmovies", "logo": "https://i.imgur.com/rYPRj9a.png" },
-    { "id": "936ebbc1-e660-4426-9bde-82cfd6821b46", "name": "Blastsports", "logo": "https://i.imgur.com/lIb8fTM.png" },
-    { "id": "7e6337a5-c7b2-4ae6-a92e-9eec6a5402c3", "name": "Comicu", "logo": "https://i.imgur.com/2tZaB1G.png" },
-    { "id": "2fa1ca8d-b486-43cb-85a8-04a937f415c3", "name": "Outdoorchannel", "logo": "https://i.imgur.com/IBlWkVQ.png" },
-    { "id": "3ceaf9fa-5f4e-4263-ad6b-925061275d24", "name": "Premierfootball", "logo": "https://i.imgur.com/ETxvenq.png" },
-    { "id": "24249e64-374c-4c32-bc02-1bfa953fa5ea", "name": "Premiersports1", "logo": "https://i.imgur.com/1aP8V51.png" },
-    { "id": "c8997290-0446-455e-9b55-ca3c749786b6", "name": "Premiersports2", "logo": "https://i.imgur.com/iTZsuwE.png" },
-    { "id": "a495827f-90ed-4482-bc8e-b20716efbc13", "name": "Realblast", "logo": "https://i.imgur.com/cbGnqVa.png" },
-    { "id": "bb5d014e-8cca-4213-a85b-16b9961b8c53", "name": "Studiouniversal", "logo": "https://i.imgur.com/YFwB5V2.png" },
-    { "id": "ba8a0785-cdae-4eeb-b094-86a68e5c3926", "name": "Tapactionflix", "logo": "https://i.imgur.com/zib2vZa.png" },
-    { "id": "0e939b2f-d4d2-4031-885e-2cd1b91f7697", "name": "Tapedge", "logo": "https://i.imgur.com/ZKn1UtL.png" },
-    { "id": "711fdc1f-3b49-41cd-a2ee-e3e85d760fd4", "name": "Tapmovies", "logo": "https://i.imgur.com/4SrEYHU.png" },
-    { "id": "40457bed-1f64-4833-adc9-1ff9015788a4", "name": "Tapsports", "logo": "https://i.imgur.com/7QidKHp.png" },
-    { "id": "34905ea9-490a-4e89-97a0-f2a7ac4fc3e1", "name": "Taptv", "logo": "https://i.imgur.com/YZb9ljP.png" },
-    { "id": "94fe102a-8a68-4580-abde-666d1b9971c0", "name": "Tv n", "logo": "https://i.imgur.com/dxWrV6O.png" },
-    { "id": "c62c3d92-c0f7-4292-9cba-29a11e2e2e29", "name": "Tvnmoviespinoy", "logo": "https://i.imgur.com/ZnBMCCz.png" },
-    { "id": "4b1f2dc1-d846-4450-bad1-bf0b3542ac50", "name": "Ufctv", "logo": "https://i.imgur.com/n4OXYRi.png" }
       ]
     },
     {
