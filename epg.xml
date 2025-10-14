@@ -12,6 +12,10 @@
     <display-name lang="en">TFC North America</display-name>
     <icon src="https://i.imgur.com/mhYrit2.png"/>
   </channel>
+  <channel id="464769">
+    <display-name lang="en">GMA Pinoy TV (US)</display-name>
+    <icon src="https://i.imgur.com/s5ZBELM.png"/>
+  </channel>
   <channel id="369842">
     <display-name lang="en">GMA Pinoy TV (SG)</display-name>
     <icon src="https://i.imgur.com/Jinf00v.png"/>
@@ -28,6 +32,10 @@
     <display-name lang="en">Jeepney TV</display-name>
     <icon src="https://i.imgur.com/7HSBVsl.png"/>
   </channel>
+  <channel id="465199">
+    <display-name lang="en">Cinema One Global</display-name>
+    <icon src="https://i.imgur.com/ePXmpqr.png"/>
+  </channel>
   <channel id="412127">
     <display-name lang="en">ANC Global</display-name>
     <icon src="https://i.imgur.com/6l5x8Tx.png"/>
@@ -36,16 +44,12 @@
     <display-name lang="en">ANC</display-name>
     <icon src="https://i.imgur.com/4R2CXoh.png"/>
   </channel>
-  <channel id="7864">
-    <display-name lang="en">Cinema One</display-name>
-    <icon src="https://i.imgur.com/y70JwoJ.png"/>
+  <channel id="464758">
+    <display-name lang="en">DZMM Teleradyo</display-name>
+    <icon src="https://i.imgur.com/IJ0cWky.png"/>
   </channel>
-  <channel id="443285">
-    <display-name lang="en">Cinema Mo!</display-name>
-    <icon src="https://i.imgur.com/UOsv6wt.png"/>
-  </channel>
-  <channel id="443288">
-    <display-name lang="en">MYX</display-name>
+  <channel id="464989">
+    <display-name lang="en">MYX International</display-name>
     <icon src="https://i.imgur.com/CYo7qgS.png"/>
   </channel>
   <channel id="70615">
@@ -582,6 +586,306 @@
     <title lang="zh">The Flying House</title>
     <desc/>
     <date>2025-10-16</date>
+  </programme>
+  <programme channel="464769" start="20251014001500 +0000" stop="20251014004500 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014004500 +0000" stop="20251014022000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">24 Oras</title>
+    <desc>Up to the minute news around the world.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014022000 +0000" stop="20251014030000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Encantadia Chronicles: Sang'gre</title>
+    <desc>Unaware of her royal heritage, a girl lives among humans, without realizing that she is the missing daughter of Sang'gre Danaya, the queen of Encantadia.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014030000 +0000" stop="20251014034000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Sanggang-Dikit FR</title>
+    <desc>Haunted by personal tragedies, two cops join forces to crack a high-profile murder case, only to discover that the people involved are connected to their own pasts.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014034000 +0000" stop="20251014041000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Akusada</title>
+    <desc>Falsely accused of a crime she did not commit, a woman is forced to shed her true identity and assume the life of Lorena Herrera; can she truly adapt to this fabricated existence?</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014041000 +0000" stop="20251014044000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Cruz vs. Cruz</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014044000 +0000" stop="20251014052000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Hating Kapatid</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014052000 +0000" stop="20251014054500 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014054500 +0000" stop="20251014073000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">It's Showtime</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014073000 +0000" stop="20251014081000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014081000 +0000" stop="20251014084000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">I-Witness</title>
+    <desc>A documentary on the various issues in society hosted by a set of broadcast journalists.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014084000 +0000" stop="20251014092000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Encantadia Chronicles: Sang'gre</title>
+    <desc>Unaware of her royal heritage, a girl lives among humans, without realizing that she is the missing daughter of Sang'gre Danaya, the queen of Encantadia.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014092000 +0000" stop="20251014100000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Sanggang-Dikit FR</title>
+    <desc>Haunted by personal tragedies, two cops join forces to crack a high-profile murder case, only to discover that the people involved are connected to their own pasts.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014100000 +0000" stop="20251014104000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Cruz vs. Cruz</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014104000 +0000" stop="20251014111500 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Hating Kapatid</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014111500 +0000" stop="20251014131500 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Unang Hirit</title>
+    <desc>Offers humor and information on various special interests, including news and entertainment.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014131500 +0000" stop="20251014145000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">24 Oras</title>
+    <desc>Up to the minute news around the world.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014145000 +0000" stop="20251014152000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014152000 +0000" stop="20251014155000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014155000 +0000" stop="20251014163000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Akusada</title>
+    <desc>Falsely accused of a crime she did not commit, a woman is forced to shed her true identity and assume the life of Lorena Herrera; can she truly adapt to this fabricated existence?</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014163000 +0000" stop="20251014171500 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Tadhana</title>
+    <desc>A weekly drama anthology series hosted by Kapuso Primetime Queen Marian Rivera-Dantes.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014171500 +0000" stop="20251014180000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">BBLGANG</title>
+    <desc>Filipino comedians produce pop culture parodies, celebrity spoofs and witty commentaries on socio-political issues.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014180000 +0000" stop="20251014190000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Tiktoclock: Happy Hour Na</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014190000 +0000" stop="20251014205000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">It's Showtime</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014205000 +0000" stop="20251014212000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014212000 +0000" stop="20251014220000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Saksi</title>
+    <desc>Delivering breaking stories and covering live reports.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014220000 +0000" stop="20251014223000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Hating Kapatid</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014223000 +0000" stop="20251014230000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Cruz vs. Cruz</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014230000 +0000" stop="20251014233000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Akusada</title>
+    <desc>Falsely accused of a crime she did not commit, a woman is forced to shed her true identity and assume the life of Lorena Herrera; can she truly adapt to this fabricated existence?</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251014233000 +0000" stop="20251015000000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Tiktoclock: Happy Hour Na</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464769" start="20251015001500 +0000" stop="20251015004500 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015004500 +0000" stop="20251015022000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">24 Oras</title>
+    <desc>Up to the minute news around the world.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015022000 +0000" stop="20251015030000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Encantadia Chronicles: Sang'gre</title>
+    <desc>Unaware of her royal heritage, a girl lives among humans, without realizing that she is the missing daughter of Sang'gre Danaya, the queen of Encantadia.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015030000 +0000" stop="20251015034000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Sanggang-Dikit FR</title>
+    <desc>Haunted by personal tragedies, two cops join forces to crack a high-profile murder case, only to discover that the people involved are connected to their own pasts.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015034000 +0000" stop="20251015041000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Akusada</title>
+    <desc>Falsely accused of a crime she did not commit, a woman is forced to shed her true identity and assume the life of Lorena Herrera; can she truly adapt to this fabricated existence?</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015041000 +0000" stop="20251015044000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Cruz vs. Cruz</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015044000 +0000" stop="20251015052000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Hating Kapatid</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015052000 +0000" stop="20251015054500 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015054500 +0000" stop="20251015073000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">It's Showtime</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015073000 +0000" stop="20251015081000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015081000 +0000" stop="20251015084000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Tadhana</title>
+    <desc>A weekly drama anthology series hosted by Kapuso Primetime Queen Marian Rivera-Dantes.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015084000 +0000" stop="20251015092000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Encantadia Chronicles: Sang'gre</title>
+    <desc>Unaware of her royal heritage, a girl lives among humans, without realizing that she is the missing daughter of Sang'gre Danaya, the queen of Encantadia.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015092000 +0000" stop="20251015100000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Sanggang-Dikit FR</title>
+    <desc>Haunted by personal tragedies, two cops join forces to crack a high-profile murder case, only to discover that the people involved are connected to their own pasts.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015100000 +0000" stop="20251015104000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Cruz vs. Cruz</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015104000 +0000" stop="20251015111500 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Hating Kapatid</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015111500 +0000" stop="20251015131500 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Unang Hirit</title>
+    <desc>Offers humor and information on various special interests, including news and entertainment.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015131500 +0000" stop="20251015145000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">24 Oras</title>
+    <desc>Up to the minute news around the world.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015145000 +0000" stop="20251015152000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015152000 +0000" stop="20251015155000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Family Feud Philippines</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015155000 +0000" stop="20251015163000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Akusada</title>
+    <desc>Falsely accused of a crime she did not commit, a woman is forced to shed her true identity and assume the life of Lorena Herrera; can she truly adapt to this fabricated existence?</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015163000 +0000" stop="20251015171500 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Regal Studio Presents</title>
+    <desc>A collection of stories which showcase different romantic and uplifting moments featuring renowned young actors in the Philippines.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015171500 +0000" stop="20251015180000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Pepito Manaloto: Tuloy Ang Kuwento</title>
+    <desc>Pepito Manaloto's life changes after he wins a national lottery. He and his family get into hilarious situations as they settle into a life of wealth and comfort.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015180000 +0000" stop="20251015190000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Tiktoclock: Happy Hour Na</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015190000 +0000" stop="20251015205000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">It's Showtime</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015205000 +0000" stop="20251015212000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Fast Talk with Boy Abunda</title>
+    <desc>Host Boy Abunda gives a rundown and an analysis of the latest showbiz-related updates while interviewing celebrity guests.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015212000 +0000" stop="20251015220000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Saksi</title>
+    <desc>Delivering breaking stories and covering live reports.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015220000 +0000" stop="20251015223000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Hating Kapatid</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015223000 +0000" stop="20251015230000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Cruz vs. Cruz</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015230000 +0000" stop="20251015233000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Akusada</title>
+    <desc>Falsely accused of a crime she did not commit, a woman is forced to shed her true identity and assume the life of Lorena Herrera; can she truly adapt to this fabricated existence?</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464769" start="20251015233000 +0000" stop="20251016000000 +0000" display-name="GMA Pinoy TV (US)">
+    <title lang="zh">Tiktoclock: Happy Hour Na</title>
+    <desc/>
+    <date>2025-10-15</date>
   </programme>
   <programme channel="369842" start="20251014004500 +0000" stop="20251014023000 +0000" display-name="GMA Pinoy TV (SG)">
     <title lang="zh">Kapuso Mo Jessica Soho</title>
@@ -1688,6 +1992,126 @@
     <desc/>
     <date>2025-10-16</date>
   </programme>
+  <programme channel="465199" start="20251014010000 +0000" stop="20251014030000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Four Sisters and a Wedding</title>
+    <desc>Three sisters reunite to dissuade their younger brother from marrying his fiancee. As they interact, they face the feelings and issues they have kept buried for a long time.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465199" start="20251014030000 +0000" stop="20251014050000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Da Possessed</title>
+    <desc>Ramon, a cowardly man, falls in love with his domineering boss, Anna. However, he soon unleashes three vengeful spirits who are determined to get revenge against Anna and her father.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465199" start="20251014050000 +0000" stop="20251014070000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Sagot ko ang Buhay mo</title>
+    <desc>Vito is a seasoned hit man who kills notorious individuals. However, he soon becomes the protector of a young girl after two gang members murder her parents.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465199" start="20251014070000 +0000" stop="20251014090000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Kamandag ng Droga</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465199" start="20251014090000 +0000" stop="20251014110000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Mainit na Puso</title>
+    <desc>A man cheats on his paralyzed wife.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465199" start="20251014110000 +0000" stop="20251014130000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Wanted Bata-Batuta</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465199" start="20251014130000 +0000" stop="20251014150000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Babaeng Hampaslupa</title>
+    <desc>A drama directed by Mel Chionglo, featuring Maricel Soriano.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465199" start="20251014150000 +0000" stop="20251014170000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Sana'y Laging Magkapiling</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465199" start="20251014170000 +0000" stop="20251014190000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Karapatan Kong Pumatay... Kapitan Guti</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465199" start="20251014190000 +0000" stop="20251014210000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Triptiko</title>
+    <desc>An anthology of three stories featuring a young man facing unfortunate events, a male model struggling with a rare disease and a singer's unmet expectations of her crush.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465199" start="20251014210000 +0000" stop="20251014230000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Tarot</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465199" start="20251014230000 +0000" stop="20251015000000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Alyas Pogi: Ang Pagbabalik</title>
+    <desc>Henry, a former policeman, arrives in his hometown of San Sebastian after spending 12 years in jail and discovers that Villegas, the mayor, is looting the land of his people.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465199" start="20251015010000 +0000" stop="20251015030000 +0000" display-name="Cinema One Global">
+    <title lang="zh">She's the One</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465199" start="20251015030000 +0000" stop="20251015050000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Everything About Her</title>
+    <desc>An ill businesswoman develops an odd relationship with her caregiver.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465199" start="20251015050000 +0000" stop="20251015070000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Spirit Warriors</title>
+    <desc>A group of high school kids who are fascinated by the supernatural battle a malevolent spirit - the Ulanaya.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465199" start="20251015070000 +0000" stop="20251015090000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Xerex</title>
+    <desc>A romantic thriller directed by Mel Chionglo, featuring Aubrey Miles.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465199" start="20251015090000 +0000" stop="20251015110000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Batang pro</title>
+    <desc>Milet is sexually assaulted by her uncle and subsequently thrown out of the house after her father accuses her of seducing his brother. With nowhere to go, she travels to Manila and becomes a prostitute.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465199" start="20251015110000 +0000" stop="20251015130000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Gabriela</title>
+    <desc>Mike (Jamie P. Gomez) is a handsome mental health worker who is looking for the love of his life. However, lately, he has been disappointed by the women he meets. His best friend Douglas (Troy Winbush), king of the one-night stand, is no help. When the beautiful Gabriela (Seidy Lopez) starts working at the institution, Mike thinks he's met the woman of his dreams. But there's one hitch. She's enga</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465199" start="20251015130000 +0000" stop="20251015150000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Relaks Ka Lang, Sagot Kita</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465199" start="20251015150000 +0000" stop="20251015170000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Inday-Inday sa Balitaw</title>
+    <desc>Inday endures many hardships after being abandoned by her mother. Although Inday tries to hate her mother, she feels drawn to her as they grow older.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465199" start="20251015170000 +0000" stop="20251015190000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Bala ko... Bahala sa 'yo</title>
+    <desc>After being suspended from the police force for botching up a hostage rescue operation, a cop and his assistant decide to take the law into their own hands and exact punishment on a dollar racketing gang. But they face resistance from the underworld.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465199" start="20251015190000 +0000" stop="20251015210000 +0000" display-name="Cinema One Global">
+    <title lang="zh">Hulihin probinsiyanong mandurukot</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465199" start="20251015210000 +0000" stop="20251015230000 +0000" display-name="Cinema One Global">
+    <title lang="zh">My Candidate</title>
+    <desc>Sonny, a promising young politician, works with Billie, a hotshot image consultant, to improve his senate campaign and soon falls in love with her.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465199" start="20251015230000 +0000" stop="20251016000000 +0000" display-name="Cinema One Global">
+    <title lang="zh">SupahPapalicious</title>
+    <desc>A man has to win over his girlfriend's son to be able to court her. The son decides that the man who becomes his father should have a large family; the man's friends help him as his multicultural family.</desc>
+    <date>2025-10-15</date>
+  </programme>
   <programme channel="412127" start="20251014000000 +0000" stop="20251014010000 +0000" display-name="ANC Global">
     <title lang="zh">Headstart</title>
     <desc>Headstart with Karen Davila sets the news agenda for the day by breaking the most significant stories and issues unfolding in the country. Davila talks to newsmakers and major personalities, and interacts with viewers through social media.</desc>
@@ -2468,125 +2892,570 @@
     <desc/>
     <date>2025-10-16</date>
   </programme>
-  <programme channel="7864" start="20251014010000 +0000" stop="20251014030000 +0000" display-name="Cinema One">
-    <title lang="zh">Kapitan Guti</title>
+  <programme channel="464758" start="20251014000000 +0000" stop="20251014020000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Failon Ngayon Sa DZMM</title>
     <desc/>
     <date>2025-10-14</date>
   </programme>
-  <programme channel="7864" start="20251014030000 +0000" stop="20251014050000 +0000" display-name="Cinema One">
-    <title lang="zh">Flames (The Movie)</title>
+  <programme channel="464758" start="20251014020000 +0000" stop="20251014030000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Sakto</title>
+    <desc>with Amy Perez and Marc Logan.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464758" start="20251014030000 +0000" stop="20251014040000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Lingkod Kapamilya with Julius Babao and Bernadette Sembrano</title>
     <desc/>
     <date>2025-10-14</date>
   </programme>
-  <programme channel="7864" start="20251014050000 +0000" stop="20251014070000 +0000" display-name="Cinema One">
-    <title lang="zh">Tarot</title>
+  <programme channel="464758" start="20251014040000 +0000" stop="20251014050000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Headline Pilipinas</title>
+    <desc>News in the Philippines.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464758" start="20251014050000 +0000" stop="20251014060000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Good Vibes</title>
     <desc/>
     <date>2025-10-14</date>
   </programme>
-  <programme channel="7864" start="20251014070000 +0000" stop="20251014090000 +0000" display-name="Cinema One">
-    <title lang="zh">Tuhog</title>
+  <programme channel="464758" start="20251014060000 +0000" stop="20251014070000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Rated Korina</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464758" start="20251014070000 +0000" stop="20251014080000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Todo Todo Walang Preno</title>
     <desc/>
     <date>2025-10-14</date>
   </programme>
-  <programme channel="7864" start="20251014090000 +0000" stop="20251014110000 +0000" display-name="Cinema One">
-    <title lang="zh">Milan</title>
+  <programme channel="464758" start="20251014080000 +0000" stop="20251014083000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">On The Spot</title>
     <desc/>
     <date>2025-10-14</date>
   </programme>
-  <programme channel="7864" start="20251014110000 +0000" stop="20251014130000 +0000" display-name="Cinema One">
-    <title lang="zh">Kasal (2018)</title>
+  <programme channel="464758" start="20251014083000 +0000" stop="20251014093000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Pasada Sais Trenta</title>
     <desc/>
     <date>2025-10-14</date>
   </programme>
-  <programme channel="7864" start="20251014130000 +0000" stop="20251014150000 +0000" display-name="Cinema One">
-    <title lang="zh">Da Possessed</title>
+  <programme channel="464758" start="20251014093000 +0000" stop="20251014103000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Dos Por Dos</title>
     <desc/>
     <date>2025-10-14</date>
   </programme>
-  <programme channel="7864" start="20251014150000 +0000" stop="20251014170000 +0000" display-name="Cinema One">
-    <title lang="zh">The Mimic</title>
+  <programme channel="464758" start="20251014103000 +0000" stop="20251014120000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">TV Patrol Sa DZMM</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464758" start="20251014120000 +0000" stop="20251014130000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">S.R.O.Suhestiyon Reaksyon Opinyon</title>
     <desc/>
     <date>2025-10-14</date>
   </programme>
-  <programme channel="7864" start="20251014170000 +0000" stop="20251014190000 +0000" display-name="Cinema One">
-    <title lang="zh">Batang PRO</title>
+  <programme channel="464758" start="20251014130000 +0000" stop="20251014133000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Usapang De Kampanilya</title>
     <desc/>
     <date>2025-10-14</date>
   </programme>
-  <programme channel="7864" start="20251014190000 +0000" stop="20251014210000 +0000" display-name="Cinema One">
-    <title lang="zh">Gabriela</title>
+  <programme channel="464758" start="20251014133000 +0000" stop="20251014140000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">MMK Klasik Sa DZMM</title>
     <desc/>
     <date>2025-10-14</date>
   </programme>
-  <programme channel="7864" start="20251014210000 +0000" stop="20251014230000 +0000" display-name="Cinema One">
-    <title lang="zh">Superhand: Shadow Of The Dancing Master</title>
+  <programme channel="464758" start="20251014140000 +0000" stop="20251014143000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">My Puhunan</title>
     <desc/>
     <date>2025-10-14</date>
   </programme>
-  <programme channel="7864" start="20251014230000 +0000" stop="20251015000000 +0000" display-name="Cinema One">
-    <title lang="zh">Inday Inday sa Balitaw</title>
+  <programme channel="464758" start="20251014143000 +0000" stop="20251014150000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Showbuzz</title>
     <desc/>
     <date>2025-10-14</date>
   </programme>
-  <programme channel="7864" start="20251015010000 +0000" stop="20251015030000 +0000" display-name="Cinema One">
-    <title lang="zh">Bala Ko... Bahala Sayo</title>
+  <programme channel="464758" start="20251014150000 +0000" stop="20251014160000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Dr. Love Radio Show</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464758" start="20251014160000 +0000" stop="20251014170000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Dr. Love Radio Show</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464758" start="20251014170000 +0000" stop="20251014180000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Matanglawin</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464758" start="20251014180000 +0000" stop="20251014183000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">My Puhunan</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464758" start="20251014183000 +0000" stop="20251014200000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Moonlight Serenade with DJ Richard</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464758" start="20251014200000 +0000" stop="20251014210000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Gising Pilipinas</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464758" start="20251014210000 +0000" stop="20251014220000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Garantisadong Balita</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464758" start="20251014220000 +0000" stop="20251014230000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Kabayan</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464758" start="20251014230000 +0000" stop="20251014233000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Radyo Patrol Balita Ala Siete</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464758" start="20251014233000 +0000" stop="20251015000000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Kabayan</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464758" start="20251015000000 +0000" stop="20251015020000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Failon Ngayon Sa DZMM</title>
     <desc/>
     <date>2025-10-15</date>
   </programme>
-  <programme channel="7864" start="20251015030000 +0000" stop="20251015050000 +0000" display-name="Cinema One">
-    <title lang="zh">Probinsyanong Mandurukot</title>
+  <programme channel="464758" start="20251015020000 +0000" stop="20251015030000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Sakto</title>
+    <desc>with Amy Perez and Marc Logan.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464758" start="20251015030000 +0000" stop="20251015040000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Lingkod Kapamilya with Julius Babao and Bernadette Sembrano</title>
     <desc/>
     <date>2025-10-15</date>
   </programme>
-  <programme channel="7864" start="20251015050000 +0000" stop="20251015070000 +0000" display-name="Cinema One">
-    <title lang="zh">My Candidate</title>
+  <programme channel="464758" start="20251015040000 +0000" stop="20251015050000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Headline Pilipinas</title>
+    <desc>News in the Philippines.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464758" start="20251015050000 +0000" stop="20251015060000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Good Vibes</title>
     <desc/>
     <date>2025-10-15</date>
   </programme>
-  <programme channel="7864" start="20251015070000 +0000" stop="20251015090000 +0000" display-name="Cinema One">
-    <title lang="zh">Supahpapalicious</title>
+  <programme channel="464758" start="20251015060000 +0000" stop="20251015070000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Matanglawin</title>
     <desc/>
     <date>2025-10-15</date>
   </programme>
-  <programme channel="7864" start="20251015090000 +0000" stop="20251015110000 +0000" display-name="Cinema One">
-    <title lang="zh">Madrasta</title>
+  <programme channel="464758" start="20251015070000 +0000" stop="20251015080000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Todo Todo Walang Preno</title>
     <desc/>
     <date>2025-10-15</date>
   </programme>
-  <programme channel="7864" start="20251015110000 +0000" stop="20251015130000 +0000" display-name="Cinema One">
-    <title lang="zh">One More Chance</title>
+  <programme channel="464758" start="20251015080000 +0000" stop="20251015083000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">On The Spot</title>
     <desc/>
     <date>2025-10-15</date>
   </programme>
-  <programme channel="7864" start="20251015130000 +0000" stop="20251015150000 +0000" display-name="Cinema One">
-    <title lang="zh">Feng Shui</title>
+  <programme channel="464758" start="20251015083000 +0000" stop="20251015093000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Pasada Sais Trenta</title>
     <desc/>
     <date>2025-10-15</date>
   </programme>
-  <programme channel="7864" start="20251015150000 +0000" stop="20251015170000 +0000" display-name="Cinema One">
-    <title lang="zh">Di Ingon Nato</title>
+  <programme channel="464758" start="20251015093000 +0000" stop="20251015103000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Dos Por Dos</title>
     <desc/>
     <date>2025-10-15</date>
   </programme>
-  <programme channel="7864" start="20251015170000 +0000" stop="20251015190000 +0000" display-name="Cinema One">
-    <title lang="zh">Paano Ang Aking Gabi</title>
+  <programme channel="464758" start="20251015103000 +0000" stop="20251015120000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">TV Patrol Sa DZMM</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464758" start="20251015120000 +0000" stop="20251015130000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">S.R.O.Suhestiyon Reaksyon Opinyon</title>
     <desc/>
     <date>2025-10-15</date>
   </programme>
-  <programme channel="7864" start="20251015190000 +0000" stop="20251015210000 +0000" display-name="Cinema One">
-    <title lang="zh">Dalawang Daigdig Ni Carlota</title>
+  <programme channel="464758" start="20251015130000 +0000" stop="20251015133000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Usapang De Kampanilya</title>
     <desc/>
     <date>2025-10-15</date>
   </programme>
-  <programme channel="7864" start="20251015210000 +0000" stop="20251015230000 +0000" display-name="Cinema One">
-    <title lang="zh">Nonoy Garote &amp; The Sidekicks</title>
+  <programme channel="464758" start="20251015133000 +0000" stop="20251015140000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">MMK Klasik Sa DZMM</title>
     <desc/>
     <date>2025-10-15</date>
   </programme>
-  <programme channel="7864" start="20251015230000 +0000" stop="20251016000000 +0000" display-name="Cinema One">
-    <title lang="zh">Juan Tanga Super Naman</title>
+  <programme channel="464758" start="20251015140000 +0000" stop="20251015143000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">No Filter</title>
     <desc/>
     <date>2025-10-15</date>
+  </programme>
+  <programme channel="464758" start="20251015143000 +0000" stop="20251015150000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Showbuzz</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464758" start="20251015150000 +0000" stop="20251015160000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Dr. Love Radio Show</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464758" start="20251015160000 +0000" stop="20251015170000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Dr. Love Radio Show</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464758" start="20251015170000 +0000" stop="20251015180000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Ipaglalban Mo</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464758" start="20251015180000 +0000" stop="20251015183000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">No Filter</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464758" start="20251015183000 +0000" stop="20251015200000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Moonlight Serenade with DJ Richard</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464758" start="20251015200000 +0000" stop="20251015210000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Gising Pilipinas</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464758" start="20251015210000 +0000" stop="20251015220000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Garantisadong Balita</title>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464758" start="20251015220000 +0000" stop="20251015230000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Kabayan</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464758" start="20251015230000 +0000" stop="20251015233000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Radyo Patrol Balita Ala Siete</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464758" start="20251015233000 +0000" stop="20251016000000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Kabayan</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464758" start="20251016000000 +0000" stop="20251017000000 +0000" display-name="DZMM Teleradyo">
+    <title lang="zh">Failon Ngayon Sa DZMM</title>
+    <desc/>
+    <date>2025-10-16</date>
+  </programme>
+  <programme channel="464989" start="20251014000000 +0000" stop="20251014010000 +0000" display-name="MYX International">
+    <title lang="zh">Island Block Party</title>
+    <desc>Island Block Party is a new MYX original music show featuring interviews, performances &amp; music videos with your favorite island, pop, reggae and R&amp;B artists alongside features on community leaders, events &amp; businesses.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014010000 +0000" stop="20251014020000 +0000" display-name="MYX International">
+    <title lang="zh">myx Press Play</title>
+    <desc>Get in the know of the latest music from all over the world ranging from mainstream beats to indie tunes. Discover what's in everyone's playlist and listen to the sounds that will surely match your mood.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014020000 +0000" stop="20251014030000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Now</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014030000 +0000" stop="20251014040000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Live</title>
+    <desc>A showcase of the best music in the country.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014040000 +0000" stop="20251014050000 +0000" display-name="MYX International">
+    <title lang="zh">The Ripple</title>
+    <desc>Podcast/Videocast that creates a safe space for artists and music lovers To share stories that create the ripple in the sound waves that help make their music. Hosted by professional Fan girl VJ Samm and resident artist and producer Nhiko Sabiniano.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014050000 +0000" stop="20251014060000 +0000" display-name="MYX International">
+    <title lang="zh">The Lunch Table</title>
+    <desc>Nico Blitz interviews various musicians and artists about interesting topics and stories that are uniquely Filipino.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014060000 +0000" stop="20251014063000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Hits Different</title>
+    <desc>A different sound, a different fit, a different place. See your favorite artists in a different light.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014063000 +0000" stop="20251014070000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Hits Different</title>
+    <desc>A different sound, a different fit, a different place. See your favorite artists in a different light.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014070000 +0000" stop="20251014080000 +0000" display-name="MYX International">
+    <title lang="zh">myx Press Play</title>
+    <desc>Get in the know of the latest music from all over the world ranging from mainstream beats to indie tunes. Discover what's in everyone's playlist and listen to the sounds that will surely match your mood.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014080000 +0000" stop="20251014090000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Now</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014090000 +0000" stop="20251014100000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Live</title>
+    <desc>A showcase of the best music in the country.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014100000 +0000" stop="20251014110000 +0000" display-name="MYX International">
+    <title lang="zh">The Ripple</title>
+    <desc>Podcast/Videocast that creates a safe space for artists and music lovers To share stories that create the ripple in the sound waves that help make their music. Hosted by professional Fan girl VJ Samm and resident artist and producer Nhiko Sabiniano.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014110000 +0000" stop="20251014120000 +0000" display-name="MYX International">
+    <title lang="zh">The Lunch Table</title>
+    <desc>Nico Blitz interviews various musicians and artists about interesting topics and stories that are uniquely Filipino.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014120000 +0000" stop="20251014123000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Hits Different</title>
+    <desc>A different sound, a different fit, a different place. See your favorite artists in a different light.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014123000 +0000" stop="20251014130000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Hits Different</title>
+    <desc>A different sound, a different fit, a different place. See your favorite artists in a different light.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014130000 +0000" stop="20251014140000 +0000" display-name="MYX International">
+    <title lang="zh">myx Press Play</title>
+    <desc>Get in the know of the latest music from all over the world ranging from mainstream beats to indie tunes. Discover what's in everyone's playlist and listen to the sounds that will surely match your mood.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014140000 +0000" stop="20251014150000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Now</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014150000 +0000" stop="20251014160000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Live</title>
+    <desc>A showcase of the best music in the country.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014160000 +0000" stop="20251014170000 +0000" display-name="MYX International">
+    <title lang="zh">The Ripple</title>
+    <desc>Podcast/Videocast that creates a safe space for artists and music lovers To share stories that create the ripple in the sound waves that help make their music. Hosted by professional Fan girl VJ Samm and resident artist and producer Nhiko Sabiniano.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014170000 +0000" stop="20251014180000 +0000" display-name="MYX International">
+    <title lang="zh">The Lunch Table</title>
+    <desc>Nico Blitz interviews various musicians and artists about interesting topics and stories that are uniquely Filipino.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014180000 +0000" stop="20251014183000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Hits Different</title>
+    <desc>A different sound, a different fit, a different place. See your favorite artists in a different light.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014183000 +0000" stop="20251014190000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Hits Different</title>
+    <desc>A different sound, a different fit, a different place. See your favorite artists in a different light.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014190000 +0000" stop="20251014200000 +0000" display-name="MYX International">
+    <title lang="zh">myx Press Play</title>
+    <desc>Get in the know of the latest music from all over the world ranging from mainstream beats to indie tunes. Discover what's in everyone's playlist and listen to the sounds that will surely match your mood.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014200000 +0000" stop="20251014210000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Now</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014210000 +0000" stop="20251014220000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Live</title>
+    <desc>A showcase of the best music in the country.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014220000 +0000" stop="20251014230000 +0000" display-name="MYX International">
+    <title lang="zh">The Ripple</title>
+    <desc>Podcast/Videocast that creates a safe space for artists and music lovers To share stories that create the ripple in the sound waves that help make their music. Hosted by professional Fan girl VJ Samm and resident artist and producer Nhiko Sabiniano.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251014230000 +0000" stop="20251015000000 +0000" display-name="MYX International">
+    <title lang="zh">The Lunch Table</title>
+    <desc>Nico Blitz interviews various musicians and artists about interesting topics and stories that are uniquely Filipino.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="464989" start="20251015000000 +0000" stop="20251015003000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Hits Different</title>
+    <desc>A different sound, a different fit, a different place. See your favorite artists in a different light.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015003000 +0000" stop="20251015010000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Hits Different</title>
+    <desc>A different sound, a different fit, a different place. See your favorite artists in a different light.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015010000 +0000" stop="20251015020000 +0000" display-name="MYX International">
+    <title lang="zh">myx Press Play</title>
+    <desc>Get in the know of the latest music from all over the world ranging from mainstream beats to indie tunes. Discover what's in everyone's playlist and listen to the sounds that will surely match your mood.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015020000 +0000" stop="20251015030000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Now</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015030000 +0000" stop="20251015033000 +0000" display-name="MYX International">
+    <title lang="zh">Booked</title>
+    <desc>Showcases a behind-the-scenes look at the journey of Filipino artists Kyle Echarri, AC Bonifacio and more as they venture into the international music scene.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015033000 +0000" stop="20251015040000 +0000" display-name="MYX International">
+    <title lang="zh">Booked</title>
+    <desc>Showcases a behind-the-scenes look at the journey of Filipino artists Kyle Echarri, AC Bonifacio and more as they venture into the international music scene.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015040000 +0000" stop="20251015050000 +0000" display-name="MYX International">
+    <title lang="zh">Myxclusives</title>
+    <desc>A global music interview show that features popular artists from around the world dropping exclusive music &amp; news.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015050000 +0000" stop="20251015060000 +0000" display-name="MYX International">
+    <title lang="zh">The Lunch Table</title>
+    <desc>Nico Blitz interviews various musicians and artists about interesting topics and stories that are uniquely Filipino.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015060000 +0000" stop="20251015063000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Live!</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015063000 +0000" stop="20251015070000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Live!</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015070000 +0000" stop="20251015080000 +0000" display-name="MYX International">
+    <title lang="zh">myx Press Play</title>
+    <desc>Get in the know of the latest music from all over the world ranging from mainstream beats to indie tunes. Discover what's in everyone's playlist and listen to the sounds that will surely match your mood.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015080000 +0000" stop="20251015090000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Now</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015090000 +0000" stop="20251015093000 +0000" display-name="MYX International">
+    <title lang="zh">Booked</title>
+    <desc>Showcases a behind-the-scenes look at the journey of Filipino artists Kyle Echarri, AC Bonifacio and more as they venture into the international music scene.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015093000 +0000" stop="20251015100000 +0000" display-name="MYX International">
+    <title lang="zh">Booked</title>
+    <desc>Showcases a behind-the-scenes look at the journey of Filipino artists Kyle Echarri, AC Bonifacio and more as they venture into the international music scene.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015100000 +0000" stop="20251015110000 +0000" display-name="MYX International">
+    <title lang="zh">Myxclusives</title>
+    <desc>A global music interview show that features popular artists from around the world dropping exclusive music &amp; news.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015110000 +0000" stop="20251015120000 +0000" display-name="MYX International">
+    <title lang="zh">The Lunch Table</title>
+    <desc>Nico Blitz interviews various musicians and artists about interesting topics and stories that are uniquely Filipino.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015120000 +0000" stop="20251015123000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Live</title>
+    <desc>A showcase of the best music in the country.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015123000 +0000" stop="20251015130000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Live!</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015130000 +0000" stop="20251015140000 +0000" display-name="MYX International">
+    <title lang="zh">myx Press Play</title>
+    <desc>Get in the know of the latest music from all over the world ranging from mainstream beats to indie tunes. Discover what's in everyone's playlist and listen to the sounds that will surely match your mood.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015140000 +0000" stop="20251015150000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Now</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015150000 +0000" stop="20251015153000 +0000" display-name="MYX International">
+    <title lang="zh">Booked</title>
+    <desc>Showcases a behind-the-scenes look at the journey of Filipino artists Kyle Echarri, AC Bonifacio and more as they venture into the international music scene.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015153000 +0000" stop="20251015160000 +0000" display-name="MYX International">
+    <title lang="zh">Booked</title>
+    <desc>Showcases a behind-the-scenes look at the journey of Filipino artists Kyle Echarri, AC Bonifacio and more as they venture into the international music scene.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015160000 +0000" stop="20251015170000 +0000" display-name="MYX International">
+    <title lang="zh">Myxclusives</title>
+    <desc>A global music interview show that features popular artists from around the world dropping exclusive music &amp; news.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015170000 +0000" stop="20251015180000 +0000" display-name="MYX International">
+    <title lang="zh">The Lunch Table</title>
+    <desc>Nico Blitz interviews various musicians and artists about interesting topics and stories that are uniquely Filipino.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015180000 +0000" stop="20251015183000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Live!</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015183000 +0000" stop="20251015190000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Live!</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015190000 +0000" stop="20251015200000 +0000" display-name="MYX International">
+    <title lang="zh">myx Press Play</title>
+    <desc>Get in the know of the latest music from all over the world ranging from mainstream beats to indie tunes. Discover what's in everyone's playlist and listen to the sounds that will surely match your mood.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015200000 +0000" stop="20251015210000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Now</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015210000 +0000" stop="20251015213000 +0000" display-name="MYX International">
+    <title lang="zh">Booked</title>
+    <desc>Showcases a behind-the-scenes look at the journey of Filipino artists Kyle Echarri, AC Bonifacio and more as they venture into the international music scene.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015213000 +0000" stop="20251015220000 +0000" display-name="MYX International">
+    <title lang="zh">Booked</title>
+    <desc>Showcases a behind-the-scenes look at the journey of Filipino artists Kyle Echarri, AC Bonifacio and more as they venture into the international music scene.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015220000 +0000" stop="20251015230000 +0000" display-name="MYX International">
+    <title lang="zh">Myxclusives</title>
+    <desc>A global music interview show that features popular artists from around the world dropping exclusive music &amp; news.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251015230000 +0000" stop="20251016000000 +0000" display-name="MYX International">
+    <title lang="zh">The Lunch Table</title>
+    <desc>Nico Blitz interviews various musicians and artists about interesting topics and stories that are uniquely Filipino.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="464989" start="20251016000000 +0000" stop="20251017000000 +0000" display-name="MYX International">
+    <title lang="zh">MYX Live</title>
+    <desc>A showcase of the best music in the country.</desc>
+    <date>2025-10-16</date>
   </programme>
   <programme channel="70615" start="20251014000000 +0000" stop="20251014002500 +0000" display-name="GMA">
     <title lang="zh">One Piece: Dress Rosa Arc</title>
