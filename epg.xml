@@ -4,11 +4,11 @@
     <display-name lang="en">Kapamilya Channel</display-name>
     <icon src="https://i.imgur.com/Dcys2TG.png"/>
   </channel>
-  <channel id="429570">
+  <channel id="455314">
     <display-name lang="en">TFC Asia</display-name>
     <icon src="https://i.imgur.com/mhYrit2.png"/>
   </channel>
-  <channel id="403541">
+  <channel id="465377">
     <display-name lang="en">TFC North America</display-name>
     <icon src="https://i.imgur.com/mhYrit2.png"/>
   </channel>
@@ -586,6 +586,561 @@
     <title lang="zh">The Flying House</title>
     <desc/>
     <date>2025-10-16</date>
+  </programme>
+  <programme channel="455314" start="20251014000000 +0000" stop="20251014010000 +0000" display-name="TFC Asia">
+    <title lang="zh">Tandem Ng Bayan</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014010000 +0000" stop="20251014020000 +0000" display-name="TFC Asia">
+    <title lang="zh">Magandang Buhay LIVE</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014020000 +0000" stop="20251014023000 +0000" display-name="TFC Asia">
+    <title lang="zh">HUWAG KANG MANGAMBA</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014023000 +0000" stop="20251014030000 +0000" display-name="TFC Asia">
+    <title lang="zh">CAN'T BUY ME LOVE</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014030000 +0000" stop="20251014033000 +0000" display-name="TFC Asia">
+    <title lang="zh">ANG SA IYO AY AKIN</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014033000 +0000" stop="20251014040000 +0000" display-name="TFC Asia">
+    <title lang="zh">Are You G? With MJ Felipe:registered:</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014040000 +0000" stop="20251014063000 +0000" display-name="TFC Asia">
+    <title lang="zh">It's Showtime LIVE</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014063000 +0000" stop="20251014070000 +0000" display-name="TFC Asia">
+    <title lang="zh">TFC Kids Zone</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014070000 +0000" stop="20251014073500 +0000" display-name="TFC Asia">
+    <title lang="zh">It's Okay To Not Be Okay:registered:</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014073500 +0000" stop="20251014081000 +0000" display-name="TFC Asia">
+    <title lang="zh">FPJ's Batang Quiapo :registered:</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014081000 +0000" stop="20251014084500 +0000" display-name="TFC Asia">
+    <title lang="zh">Sins Of The Father :registered:</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014084500 +0000" stop="20251014093000 +0000" display-name="TFC Asia">
+    <title lang="zh">GOIN' BULILIT S15</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014093000 +0000" stop="20251014094500 +0000" display-name="TFC Asia">
+    <title lang="zh">TV Patrol Express Live</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014094500 +0000" stop="20251014103000 +0000" display-name="TFC Asia">
+    <title lang="zh">Are You G? With MJ Felipe</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014103000 +0000" stop="20251014120000 +0000" display-name="TFC Asia">
+    <title lang="zh">TV Patrol Live</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014120000 +0000" stop="20251014124500 +0000" display-name="TFC Asia">
+    <title lang="zh">FPJ'S BATANG QUIAPO</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014124500 +0000" stop="20251014133000 +0000" display-name="TFC Asia">
+    <title lang="zh">It's Okay To Not Be Okay</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014133000 +0000" stop="20251014141500 +0000" display-name="TFC Asia">
+    <title lang="zh">Sins of The Father</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014141500 +0000" stop="20251014161500 +0000" display-name="TFC Asia">
+    <title lang="zh">It's Showtime :registered:</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014161500 +0000" stop="20251014170000 +0000" display-name="TFC Asia">
+    <title lang="zh">Goin' Bulilit S15:registered:</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014170000 +0000" stop="20251014173000 +0000" display-name="TFC Asia">
+    <title lang="zh">Ang Sa Iyo Ay Akin :registered:</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014173000 +0000" stop="20251014180000 +0000" display-name="TFC Asia">
+    <title lang="zh">Huwag Kang Mangamba:registered:</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014180000 +0000" stop="20251014200000 +0000" display-name="TFC Asia">
+    <title lang="zh">Wansapanataym: The Movie</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014200000 +0000" stop="20251014213000 +0000" display-name="TFC Asia">
+    <title lang="zh">TV PATROL GLOBAL EDITION</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014213000 +0000" stop="20251014220000 +0000" display-name="TFC Asia">
+    <title lang="zh">KAPAMILYA DAILY MASS</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014220000 +0000" stop="20251014230000 +0000" display-name="TFC Asia">
+    <title lang="zh">Gising Pilipinas Live</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014230000 +0000" stop="20251014233000 +0000" display-name="TFC Asia">
+    <title lang="zh">Radyo Patrol Balita</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251014233000 +0000" stop="20251015000000 +0000" display-name="TFC Asia">
+    <title lang="zh">Gising Pilipinas Live</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="455314" start="20251015000000 +0000" stop="20251015010000 +0000" display-name="TFC Asia">
+    <title lang="zh">Tandem Ng Bayan</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015010000 +0000" stop="20251015020000 +0000" display-name="TFC Asia">
+    <title lang="zh">Magandang Buhay LIVE</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015020000 +0000" stop="20251015023000 +0000" display-name="TFC Asia">
+    <title lang="zh">HUWAG KANG MANGAMBA</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015023000 +0000" stop="20251015030000 +0000" display-name="TFC Asia">
+    <title lang="zh">CAN'T BUY ME LOVE</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015030000 +0000" stop="20251015033000 +0000" display-name="TFC Asia">
+    <title lang="zh">ANG SA IYO AY AKIN</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015033000 +0000" stop="20251015040000 +0000" display-name="TFC Asia">
+    <title lang="zh">Are You G? With MJ Felipe:registered:</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015040000 +0000" stop="20251015063000 +0000" display-name="TFC Asia">
+    <title lang="zh">It's Showtime LIVE</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015063000 +0000" stop="20251015070000 +0000" display-name="TFC Asia">
+    <title lang="zh">TFC Kids Zone</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015070000 +0000" stop="20251015073500 +0000" display-name="TFC Asia">
+    <title lang="zh">It's Okay To Not Be Okay:registered:</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015073500 +0000" stop="20251015081000 +0000" display-name="TFC Asia">
+    <title lang="zh">FPJ's Batang Quiapo :registered:</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015081000 +0000" stop="20251015084500 +0000" display-name="TFC Asia">
+    <title lang="zh">Sins Of The Father :registered:</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015084500 +0000" stop="20251015093000 +0000" display-name="TFC Asia">
+    <title lang="zh">GOIN' BULILIT S15</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015093000 +0000" stop="20251015094500 +0000" display-name="TFC Asia">
+    <title lang="zh">TV Patrol Express Live</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015094500 +0000" stop="20251015103000 +0000" display-name="TFC Asia">
+    <title lang="zh">Are You G? With MJ Felipe</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015103000 +0000" stop="20251015120000 +0000" display-name="TFC Asia">
+    <title lang="zh">TV Patrol Live</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015120000 +0000" stop="20251015124500 +0000" display-name="TFC Asia">
+    <title lang="zh">FPJ'S BATANG QUIAPO</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015124500 +0000" stop="20251015133000 +0000" display-name="TFC Asia">
+    <title lang="zh">It's Okay To Not Be Okay</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015133000 +0000" stop="20251015141500 +0000" display-name="TFC Asia">
+    <title lang="zh">Sins of The Father</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015141500 +0000" stop="20251015161500 +0000" display-name="TFC Asia">
+    <title lang="zh">IT'S SHOWTIME</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015161500 +0000" stop="20251015170000 +0000" display-name="TFC Asia">
+    <title lang="zh">GOIN' BULILIT</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015170000 +0000" stop="20251015173000 +0000" display-name="TFC Asia">
+    <title lang="zh">ANG SA IYO AY AKIN</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015173000 +0000" stop="20251015180000 +0000" display-name="TFC Asia">
+    <title lang="zh">HUWAG KANG MANGAMBA</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015180000 +0000" stop="20251015200000 +0000" display-name="TFC Asia">
+    <title lang="zh">Abel Villarama: Armado</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015200000 +0000" stop="20251015213000 +0000" display-name="TFC Asia">
+    <title lang="zh">TV PATROL GLOBAL EDITION</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015213000 +0000" stop="20251015220000 +0000" display-name="TFC Asia">
+    <title lang="zh">KAPAMILYA DAILY MASS</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015220000 +0000" stop="20251015230000 +0000" display-name="TFC Asia">
+    <title lang="zh">GISING PILIPINAS</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015230000 +0000" stop="20251015233000 +0000" display-name="TFC Asia">
+    <title lang="zh">Radyo Patrol Balita</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251015233000 +0000" stop="20251016000000 +0000" display-name="TFC Asia">
+    <title lang="zh">GISING PILIPINAS</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="455314" start="20251016000000 +0000" stop="20251017000000 +0000" display-name="TFC Asia">
+    <title lang="zh">Tandem Ng Bayan</title>
+    <desc/>
+    <date>2025-10-16</date>
+  </programme>
+  <programme channel="465377" start="20251014003000 +0000" stop="20251014010000 +0000" display-name="TFC North America">
+    <title lang="zh">Are You G? With MJ Felipe</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014010000 +0000" stop="20251014024000 +0000" display-name="TFC North America">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>ABS-CBN's flagship newscast and the country's leading news program in the past two decades, anchored by the most celebrated news team ever assembled in the history of Philippine broadcasting.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014024000 +0000" stop="20251014032000 +0000" display-name="TFC North America">
+    <title lang="zh">FPJ's Batang Quiapo</title>
+    <desc>A young man named Tanggol rises to be one of the most notorious outlaws in Quiapo, Manila. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014032000 +0000" stop="20251014040000 +0000" display-name="TFC North America">
+    <title lang="zh">It's Okay to Not Be Okay</title>
+    <desc>A road to emotional healing opens up for an antisocial children's book author and an employee in a psychiatric hospital.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014040000 +0000" stop="20251014044000 +0000" display-name="TFC North America">
+    <title lang="zh">Sins Of The Father</title>
+    <desc>Samuel pays the price for the sins of his father as his life gets shattered amid a nationwide investment scam.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014044000 +0000" stop="20251014064000 +0000" display-name="TFC North America">
+    <title lang="zh">It's Showtime</title>
+    <desc>Pinoys strut and display their unique talents for the world.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014064000 +0000" stop="20251014070000 +0000" display-name="TFC North America">
+    <title lang="zh">Can't Buy Me Love</title>
+    <desc>Bingo gets caught up in a deadly conspiracy when he rescues Caroline, a rich socialite, from drowning. He must pay the price to secure her freedom.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014070000 +0000" stop="20251014080000 +0000" display-name="TFC North America">
+    <title lang="zh">Direct Response</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014080000 +0000" stop="20251014100000 +0000" display-name="TFC North America">
+    <title lang="zh">She's Dating the Gangster</title>
+    <desc>Two high-school students (Kathryn Bernardo, Daniel Padilla) pretend to date to make one's ex-girlfriend jealous, then they do fall in love.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014100000 +0000" stop="20251014103000 +0000" display-name="TFC North America">
+    <title lang="zh">Huwag Kang Mangamba</title>
+    <desc>Two teenagers mysteriously come back to life and get roped into a plan to restore faith in a small town.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014103000 +0000" stop="20251014110000 +0000" display-name="TFC North America">
+    <title lang="zh">Can't Buy Me Love</title>
+    <desc>Bingo gets caught up in a deadly conspiracy when he rescues Caroline, a rich socialite, from drowning. He must pay the price to secure her freedom.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014110000 +0000" stop="20251014123000 +0000" display-name="TFC North America">
+    <title lang="zh">Gising Pilipinas</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014123000 +0000" stop="20251014133000 +0000" display-name="TFC North America">
+    <title lang="zh">Kabayan</title>
+    <desc>Host Noli De Castro tackles current social issues in the country by providing commentary and conducting interviews with different personalities.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014133000 +0000" stop="20251014150000 +0000" display-name="TFC North America">
+    <title lang="zh">TV Patrol</title>
+    <desc>ABS-CBN's flagship newscast and the country's leading news program in the past two decades, anchored by the most celebrated news team ever assembled in the history of Philippine broadcasting.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014150000 +0000" stop="20251014153000 +0000" display-name="TFC North America">
+    <title lang="zh">Kapamilya Daily Mass</title>
+    <desc>The priest delivers messages from the Bible as he celebrates the Holy Eucharist with devoted Catholics from across the country.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014153000 +0000" stop="20251014160500 +0000" display-name="TFC North America">
+    <title lang="zh">TFC Kids' Zone</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014160500 +0000" stop="20251014165000 +0000" display-name="TFC North America">
+    <title lang="zh">Huwag Kang Mangamba</title>
+    <desc>Two teenagers mysteriously come back to life and get roped into a plan to restore faith in a small town.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014165000 +0000" stop="20251014173000 +0000" display-name="TFC North America">
+    <title lang="zh">Ang Sa Iyo Ay Akin</title>
+    <desc>Marissa agrees to take the blame for the crime committed by Ellice but is betrayed by the latter's father, who promised to get her out. Angry, Marissa vows to make Ellice suffer the same way she did.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014173000 +0000" stop="20251014183000 +0000" display-name="TFC North America">
+    <title lang="zh">Magandang Buhay</title>
+    <desc>A lifestyle-morning talk show hosted by Karla Estrada, Jolina Magdangal and Melai Cantiveros.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014183000 +0000" stop="20251014190000 +0000" display-name="TFC North America">
+    <title lang="zh">Are You G? With MJ Felipe</title>
+    <desc/>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014190000 +0000" stop="20251014210000 +0000" display-name="TFC North America">
+    <title lang="zh">It's Showtime</title>
+    <desc>Pinoys strut and display their unique talents for the world.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014210000 +0000" stop="20251014214000 +0000" display-name="TFC North America">
+    <title lang="zh">FPJ's Batang Quiapo</title>
+    <desc>A young man named Tanggol rises to be one of the most notorious outlaws in Quiapo, Manila. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014214000 +0000" stop="20251014222000 +0000" display-name="TFC North America">
+    <title lang="zh">It's Okay to Not Be Okay</title>
+    <desc>A road to emotional healing opens up for an antisocial children's book author and an employee in a psychiatric hospital.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014222000 +0000" stop="20251014230000 +0000" display-name="TFC North America">
+    <title lang="zh">Sins Of The Father</title>
+    <desc>Samuel pays the price for the sins of his father as his life gets shattered amid a nationwide investment scam.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014230000 +0000" stop="20251014233500 +0000" display-name="TFC North America">
+    <title lang="zh">Ang Sa Iyo Ay Akin</title>
+    <desc>Marissa agrees to take the blame for the crime committed by Ellice but is betrayed by the latter's father, who promised to get her out. Angry, Marissa vows to make Ellice suffer the same way she did.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014233500 +0000" stop="20251014235000 +0000" display-name="TFC North America">
+    <title lang="zh">TV Patrol Express</title>
+    <desc>The anchors deliver the latest news and updates happening across the Philippines.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251014235000 +0000" stop="20251015000000 +0000" display-name="TFC North America">
+    <title lang="zh">Goin' Bulilit</title>
+    <desc>A sketch comedy featuring a roster of child actors and actresses portraying adult roles in various comedic situations.</desc>
+    <date>2025-10-14</date>
+  </programme>
+  <programme channel="465377" start="20251015003000 +0000" stop="20251015010000 +0000" display-name="TFC North America">
+    <title lang="zh">Are You G? With MJ Felipe</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015010000 +0000" stop="20251015024000 +0000" display-name="TFC North America">
+    <title lang="zh">TV Patrol Global Edition</title>
+    <desc>ABS-CBN's flagship newscast and the country's leading news program in the past two decades, anchored by the most celebrated news team ever assembled in the history of Philippine broadcasting.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015024000 +0000" stop="20251015032000 +0000" display-name="TFC North America">
+    <title lang="zh">FPJ's Batang Quiapo</title>
+    <desc>A young man named Tanggol rises to be one of the most notorious outlaws in Quiapo, Manila. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015032000 +0000" stop="20251015040000 +0000" display-name="TFC North America">
+    <title lang="zh">It's Okay to Not Be Okay</title>
+    <desc>A road to emotional healing opens up for an antisocial children's book author and an employee in a psychiatric hospital.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015040000 +0000" stop="20251015044000 +0000" display-name="TFC North America">
+    <title lang="zh">Sins Of The Father</title>
+    <desc>Samuel pays the price for the sins of his father as his life gets shattered amid a nationwide investment scam.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015044000 +0000" stop="20251015064000 +0000" display-name="TFC North America">
+    <title lang="zh">It's Showtime</title>
+    <desc>Pinoys strut and display their unique talents for the world.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015064000 +0000" stop="20251015070000 +0000" display-name="TFC North America">
+    <title lang="zh">Can't Buy Me Love</title>
+    <desc>Bingo gets caught up in a deadly conspiracy when he rescues Caroline, a rich socialite, from drowning. He must pay the price to secure her freedom.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015070000 +0000" stop="20251015080000 +0000" display-name="TFC North America">
+    <title lang="zh">Direct Response</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015080000 +0000" stop="20251015100000 +0000" display-name="TFC North America">
+    <title lang="zh">Wansapanataym</title>
+    <desc>Ana (Shaina Magdayao), an orphaned girl, searches for her long-lost father with her guardian angel's help.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015100000 +0000" stop="20251015103000 +0000" display-name="TFC North America">
+    <title lang="zh">Huwag Kang Mangamba</title>
+    <desc>Two teenagers mysteriously come back to life and get roped into a plan to restore faith in a small town.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015103000 +0000" stop="20251015110000 +0000" display-name="TFC North America">
+    <title lang="zh">Can't Buy Me Love</title>
+    <desc>Bingo gets caught up in a deadly conspiracy when he rescues Caroline, a rich socialite, from drowning. He must pay the price to secure her freedom.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015110000 +0000" stop="20251015123000 +0000" display-name="TFC North America">
+    <title lang="zh">Gising Pilipinas</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015123000 +0000" stop="20251015133000 +0000" display-name="TFC North America">
+    <title lang="zh">Kabayan</title>
+    <desc>Host Noli De Castro tackles current social issues in the country by providing commentary and conducting interviews with different personalities.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015133000 +0000" stop="20251015150000 +0000" display-name="TFC North America">
+    <title lang="zh">TV Patrol</title>
+    <desc>ABS-CBN's flagship newscast and the country's leading news program in the past two decades, anchored by the most celebrated news team ever assembled in the history of Philippine broadcasting.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015150000 +0000" stop="20251015153000 +0000" display-name="TFC North America">
+    <title lang="zh">Kapamilya Daily Mass</title>
+    <desc>The priest delivers messages from the Bible as he celebrates the Holy Eucharist with devoted Catholics from across the country.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015153000 +0000" stop="20251015160500 +0000" display-name="TFC North America">
+    <title lang="zh">TFC Kids' Zone</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015160500 +0000" stop="20251015165000 +0000" display-name="TFC North America">
+    <title lang="zh">Huwag Kang Mangamba</title>
+    <desc>Two teenagers mysteriously come back to life and get roped into a plan to restore faith in a small town.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015165000 +0000" stop="20251015173000 +0000" display-name="TFC North America">
+    <title lang="zh">Ang Sa Iyo Ay Akin</title>
+    <desc>Marissa agrees to take the blame for the crime committed by Ellice but is betrayed by the latter's father, who promised to get her out. Angry, Marissa vows to make Ellice suffer the same way she did.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015173000 +0000" stop="20251015183000 +0000" display-name="TFC North America">
+    <title lang="zh">Magandang Buhay</title>
+    <desc>A lifestyle-morning talk show hosted by Karla Estrada, Jolina Magdangal and Melai Cantiveros.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015183000 +0000" stop="20251015190000 +0000" display-name="TFC North America">
+    <title lang="zh">Are You G? With MJ Felipe</title>
+    <desc/>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015190000 +0000" stop="20251015210000 +0000" display-name="TFC North America">
+    <title lang="zh">It's Showtime</title>
+    <desc>Pinoys strut and display their unique talents for the world.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015210000 +0000" stop="20251015214000 +0000" display-name="TFC North America">
+    <title lang="zh">FPJ's Batang Quiapo</title>
+    <desc>A young man named Tanggol rises to be one of the most notorious outlaws in Quiapo, Manila. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015214000 +0000" stop="20251015222000 +0000" display-name="TFC North America">
+    <title lang="zh">It's Okay to Not Be Okay</title>
+    <desc>A road to emotional healing opens up for an antisocial children's book author and an employee in a psychiatric hospital.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015222000 +0000" stop="20251015230000 +0000" display-name="TFC North America">
+    <title lang="zh">Sins Of The Father</title>
+    <desc>Samuel pays the price for the sins of his father as his life gets shattered amid a nationwide investment scam.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015230000 +0000" stop="20251015233500 +0000" display-name="TFC North America">
+    <title lang="zh">Ang Sa Iyo Ay Akin</title>
+    <desc>Marissa agrees to take the blame for the crime committed by Ellice but is betrayed by the latter's father, who promised to get her out. Angry, Marissa vows to make Ellice suffer the same way she did.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015233500 +0000" stop="20251015235000 +0000" display-name="TFC North America">
+    <title lang="zh">TV Patrol Express</title>
+    <desc>The anchors deliver the latest news and updates happening across the Philippines.</desc>
+    <date>2025-10-15</date>
+  </programme>
+  <programme channel="465377" start="20251015235000 +0000" stop="20251016000000 +0000" display-name="TFC North America">
+    <title lang="zh">Goin' Bulilit</title>
+    <desc>A sketch comedy featuring a roster of child actors and actresses portraying adult roles in various comedic situations.</desc>
+    <date>2025-10-15</date>
   </programme>
   <programme channel="464769" start="20251014001500 +0000" stop="20251014004500 +0000" display-name="GMA Pinoy TV (US)">
     <title lang="zh">Family Feud Philippines</title>
