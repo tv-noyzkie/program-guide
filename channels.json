@@ -7,6 +7,12 @@
       "logo": "https://i.imgur.com/Dcys2TG.png" 
     },
     { 
+      "id": "573024",
+      "name": "A2Z", 
+      "url": "https://epg.pw/api/epg.xml?channel_id=573024",
+      "logo": "https://i.imgur.com/q4kG5rg.png" 
+    },
+    { 
       "id": "455314",
       "name": "TFC Asia", 
       "url": "https://epg.pw/api/epg.xml?channel_id=455314",
