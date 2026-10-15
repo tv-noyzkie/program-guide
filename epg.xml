@@ -4,6 +4,10 @@
     <display-name lang="en">Kapamilya Channel</display-name>
     <icon src="https://i.imgur.com/Dcys2TG.png"/>
   </channel>
+  <channel id="573024">
+    <display-name lang="en">A2Z</display-name>
+    <icon src="https://i.imgur.com/q4kG5rg.png"/>
+  </channel>
   <channel id="455314">
     <display-name lang="en">TFC Asia</display-name>
     <icon src="https://i.imgur.com/mhYrit2.png"/>
@@ -362,6 +366,211 @@
   <channel id="97078">
     <display-name lang="en">LIVE 2</display-name>
   </channel>
+  <programme channel="573024" start="20261015000000 +0000" stop="20261015003000 +0000" display-name="A2Z">
+    <title lang="zh">Superbook</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015003000 +0000" stop="20261015013000 +0000" display-name="A2Z">
+    <title lang="zh">Magandang Buhay</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015013000 +0000" stop="20261015020000 +0000" display-name="A2Z">
+    <title lang="zh">Oh My Gan</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015020000 +0000" stop="20261015040000 +0000" display-name="A2Z">
+    <title lang="zh">Blockbusters Sa Umaga</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015040000 +0000" stop="20261015063000 +0000" display-name="A2Z">
+    <title lang="zh">Its Showtime</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015063000 +0000" stop="20261015071500 +0000" display-name="A2Z">
+    <title lang="zh">What Lies Beneath</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015071500 +0000" stop="20261015080000 +0000" display-name="A2Z">
+    <title lang="zh">Cant Buy Me Love</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015080000 +0000" stop="20261015093000 +0000" display-name="A2Z">
+    <title lang="zh">Afternoon Zinema</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015093000 +0000" stop="20261015094500 +0000" display-name="A2Z">
+    <title lang="zh">TV Patrol Express</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015094500 +0000" stop="20261015103000 +0000" display-name="A2Z">
+    <title lang="zh">Minute To Win It Replays</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015103000 +0000" stop="20261015120000 +0000" display-name="A2Z">
+    <title lang="zh">TV Patrol</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015120000 +0000" stop="20261015124500 +0000" display-name="A2Z">
+    <title lang="zh">Sigabo</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015124500 +0000" stop="20261015133000 +0000" display-name="A2Z">
+    <title lang="zh">Someone Someday</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015133000 +0000" stop="20261015141500 +0000" display-name="A2Z">
+    <title lang="zh">The Loyalty Game</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015141500 +0000" stop="20261015144500 +0000" display-name="A2Z">
+    <title lang="zh">Falling Into Your Smile</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015144500 +0000" stop="20261015151500 +0000" display-name="A2Z">
+    <title lang="zh">Balitang A2Z</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015151500 +0000" stop="20261015210000 +0000" display-name="A2Z">
+    <title lang="zh">Bro Eddie Classics</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015210000 +0000" stop="20261015220000 +0000" display-name="A2Z">
+    <title lang="zh">Shuffle</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015220000 +0000" stop="20261015230000 +0000" display-name="A2Z">
+    <title lang="zh">Bro Eddie Classics</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015230000 +0000" stop="20261015233000 +0000" display-name="A2Z">
+    <title lang="zh">School Anywhere</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261015233000 +0000" stop="20261016000000 +0000" display-name="A2Z">
+    <title lang="zh">The Flying House</title>
+    <desc/>
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="573024" start="20261016000000 +0000" stop="20261016003000 +0000" display-name="A2Z">
+    <title lang="zh">Superbook</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016003000 +0000" stop="20261016013000 +0000" display-name="A2Z">
+    <title lang="zh">Magandang Buhay</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016013000 +0000" stop="20261016020000 +0000" display-name="A2Z">
+    <title lang="zh">Oh My Gan</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016020000 +0000" stop="20261016040000 +0000" display-name="A2Z">
+    <title lang="zh">Blockbusters Sa Umaga</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016040000 +0000" stop="20261016063000 +0000" display-name="A2Z">
+    <title lang="zh">Its Showtime</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016063000 +0000" stop="20261016071500 +0000" display-name="A2Z">
+    <title lang="zh">What Lies Beneath</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016071500 +0000" stop="20261016080000 +0000" display-name="A2Z">
+    <title lang="zh">Cant Buy Me Love</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016080000 +0000" stop="20261016093000 +0000" display-name="A2Z">
+    <title lang="zh">Afternoon Zinema</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016093000 +0000" stop="20261016094500 +0000" display-name="A2Z">
+    <title lang="zh">TV Patrol Express</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016094500 +0000" stop="20261016103000 +0000" display-name="A2Z">
+    <title lang="zh">Minute To Win It Replays</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016103000 +0000" stop="20261016120000 +0000" display-name="A2Z">
+    <title lang="zh">TV Patrol</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016120000 +0000" stop="20261016124500 +0000" display-name="A2Z">
+    <title lang="zh">Sigabo</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016124500 +0000" stop="20261016133000 +0000" display-name="A2Z">
+    <title lang="zh">Someone Someday</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016133000 +0000" stop="20261016141500 +0000" display-name="A2Z">
+    <title lang="zh">The Loyalty Game</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016141500 +0000" stop="20261016144500 +0000" display-name="A2Z">
+    <title lang="zh">Falling Into Your Smile</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016144500 +0000" stop="20261016151500 +0000" display-name="A2Z">
+    <title lang="zh">Balitang A2Z</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016151500 +0000" stop="20261016220000 +0000" display-name="A2Z">
+    <title lang="zh">Bro Eddie Classics</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016220000 +0000" stop="20261016230000 +0000" display-name="A2Z">
+    <title lang="zh">Shuffle</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261016230000 +0000" stop="20261017000000 +0000" display-name="A2Z">
+    <title lang="zh">Jesus The Healer</title>
+    <desc/>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="573024" start="20261017000000 +0000" stop="20261018000000 +0000" display-name="A2Z">
+    <title lang="zh">Baby Einstein</title>
+    <desc/>
+    <date>2026-10-17</date>
+  </programme>
   <programme channel="455314" start="20261015000000 +0000" stop="20261015003000 +0000" display-name="TFC Asia">
     <title lang="zh">The Iron Heart</title>
     <desc/>
@@ -2279,7 +2488,7 @@
   </programme>
   <programme channel="97104" start="20261015143000 +0000" stop="20261015150000 +0000" display-name="Channel 8">
     <title>Focus - EP 29 焦点</title>
-    <desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+    <desc>As Anwar Ibrahim’s term nears its end, what do five budgets reveal about his promises and economic record? The Marcos-Duterte fallout exposes the Philippines entrenched political dynasties. Who can keep them in check, and can the cycle be broken?</desc>
     <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16824743'&amp;EntityType='LinearSchedule'&amp;EntityId='d46dbb35-ac2c-4140-9725-eb36e9d92e12'&amp;Width=1280&amp;Height=720"/>
   </programme>
   <programme channel="97104" start="20261015150000 +0000" stop="20261015160000 +0000" display-name="Channel 8">
@@ -3230,7 +3439,7 @@
   <programme channel="97098" start="20261016133000 +0000" stop="20261016140000 +0000" display-name="Channel 5">
     <title>On The Red Dot - EP 21</title>
     <desc>As Chinese stilt walking fades from Singapore’s performing arts scene, 26-year-old Goh Jun Siang builds a troupe from scratch, inspiring a new generation to keep the centuries-old tradition alive.</desc>
-    <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16843528'&amp;EntityType='LinearSchedule'&amp;EntityId='4f365fbf-2e51-4ed6-a2d3-24381e907268'&amp;Width=1280&amp;Height=720"/>
+    <icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16980239'&amp;EntityType='LinearSchedule'&amp;EntityId='4f365fbf-2e51-4ed6-a2d3-24381e907268'&amp;Width=1280&amp;Height=720"/>
   </programme>
   <programme channel="97098" start="20261016140000 +0000" stop="20261016160000 +0000" display-name="Channel 5">
     <title>Kung Fu Games</title>
